@@ -32,7 +32,7 @@
 <!-- Responsive File -->
 <link href="assets/css/responsive.css" rel="stylesheet">
 <!-- Color File -->
-<link href="assets/css/color.css" rel="stylesheet">
+<link href="assets/css/colors.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&amp;family=Yantramanav:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
 
@@ -61,7 +61,7 @@
     </div>
 
    <?php include "header.php"; ?>
-
+ 
     <!-- Hidden Sidebar -->
     <section class="hidden-sidebar close-sidebar">
         <div class="wrapper-box">
@@ -128,8 +128,13 @@
     </div>
 
     <!-- Bnner Section -->
+<<<<<<< Updated upstream
     <section class="banner-section">
         <div class="left-panel">
+=======
+    <section class="banner-section" style="margin-top: 0px;">
+        <!--<div class="left-panel">
+>>>>>>> Stashed changes
             <div class="side-menu-nav sidemenu-nav-toggler"><span class="flaticon-interface"></span>More</div>
             <div class="option-box">
                 <div class="icon"><span class="flaticon-tracking"></span></div>
@@ -174,7 +179,7 @@
                 <div class="text-1">SHCACI</div>
                 <div class="text-2">SHCACI</div>
             </div>                
-        </div>
+        </div>-->
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->

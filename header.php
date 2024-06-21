@@ -10,7 +10,7 @@
  <!-- Main Header -->
     <header class="main-header header-style-one">
 
-        <!-- Header Top -->
+        <!-- Header Top 
         <div class="header-top">
             <div class="auto-container">
                 <div class="inner-container">
@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Header Upper -->
         <div class="header-upper">
@@ -47,7 +47,7 @@
                 <div class="inner-container">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="assets/images/klogo2.png" alt=""></a></div>
+                        <div class="logo" style="width: 240px;"><a href="index.php"><img src="assets/images/logo-headers.png" alt=""></a></div>
                     </div>
                     <div class="right-column">
                         <!--Nav Box-->
@@ -98,7 +98,7 @@
                     <div class="inner-container">
                         <!--Logo-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="assets/images/klogo2.png" alt=""></a></div>
+                            <div class="logo" style="width: 200px;"><a href="index.html"><img src="assets/images/logo-headers.png" alt=""></a></div>
                         </div>
                         <div class="right-column">
                             <!--Nav Box-->
