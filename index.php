@@ -197,7 +197,7 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
-                                <h4>SHCACI</h4>
+                                <h4>SHCACIS</h4>
                                 <h1>"Building Futures, Guided by Faith"</h1>
                                 <div class="text">SHCACI is dedicated to building bright futures for students, guided by a strong foundation in faith that prepares them to excel academically and morally in an ever-changing world.</div>
                                 <div class="link-box">
