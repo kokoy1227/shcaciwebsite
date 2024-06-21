@@ -8,7 +8,7 @@ $user = "root";
 
 $password = "";
 
-$dbname = "php-cms";
+$dbname = "shcaciwebsite";
 
 
 
