@@ -24,7 +24,7 @@
 
 <head>
 <meta charset="utf-8">
-<title><?php echo $setting['site_name']; ?> - Imports, Exports & Logistic Services</title>
+<title><?php echo $setting['site_name']; ?> Shepherd's Haven Christian Academy of Cavite, Inc.</title>
 <meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -346,43 +346,43 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title text-center">Why Choose Us</div>
-                <h2>Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI),<br>we are committed to providing a nurturing and faith-based educational environment where students can thrive. Here are key reasons to choose us:</h2>
+                <h1>Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI),</h1><br><h4>we are committed to providing a nurturing and faith-based educational environment where students can thrive. Here are key reasons to choose us:<h4/>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="icon"><span class="count">01</span><i class="flaticon-shield"></i></div>
+                        <div class="icon"><span class="count">01</span><i class="fab fa-react"></i></div>
                         <div class="content">
                             <h4>Holistic Education:</h4>
-                            <h4>We emphasize not only academic excellence but also character development, ensuring students grow intellectually, spiritually, and socially.</h4>
+                            <h6>We emphasize not only academic excellence but also character development, ensuring students grow intellectually, spiritually, and socially.</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="icon"><span class="count">02</span><i class="flaticon-delivery"></i></div>
+                        <div class="icon"><span class="count">02</span><i class="fa fa-book"></i></div> 
                         <div class="content">
                             <h4>Faith-Based Learning:</h4>
-                            <h4>Our curriculum integrates Christian values, helping students develop a strong moral foundation and a deeper understanding of their faith.</h4>
+                            <h6>Our curriculum integrates Christian values, helping students develop a strong moral foundation and a deeper understanding of their faith.</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="icon"><span class="count">03</span><i class="flaticon-24-hours"></i></div>
+                        <div class="icon"><span class="count">03</span><i class="fa fa-users"></i></div>
                         <div class="content">
                             <h4>Qualified and Caring Faculty:</h4>
-                            <h4>Our experienced teachers are dedicated to fostering a supportive and engaging learning atmosphere tailored to each student's needs.</h4>
+                            <h6>Our experienced teachers are dedicated to fostering a supportive and engaging learning atmosphere tailored to each student's needs.</h6>
                             
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="icon"><span class="count">04</span><i class="flaticon-24-hours"></i></div>
+                        <div class="icon"><span class="count">04</span><i class="fas fa-pray"></i></div> 
                         <div class="content">
                            <h4>Community and Family Engagement:</h4>
-                           <h4>We encourage active involvement of families in the educational process, promoting a strong sense of community and partnership.</h4>
+                           <h6>We encourage active involvement of families in the educational process, promoting a strong sense of community and partnership.</h6>
                            
                         </div>
                     </div>
@@ -439,7 +439,7 @@
 
     <!-- Industries Covered -->
     <section class="industries-covered" style="background-image: url(assets/images/background/bg-3.jpg);">
-        <div class="background-text" data-parallax='{"x": 100}'>industries</div>
+        <div class="background-text" data-parallax='{"x": 100}'>Shepherd's Haven Christian Academy of Cavite (SHCACI), Inc.</div>
         <div class="outer-box side-container">
             <div class="outer-container">
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "center": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "1" } , "992":{ "items" : "1" }, "1200":{ "items" : "1" }}}'>
@@ -672,6 +672,7 @@
             </div>
         </div>
     </section>
+
 
     <!-- News Section -->
     <section class="news-section">

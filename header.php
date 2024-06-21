@@ -16,7 +16,7 @@
                 <div class="inner-container">
                     <div class="left-column">
                         <ul class="social-icon">
-                            <li><a target="blank" href="<?php echo $setting['facebook']; ?>"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a target="blank" href="<?php echo $setting['facebook']; ?>"><i class="fab fa-react"></i></i></a></li>
                             <li><a target="blank" href="<?php echo $setting['twitter']; ?>"><i class="fab fa-twitter"></i></a></li>
                             <li><a target="blank" href="<?php echo $setting['instagram']; ?>"><i class="fab fa-instagram"></i></a></li>
                             <li><a target="blank" href="<?php echo $setting['youtube']; ?>"><i class="fab fa-youtube"></i></a></li>
