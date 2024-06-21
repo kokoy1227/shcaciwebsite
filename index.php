@@ -178,13 +178,13 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/1.1.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
-                                <h4>Competitve rates </h4>
-                                <h1>safety & reliable on-time</h1>
-                                <div class="text">We denounce with righteous indignation & dislike beguiled</div>
+                                <h4>SHCACI</h4>
+                                <h1>"Nurturing Hearts, Empowering Minds"</h1>
+                                <div class="text">At SHCACI, we focus on nurturing students' hearts with Christian values while empowering their minds through rigorous academics and critical thinking skills.</div>
                                 <div class="link-box">
                                     <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
@@ -193,13 +193,17 @@
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-2.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/2.2.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
-                                <h4>Your logistic partner </h4>
-                                <h1>make easy distribution</h1>
-                                <div class="text">To take a trivial example which of us ever undertakes laborious.</div>
+<<<<<<< HEAD
+                                <h4>SHCACI</h4>
+=======
+                                <h4>SHCACIS</h4>
+>>>>>>> 9ef42e84e056d7de681c58bcc776991c21cb3832
+                                <h1>"Building Futures, Guided by Faith"</h1>
+                                <div class="text">SHCACI is dedicated to building bright futures for students, guided by a strong foundation in faith that prepares them to excel academically and morally in an ever-changing world.</div>
                                 <div class="link-box">
                                     <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
@@ -208,13 +212,13 @@
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-3.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/3.3.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
-                                <h4>It’s possible here</h4>
-                                <h1>Shipments delivered on time</h1>
-                                <div class="text">Right to find fault with a man who chooses to enjoy a pleasure.</div>
+                                <h4>SHCACI</h4>
+                                <h1>"Excellence in Education, Rooted in Christian Values"</h1>
+                                <div class="text">We strive for excellence in education at SHCACI, grounded in Christian values that shape our students into responsible, compassionate individuals ready to make a positive impact in society.</div>
                                 <div class="link-box">
                                     <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
