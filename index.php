@@ -129,7 +129,7 @@
 
     <!-- Bnner Section -->
     <section class="banner-section">
-        <!--<div class="left-panel">
+        <div class="left-panel">
             <div class="side-menu-nav sidemenu-nav-toggler"><span class="flaticon-interface"></span>More</div>
             <div class="option-box">
                 <div class="icon"><span class="flaticon-tracking"></span></div>
@@ -168,7 +168,7 @@
                     <h4>Get A <br>Quote</h4>
                 </a>
             </div>
-        </div>-->
+        </div>
         <div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">transida</div>
@@ -345,15 +345,15 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title text-center">Why Choose Us</div>
-                <h2>We Aim to Contribute Well to <br>  Your Company</h2>
+                <h2>Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI),<br>we are committed to providing a nurturing and faith-based educational environment where students can thrive. Here are key reasons to choose us:</h2>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><span class="count">01</span><i class="flaticon-shield"></i></div>
                         <div class="content">
-                            <h4>Trasparent Pricing</h4>
-                            
+                            <h4>Holistic Education:</h4>
+                            <h4>We emphasize not only academic excellence but also character development, ensuring students grow intellectually, spiritually, and socially.</h4>
                         </div>
                     </div>
                 </div>
@@ -361,8 +361,8 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><span class="count">02</span><i class="flaticon-delivery"></i></div>
                         <div class="content">
-                            <h4>On - Time Delivery</h4>
-                            
+                            <h4>Faith-Based Learning:</h4>
+                            <h4>Our curriculum integrates Christian values, helping students develop a strong moral foundation and a deeper understanding of their faith.</h4>
                         </div>
                     </div>
                 </div>
@@ -370,7 +370,8 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><span class="count">03</span><i class="flaticon-24-hours"></i></div>
                         <div class="content">
-                            <h4>Real Time Tracking</h4>
+                            <h4>Qualified and Caring Faculty:</h4>
+                            <h4>Our experienced teachers are dedicated to fostering a supportive and engaging learning atmosphere tailored to each student's needs.</h4>
                             
                         </div>
                     </div>
@@ -379,7 +380,8 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><span class="count">04</span><i class="flaticon-24-hours"></i></div>
                         <div class="content">
-                            <h4>24/7 Online Support</h4>
+                           <h4>Community and Family Engagement:</h4>
+                           <h4>We encourage active involvement of families in the educational process, promoting a strong sense of community and partnership.</h4>
                            
                         </div>
                     </div>
@@ -435,7 +437,7 @@
     </section>
 
     <!-- Industries Covered -->
-    <!--<section class="industries-covered" style="background-image: url(assets/images/background/bg-3.jpg);">
+    <section class="industries-covered" style="background-image: url(assets/images/background/bg-3.jpg);">
         <div class="background-text" data-parallax='{"x": 100}'>industries</div>
         <div class="outer-box side-container">
             <div class="outer-container">
@@ -485,10 +487,10 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Pricing Section -->
-    <!--<section class="pricing-section">
+    <section class="pricing-section">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title text-center">Pricing & Plans</div>
@@ -548,7 +550,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Facts Section -->
     <section class="facts-section">
@@ -671,7 +673,7 @@
     </section>
 
     <!-- News Section -->
-    <!--<section class="news-section">
+    <section class="news-section">
         <div class="auto-container">
             <div class="sec-top row m-0 justify-content-md-between align-items-center">
                 <div class="sec-title">
@@ -710,17 +712,17 @@
         <?php } ?>
             </div>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Map Section -->
-  <!--  <section class="map-section">
+    <section class="map-section">
         <div class="contact-map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55945.16225505631!2d-73.90847969206546!3d40.66490264739892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1601263396347!5m2!1sen!2sbd" width="600" height="490" style="border:0; width: 100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
-    </section> -->
+    </section> 
 
     <!-- Branches Section -->
-   <!-- <section class="branches-section">
+    <section class="branches-section">
         <div class="auto-container">
             <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "4" }}}'>
                 <div class="single-info">
@@ -789,7 +791,7 @@
                 </div>
             </div>
         </div>        
-    </section> -->
+    </section> 
 
 
 
