@@ -12,7 +12,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #293e9c;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -12028,7 +12028,7 @@ body.sidebar-collapse:not(.sidebar-mini-md):not(.sidebar-mini) .main-header::bef
 
 .sidebar-dark-lightblue .nav-sidebar > .nav-item > .nav-link.active,
 .sidebar-light-lightblue .nav-sidebar > .nav-item > .nav-link.active {
-  background-color: #3c8dbc;
+  background-color: #293e9c;
   color: #ffffff;
 }
 
