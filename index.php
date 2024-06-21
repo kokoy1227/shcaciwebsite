@@ -171,8 +171,8 @@
         </div>
         <div class="background-text">
             <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
+                <div class="text-1">SHCACI</div>
+                <div class="text-2">SHCACI</div>
             </div>                
         </div>
         <div class="swiper-container banner-slider">
@@ -292,9 +292,10 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="sec-title">
-                        <div class="sub-title">Company</div>
-                        <h2>Providing<br> Reliable Services <br> Since 1998</h2>
-                        <div class="text">We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business. </div>
+                        <div class="sub-title">SHCACI</div>
+                        <h2>Providing<br>Quality Education <br> Since 2013</h2>
+                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.
+ </div>
                         <a href="about.php" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                     </div>
                     <div class="row">
@@ -302,7 +303,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="icon"><span class="flaticon-package"></span></div>
                                 <div class="content">
-                                    <span><h4>Import & Export</h4></span>
+                                    <span><h4>Holistic Education</h4></span>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +311,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="icon"><span class="flaticon-goal"></span></div>
                                 <div class="content">
-                                    <span><h4>Expand Business</h4></span>
+                                    <span><h4>Faith-Based Learning</h4></span>
                                     
                                 </div>
                             </div>
@@ -319,7 +320,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1700ms">
                                 <div class="icon"><span class="flaticon-binoculars"></span></div>
                                 <div class="content">
-                                    <span><h4>Experts Assitance</h4></span>
+                                    <span><h4>Qualified and Caring Faculty</h4></span>
                                 </div>
                             </div>
                         </div>
@@ -327,14 +328,14 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1900ms">
                                 <div class="icon"><span class="flaticon-gold"></span></div>
                                 <div class="content">
-                                    <span><h4>Home Delivery</h4></span>
+                                    <span><h4>Community and Family Engagement</h4></span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/image-1.jpg" alt=""></div>
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC1685.JPG" alt=""></div>
                 </div>
             </div>
         </div>
