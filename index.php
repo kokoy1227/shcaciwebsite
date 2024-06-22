@@ -24,7 +24,7 @@
 
 <head>
 <meta charset="utf-8">
-<title><?php echo $setting['site_name']; ?> Shepherd's Haven Christian Academy of Cavite, Inc.</title>
+<title><?php echo $setting['site_name']; ?></title>
 <meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@
 <div class="page-wrapper">
     <!-- Preloader -->
     <div class="loader-wrap">
-        <div class="preloader"><div class="preloader-close">Preloader Close</div></div>
+        <!--<div class="preloader"><div class="preloader-close">Preloader Close</div></div>-->
         <div class="layer layer-one"><span class="overlay"></span></div>
         <div class="layer layer-two"><span class="overlay"></span></div>        
         <div class="layer layer-three"><span class="overlay"></span></div>        
@@ -62,7 +62,7 @@
 
    <?php include "header.php"; ?>
 
-    <!-- Hidden Sidebar -->
+    <!-- Hidden Sidebar 
     <section class="hidden-sidebar close-sidebar">
         <div class="wrapper-box">
             <div class="content-wrapper">
@@ -70,8 +70,8 @@
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
                     <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>
-                <!-- PDF Widget -->
+                </div>-->
+                <!-- PDF Widget 
                 <div class="pdf-widget sidebar-widget">
                     <div class="row">
                         <div class="col-sm-6 column">
@@ -87,8 +87,8 @@
                             </div>
                         </div>
                     </div>                            
-                </div>
-                <!-- Contact Widget -->
+                </div>-->
+                <!-- Contact Widget 
                 <div class="contact-widget">
                     <div class="icon-box">
                         <div class="icon"><span class="flaticon-cursor"></span></div>
@@ -102,14 +102,14 @@
                         <div class="icon"><span class="flaticon-mail"></span></div>
                         <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
                     </div>
-                </div>
-                <!-- Link Btn -->
+                </div>-->
+                <!-- Link Btn 
                 <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
             </div>
         </div>
-    </section>
+    </section>-->
     
-    <!--Search Popup-->
+    <!--Search Popup
     <div id="search-popup" class="search-popup">
         <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
         <div class="popup-inner">
@@ -125,11 +125,11 @@
                 </form>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <!-- Bnner Section -->
     <section class="banner-section">
-        <div class="left-panel">
+       <!-- <div class="left-panel">
             <div class="side-menu-nav sidemenu-nav-toggler"><span class="flaticon-interface"></span>More</div>
             <div class="option-box">
                 <div class="icon"><span class="flaticon-tracking"></span></div>
@@ -168,7 +168,7 @@
                     <h4>Get A <br>Quote</h4>
                 </a>
             </div>
-        </div>
+        </div>-->
         <div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">SHCACI</div>
@@ -236,8 +236,8 @@
          <section class="services-section style-two ">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title">Main Services</div>
-                <h2>Moving Your Products Across <br> All Borders</h2>
+                <div class="sub-title">School Events</div>
+                <h2>Unite, Inspire, Achieve</h2>
             </div>
    
         </div>
