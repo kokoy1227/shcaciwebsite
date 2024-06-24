@@ -46,7 +46,7 @@
   
     <!-- End Main Header -->
 <?php include "header.php"; ?>
-    <!-- Hidden Sidebar -->
+    <!-- Hidden Sidebar 
 
     <section class="hidden-sidebar close-sidebar">
         <div class="wrapper-box">
@@ -55,8 +55,8 @@
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
                     <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>
-                <!-- PDF Widget -->
+                </div>-->
+                <!-- PDF Widget 
                 <div class="pdf-widget sidebar-widget">
                     <div class="row">
                         <div class="col-sm-6 column">
@@ -72,16 +72,16 @@
                             </div>
                         </div>
                     </div>                            
-                </div>
+                </div>-->
                 <!-- Contact Widget -->
            
-                <!-- Link Btn -->
+                <!-- Link Btn 
                 <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
             </div>
         </div>
-    </section>
+    </section>-->
     
-    <!--Search Popup-->
+    <!--Search Popup
     <div id="search-popup" class="search-popup">
         <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
         <div class="popup-inner">
@@ -97,7 +97,7 @@
                 </form>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
@@ -111,7 +111,7 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>About Company</h1>
+                        <h1>About Us</h1>
                     </div>
                    <!--<ul class="bread-crumb style-two">
                         <li class="active"><a href="about.php">About Company <i class="flaticon-up-arrow"></i></a></li>
@@ -131,26 +131,26 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="sec-title mb-30">
-                            <div class="sub-title">Company</div>
-                            <h2>Provide a <br> Reliable Services <br> Since 1998</h2>
+                            <div class="sub-title">SHCACI</div>
+                            <h2>Provide a <br> Christian Quality Education <br> Since 2013</h2>
                         </div>
                         <div class="experience-year">
                             <div class="icon"><i class="flaticon-package-1"></i></div>
                             <div class="content">
-                                <h3>22 <span>+ Years</span></h3>
-                                <h5>Experience In Logistics</h5>
+                                <h3>11 <span>+ Years</span></h3>
+                                <h5>Experience In Education</h5>
                             </div>
                             
                         </div>
                         
                     </div>
                     <div class="col-lg-8">
-                        <div class="image mb-30"><img src="assets/images/resource/image-34.jpg" alt=""></div>
+                        <div class="image mb-30"><img src="assets/images/faculty.jpg" alt=""></div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="overview">
+        <!--<div class="overview">
             <div class="auto-container">
                 <div class="wrapper-box">
                     <h2>Global Digital System Corporation has been operating in the USA now, for over 22 years and are part <br>  of a reliable, global integrated network.</h2>
@@ -161,9 +161,9 @@
                                 <p>Global Digital System Corporation has been the premiere agency to assist corporations with their global sales, resource, logistic, and import & export needs. Alongside our highly qualified workforce, we believe our track record and amassed relationships not only from our current clientele base, a growing network of over 3000 members, but also our experience as owned by the China, India and USA could be beneficial to any business with interest to expand.</p>
                             </div>
                             <div class="author-info wow fadeInUp" data-wow-duration="1500ms">
-                                <!--<div class="video-btn">
+                                <div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i></a>
-                                </div>-->
+                                </div>
                                 <div class="signature"><img src="assets/images/sign.PNG" alt=""></div>
                                 <div>
                                     <div class="author-title">Abhishek Jain </div>
@@ -172,8 +172,8 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="row m-10">
-                                <!--Column-->
+                            <div class="row m-10">-->
+                                <!--Column
                                 <div class="column counter-column col-md-3">
                                     <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                         <div class="content">
@@ -184,8 +184,8 @@
                                             <h5>Total</h5>
                                         </div>
                                     </div>
-                                </div>
-                                <!--Column-->
+                                </div>-->
+                                <!--Column
                                 <div class="column counter-column col-md-3">
                                     <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                         <div class="content">
@@ -196,8 +196,8 @@
                                             <div class="icon"><span class="flaticon-airplane"></span></div>
                                         </div>
                                     </div>
-                                </div>
-                                <!--Column-->
+                                </div>-->
+                                <!--Column
                                 <div class="column counter-column col-md-3">
                                     <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                         <div class="content">
@@ -208,8 +208,8 @@
                                             <h5>Ocean</h5>
                                         </div>
                                     </div>
-                                </div>
-                                <!--Column-->
+                                </div>-->
+                                <!--Column
                                 <div class="column counter-column col-md-3">
                                     <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                         <div class="content">
@@ -220,7 +220,7 @@
                                             <div class="icon"><span class="flaticon-box-1"></span></div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
@@ -282,8 +282,8 @@
                     <div class="image"><img src="assets/images/resource/image-35.jpg" alt=""></div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="content">  
-                        <div class="badge"><img src="assets/images/resource/badge-3.png" alt=""></div>
+                    <div class="content" style="height: 100%; padding-bottom: 0px; margin-bottom: -10px;">  
+                        <div class="badge"><img src="assets/images/shcaci-logo.png" alt="" style="width: 50%; margin-left: -187px; margin-top: -30px;"></div>
                         <!-- Tab panes -->
                         <div class="tab-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                             <div class="tab-pane fadeInUp animated active" id="tab-one" role="tabpanel" aria-labelledby="tab-one">
@@ -293,9 +293,7 @@
                                         <h2>Mission Statement</h2>
                                     </div>
                                     <div class="text"><ul>
-                                        <li>To equip our people to be globally competitive.</li>
-                                        <li>To continually improve our business processes.</li>
-                                        <li>To contribute to the growth of society as we grow the company’s business.</li>
+                                        <li>In Pursuit Of Excellence In Cultivating The Fear Of The Lord In The Life Of The Children To Become Christ-Abiding Leaders With Balanced Learning, Global Competitiveness And Wisdom In Daily Living Geared In The Family, Church, School, And Country As Guarded By God’s Biblical Principles.</li>
                                     </ul></div>
                                 </div>
                             </div>
@@ -305,21 +303,30 @@
                                         <div class="sub-title">Statements</div>
                                         <h2>Vision Statement</h2>
                                     </div>
-                                    <div class="text">To be globally-recognized Logistic company that leads by global export & import sector and providing a harmonious and motivating workplace that will attract, develop, and keep the right people.</div>
+                                    <div class="text">To Be A Nurturing Christian School That Provides Quality Christian Education To Our Young Future Leaders.</div>
                                 </div>
                             </div>
                             <div class="tab-pane fadeInUp animated" id="tab-three" role="tabpanel" aria-labelledby="tab-three">
                                 <div class="text-block">
                                     <div class="sec-title mb-30">
                                         <div class="sub-title">Statements</div>
-                                        <h2>Company Value</h2>
+                                        <h2>As A Filipino</h2>
                                     </div>
-                                    <div class="text">Dedicated to understanding customer expectations, identifying & developing opportunities that enhance customer supply chain strategies. Our operating philosophy is founded on maintaining the highest level of quality service.</div>
+                                    <div class="text">Shepherd’s Haven Christian Academy Of Cavite (SHCACI), Inc. Instills In The Heart, Mind, And Soul Of The Child The Love And Fear Of The Lord, The Love Of Country, A Sense Of Social Responsibility Toward Human And Divine Accountability And Impartiality In Dealing With Others. To Encourage Thrusts Toward Global Competitiveness With In-Depth Commitment To Richly Uphold Filipino Culture And Heritage.</div>
+                                </div>
+                            </div>
+                        <div class="tab-pane fadeInUp animated" id="tab-four" role="tabpanel" aria-labelledby="tab-four">
+                                <div class="text-block">
+                                    <div class="sec-title mb-30">
+                                        <div class="sub-title">Statements</div>
+                                        <h2>As A Center for Learning</h2>
+                                    </div>
+                                    <div class="text">Shepherd’s Haven Christian Academy Of Cavite (SHCACI), Inc. Provides An Adequate, Balanced, And Guaranteed Good Quality Christian Education To Discover, Develop, And Dedicate The Learner’s Fullest Potentials For Maximum And Functional Application Of Intellectual Pursuits In The Service Of Mankind And For The Glory Of God. Providing Them Avenues To Actively Leash Out Their Potentials, Talents And Gifts Which Enables Them To Apply The Pillars Of The Child’s Life-Long Learning Experiences To Face Diverse Challenges With Great Assurance Of Success.</div>
                                 </div>
                             </div>
                         </div>
-                        <ul class="nav nav-tabs tab-btn-style-one" role="tablist">
-                            <li class="nav-item">
+                        <ul class="nav nav-tabs tab-btn-style-one" role="tablist" style="width: 150%;">
+                            <li class="nav-item"    >
                                 <a class="nav-link active" id="tab-one-area" data-toggle="tab" href="#tab-one" role="tab" aria-controls="tab-one" aria-selected="true">
                                     <h4><i class="flaticon-up-arrow"></i>Mission</h4>
                                 </a>
@@ -331,7 +338,12 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" id="tab-three-area" data-toggle="tab" href="#tab-three" role="tab" aria-controls="tab-three" aria-selected="false">
-                                    <h4><i class="flaticon-up-arrow"></i>Value</h4>
+                                    <h4><i class="flaticon-up-arrow"></i>As A Filipino</h4>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab-four-area" data-toggle="tab" href="#tab-four" role="tab" aria-controls="tab-four" aria-selected="false">
+                                    <h4><i class="flaticon-up-arrow"></i>As A Center for Learning</h4>
                                 </a>
                             </li>
                         </ul>                        

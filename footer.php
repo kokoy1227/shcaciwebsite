@@ -6,7 +6,7 @@
     $setting  = mysqli_fetch_array($settings);
 ?>
 
-    <!-- Newsletter -->
+    <!-- Newsletter 
     <section class="newsletter-section style-two">
         <div class="auto-container">
             <div class="row">
@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>        
-    </section>
+    </section>-->
 <!--Main Footer-->
     <footer class="main-footer">
         <div class="upper-box">
@@ -35,7 +35,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="widget contact-widget style-two">
-                            <h4>Do You Have Any Question? Please <br> Contact Our Team</h4>
+                            <h4>Do You Have Any Question? Please <br> Contact Our School</h4>
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="wrapper-box">
@@ -60,7 +60,7 @@
                                         <div class="icon"><span class="flaticon-mail"></span></div>
                                         <div>
                                             <div class="text"><strong>Mon - Friday</strong>08.00 am to 9.00pm</div>
-                                            <div class="text"><strong>Saturday</strong>10.00 am to 4.00pm</div>
+                                            <div class="text"><span>Saturday-Closed</span></div>
                                             <div class="text"><span>Sunday-Closed</span></div>
                                         </div>                                    
                                     </div>
@@ -75,9 +75,9 @@
                                     <h4 class="widget_title">Useful Links</h4>
                                     <div class="widget-content">
                                         <ul class="list">
-                                            <li><a href="about.php">About Company</a></li>
+                                            <li><a href="about.php">About SHCACI</a></li>
                                             <li><a href="contact.php">Get In Touch</a></li>
-                                           <li><a href="service.php">Our Services</a></li>
+                                           <li><a href="service.php">School Activities</a></li>
                                             <li><a href="blog.php">Blogs & News</a></li>
                                             <li><a href="privacy.php">Privacy Policies</a></li>
                                             <li><a href="terms.php">Terms & Conditions</a></li>

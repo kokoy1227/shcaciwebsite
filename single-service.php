@@ -143,7 +143,7 @@
                   
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="service.php">Activities</a></li>
                         <li><?php echo $fetch['title']; ?></li>
                     </ul>
                 </div>                    
@@ -161,19 +161,11 @@
                             <div class="image mb-5"><img src="admin/images/services/<?php echo $fetch['img'];  ?>" alt=""></div>
                             <div class="lower-content">
                                 <div class="top-content">
-                                    
-                                    
                                     <h3><?php echo $fetch['title'];  ?></h3>
-                                </div>                                
-                             
-                                
-                               
+                                </div>    
                                 <div class="text mb-5">
                                     <p><?php echo $fetch['descrip'];  ?></p>
-                                    
                                 </div>
-                        
-                        
                             </div>
                         </div>
                     </div>
@@ -220,7 +212,7 @@
                         </div> -->
 
                 </div>
-                <aside class="col-lg-4 sidebar">
+                <!--<aside class="col-lg-4 sidebar">
                     <div class="blog-sidebar style-two">
                       
                         <div class="widget widget_categories">
@@ -235,9 +227,9 @@
                                  <?php  } ?>
                                 </ul>
                             </div>
-                        </div>
+                        </div>-->
                   
-                        <!-- Tag-cloud Widget -->
+                        <!-- Tag-cloud Widget 
                         <div class="widget tag-cloud-widget">
                             <h4 class="widget_title">Tag Cloud</h4>
                             <ul class="clearfix">
@@ -252,11 +244,11 @@
                                 <li><a href="#">Transportation</a></li>
                                 <li><a href="#">Warehouse</a></li>
                             </ul>
-                        </div>
-                        <!-- Advertisement Widget -->
+                        </div>-->
+                        <!-- Advertisement Widget 
                    
                     </div>
-                </aside>
+                </aside>-->
             </div>
         </div>
     </section>

@@ -186,7 +186,7 @@
                                 <h1>"Nurturing Hearts, Empowering Minds"</h1>
                                 <div class="text">At SHCACI, we focus on nurturing students' hearts with Christian values while empowering their minds through rigorous academics and critical thinking skills.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="about.php" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +201,7 @@
                                 <h1>"Building Futures, Guided by Faith"</h1>
                                 <div class="text">SHCACI is dedicated to building bright futures for students, guided by a strong foundation in faith that prepares them to excel academically and morally in an ever-changing world.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="about.php" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>                               
                         </div>
@@ -216,7 +216,7 @@
                                 <h1>"Excellence in Education, Rooted in Christian Values"</h1>
                                 <div class="text">We strive for excellence in education at SHCACI, grounded in Christian values that shape our students into responsible, compassionate individuals ready to make a positive impact in society.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="about.php" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>                       
                         </div>
@@ -236,7 +236,7 @@
          <section class="services-section style-two ">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title">School Events</div>
+                <div class="sub-title">School Activities</div>
                 <h2>Unite, Inspire, Achieve</h2>
             </div>
    
@@ -719,7 +719,7 @@
     <!-- Map Section -->
     <section class="map-section">
         <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55945.16225505631!2d-73.90847969206546!3d40.66490264739892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1601263396347!5m2!1sen!2sbd" width="600" height="490" style="border:0; width: 100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3865.252877523651!2d120.91668471082596!3d14.354772086045035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d495f3a529f3%3A0xd77459ef6b336a31!2sShepherd&#39;s%20Haven%20Christian%20Academy%20of%20Cavite!5e0!3m2!1sen!2sph!4v1719225807599!5m2!1sen!2sph" style="border:0; height: 450; width: 100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     </section> 
 

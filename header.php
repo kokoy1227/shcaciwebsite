@@ -60,26 +60,15 @@
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation">
                                         <li class="dropdown"><a href="index.php">Home</a></li>
-                                         
-                                        
                                         <li class="dropdown"><a href="about.php">About Us</a></li>
-                                       
-                                        
-                                        <li class="dropdown"><a href="service.php">Services</a>
-                                        <li class="dropdown"><a href="faq.php">FAQ</a>
-                                       
-                                        </li>
-                                       
-                                        <li class="dropdown"><a href="blog.php">News</a>
-                                          
-                                        </li>
+                                        <li class="dropdown"><a href="service.php">Activities</a></li>
+                                        <li class="dropdown"><a href="team.html">Faculty & Staff</a></li>
+                                        <li class="dropdown"><a href="faq.php">FAQ</a></li>
+                                        <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li><a href="contact.php">Contact Us</a></li>
-                                         <div class="language">
-                                    
-                                    <form action="#" class="language-switcher">
-                                       
-                                    </form>
-                                </div>
+                                        <div class="language">
+                                            <form action="#" class="language-switcher"></form>
+                                        </div>
                                     </ul>
                                 </div>
                             </nav>
@@ -98,7 +87,7 @@
                     <div class="inner-container">
                         <!--Logo-->
                         <div class="logo-box">
-                            <div class="logo" style="width:220px;"><a href="index.html"><img src="assets/images/navbarheader.png" alt=""></a></div>
+                            <div class="logo" style="width:200px; margin-left: -100px;"><a href="index.php"><img src="assets/images/navbarheader.png" alt=""></a></div>
                         </div>
                         <div class="right-column">
                             <!--Nav Box-->
@@ -110,7 +99,7 @@
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                 </nav>
                             </div>
-                            <div class="navbar-right-info">
+                            <div class="navbar-right-info" style="margin-right: -100px;">
                                 <div class="sign-in"><a href="#"><i class="flaticon-delivery-man-1"></i>Call:  <?php  echo $setting['phone']; ?></a></div>
                                 <div class="language">
                                     <!--<span class="icon"><img src="assets/images/resource/flags/de.png" alt=""></span> -->

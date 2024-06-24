@@ -21,7 +21,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Our Services - <?php echo $setting['site_name']; ?></title>
+    <title>School Activities - <?php echo $setting['site_name']; ?></title>
     <meta name="description"
         content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
     <!-- Stylesheets -->
@@ -127,11 +127,11 @@
                 <div class="content-box">
                     <div class="content-wrapper">
                         <div class="title">
-                            <h1>Professional Services</h1>
+                            <h1>School Activities</h1>
                         </div>
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li>Services</li>
+                            <li>Activities</li>
                         </ul>
                     </div>
                 </div>
@@ -142,13 +142,13 @@
         <section class="services-section style-two ">
             <div class="auto-container">
                 <div class="sec-title text-center">
-                    <div class="sub-title">Main Services</div>
-                    <h2>Moving Your Products Across <br> All Borders</h2>
+                    <div class="sub-title">School Activities</div>
+                    <h2>Unite, Inspire, Achieve</h2>
                 </div>
 
             </div>
         </section>
-        <div class="container pb-5">
+        <!--<div class="container pb-5">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <p><b>we are one stop company to fulfill your sourcing of all your required products from China USA
@@ -158,7 +158,7 @@
                         WORLDWIDE.</p>
                 </div>
             </div>
-        </div>
+        </div>-->
 
 
 
