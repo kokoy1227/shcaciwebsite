@@ -36,8 +36,8 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&amp;family=Yantramanav:wght@300;400;500;700;900&amp;display=swap"
         rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -371,7 +371,7 @@
         </div>
     </section> -->
 
-        <!-- Servcies section two -->
+        <!-- Servcies section two 
         <section class="services-section-two style-two mx-30">
             <div class="auto-container">
                 <div class="sec-title text-center">
@@ -390,9 +390,9 @@
                                 <div class="text">There anyone who loves or pursues or desires to obtain <br> pain of
                                     itself because it is pain but because occasionally <br> circumstances occur in which
                                     toil ...</div>
-                                <!--<div class="link">
+                                <div class="link">
                                 <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>
-                            </div> -->
+                            </div> 
                             </div>
                         </div>
                     </div>
@@ -407,15 +407,15 @@
                                 <div class="text">Blinded by desire, that they cannot foresee the pain and <br>trouble
                                     that are bound to ensue; and equal blame belongs <br>those who fail in their duty
                                     shrinking ...</div>
-                                <!--<div class="link">
+                                <div class="link">
                                 <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>
-                            </div>-->
+                            </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
 
 

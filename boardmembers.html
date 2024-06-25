@@ -27,6 +27,59 @@
 
 <body>
 
+<style>
+.boardmembers{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  background-color: #f0ece5;
+  padding-top: 150px;
+  padding-bottom: 75px;
+}
+
+.boardmembers .members-container{
+  position: relative;
+  display: grid;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.boardmembers .content h3{
+  color: var(--primary-color);
+  font-size: 35px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .4rem;
+  text-align: center;
+}
+
+.boardmembers .members-container .table{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.boardmembers .members-container .table th{
+  text-align: left;
+  color: var(--primary-color);
+  font-size: 20px;
+  text-transform: uppercase;
+  height: 50px;
+}
+
+.boardmembers .members-container .table td{
+  text-align: right;
+  color: var(--black);
+  font-size: 20px;
+  text-transform: none;
+  font-weight: 600;
+  height: 50px;
+}
+</style>
+
 <div class="page-wrapper">
     <!-- Preloader -->
     <div class="loader-wrap">
@@ -253,197 +306,81 @@
                     <ul class="bread-crumb style-two">
                         <li><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
                         <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
-                        <li class="active"><a href="team.html">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="team.html">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
+                        <li class="active"><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
                     </ul>
                 </div>                    
             </div>
         </div>
     </section>
 
-    <!-- Team Section -->
-    <section class="team-section style-three">
-        <div class="auto-container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Apostol_Almar.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Principal, SO1</div>
-                            <h4>Almar Apostol</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Principal, SO1</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Apostol_Josef.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Guidance Counsellor</div>
-                            <h4>Ptr. Joselito Apostol</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Director</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Ballena.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Nursery & Kindergarten Adviser</div>
-                            <h4>Flora Ballena</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Senior vp</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Trambulo.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Nursery & Kindergarten Teacher</div>
-                            <h4>Eula Marie Trambulo</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Manager</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Agones.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Grade I & III Adviser</div>
-                            <h4>Anna Leah Agones</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">VP Finance</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Socito.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Grade 2 Adviser, SO1</div>
-                            <h4>Maricar Socito</h4>
-                            <div class="hover-content">
-                                <!--<ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>-->
-                                <div class="designation">Registrar, SMS/LIS Administrator</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Marquez.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Grade IV Adviser</div>
-                            <h4>Erika Marquez</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Registrar, SMS/LIS Administrator</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Apostol.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Grade V & VI Adviser</div>
-                            <h4>Shaira Joy Apostol</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Registrar, SMS/LIS Administrator</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 team-blcok">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Rodriguez.png" alt=""></div>
-                        <div class="content">
-                            <div class="designation">Maintenance & Liaison Officer</div>
-                            <h4>Ronilo Rodriguez, Jr.</h4>
-                            <!--<div class="hover-content">
-                                <ul class="social-icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
-                                <div class="designation">Registrar, SMS/LIS Administrator</div>
-                            </div>-->
-                        </div>
-                    </div>
-                </div>               
-            </div>
+    <section class="boardmembers" id="boardmembers" >
+        <div class="content">
+            <h3>Shepherd's Haven Christian<br>Academy of Cavite (SHCACI), Inc.</h3>
+        </div>
+        <div class="members-container">
+            <table class="table">
+                <tr>
+                    <th>President:</th>
+                    <td>Sandy L. Paguirigan</td>   
+                </tr>
+                <tr>
+                    <th>Vice President: </th>
+                    <td>Ms. Inesita L. Famoso</td>   
+                </tr>
+                <tr>
+                    <th>Secretary:</th>
+                    <td>Ms. Cristella Mar V. Pascual</td>   
+                </tr>
+                <tr>
+                    <th>Treasurer:</th>
+                    <td>Mrs. Flora T. Ballena</td>   
+                </tr>
+                <tr>
+                    <th>Asst. Treasurer:</th>
+                    <td>Mr. Rodulfo Z. Morada</td>   
+                </tr>
+                <tr>
+                    <th>Auditor:</th>
+                    <td>Mr. Jonathan A. Valles</td>   
+                </tr>
+                <tr>
+                    <th>Asst. Auditor:</th>
+                    <td>Engr. Renato D. Cayabyab</td>   
+                </tr>
+                <tr>
+                    <th>Board Members:</th>
+                    <td>Rev.Joselito D. Apostol</td>
+                </tr>
+                <tr><td></td>
+                    <td>Mrs. Almar C. Apostol</td>
+                </tr>
+                <tr><td></td>    
+                    <td>Engr. Vanessa S. Cayabyab</td>
+                </tr>
+                <tr><td></td>
+                    <td>Mrs. Eminda B. Bernaldez</td>
+                </tr>
+                <tr><td></td>
+                    <td>Mrs. Eminda B. Bernaldez</td>
+                </tr>
+                <tr><td></td>
+                    <td>Mr. Ruel D. Marimon</td>
+                </tr>
+                <tr><td></td>
+                    <td>Engr. Raylene A. Ajeno</td>
+                </tr>
+                <tr>
+                    <th>School Physician:</th>
+                    <td>Dr. Jemima D. Javier</td>   
+                </tr>
+                <tr>
+                    <th>School Dentist:</th>
+                    <td>Dr. Jonas John S. Apostol</td>   
+                </tr>
+            </table>
         </div>
     </section>
-
-    <!-- Newsletter 
-    <section class="newsletter-section style-two">
-        <div class="auto-container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <h3><span class="flaticon-email"></span> Subscribe Our Newsletter <br> & Get Updates.</h3>
-                </div>
-                <div class="col-lg-7">
-                    <div class="newsletter-form">
-                        <form class="ajax-sub-form" method="post">
-                            <div class="form-group">
-                                <i class="far fa-envelope-open"></i>
-                                <input type="email" placeholder="Enter Your Email Address..." id="subscription-email">
-                                <button type="submit" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Subscribe</span></button>
-                                <label class="subscription-label" for="subscription-email"></label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>        
-    </section>-->
 
     <!--Main Footer-->
     <footer class="main-footer">
@@ -552,7 +489,7 @@
             </div>            
         </div>
     </div>
-	
+    
 </div>
 <!--End pagewrapper-->
 
@@ -581,18 +518,4 @@
 
 </body>
 
-<!-- Mirrored from st.ourhtmldemo.com/new/Transida2/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 08:06:49 GMT -->
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
