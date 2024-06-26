@@ -393,7 +393,7 @@
 
     <!-- Work-process Section -->
     <section class="work-process-section">
-        <div class="bg" style="background-image: url(assets/images/background/bg-2.jpg);"></div>
+        <div class="bg" style="background-image: url(assets/images/background/DSC_57151.jpg);"></div>
         <div class="auto-container">
             <div class="sec-title text-center light">
                 <div class="sub-title text-center">How We Work</div>

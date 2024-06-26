@@ -100,7 +100,7 @@
     </div>-->
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/bg-26.jpg);">
         <!--<div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">transida</div>
@@ -145,7 +145,11 @@
                         
                     </div>
                     <div class="col-lg-8">
+
                         <div class="image mb-30"><img src="assets/images/faculty.jpg" alt=""></div>
+                        <div class="image mb-30"><img src="assets/images/faculty.jpg" style="width: 85%;" alt=""></div>
+                        <div class="image mb-30"><img src="assets/images/faculty.JPG" alt=""></div>
+
                     </div>
                 </div>
             </div>
@@ -380,24 +384,6 @@
 <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
 <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 <script src="assets/js/parallax-scroll.js"></script>
-
 <script src="assets/js/script.js"></script>
-
-
 </body>
-
-
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
