@@ -25,8 +25,8 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&amp;family=Yantramanav:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
+<link rel="icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -113,12 +113,12 @@
                     <div class="title">
                         <h1>About Us</h1>
                     </div>
-                   <!--<ul class="bread-crumb style-two">
-                        <li class="active"><a href="about.php">About Company <i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="history.php">Our History <i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="team.php">Leadership Team<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="global-networks.php">Global Network <i class="flaticon-up-arrow"></i></a></li>
-                    </ul> -->
+                   <ul class="bread-crumb style-two">
+                        <li class="active"><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="team.html">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
+                    </ul> 
                 </div>                    
             </div>
         </div>
@@ -223,6 +223,7 @@
                                 </div>-->
                             </div>
                         </div>
+                        <!--<div class="image mb-30"><img src="assets/images/faculty.jpg" style="width: 85%;" alt=""></div>-->
                     </div>
                 </div>
             </div>
@@ -273,6 +274,85 @@
         </div>
     </section> -->
 
+    <!-- History -->
+    <section class="about-section" style="background-color: #f8f9fa; margin-bottom: 100px; margin-top: -100px;">
+        <div class="auto-container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="sec-title">
+                        <div class="sub-title">SHCACI History</div>
+                        <h2>Providing<br>Quality Education <br> Since 2013</h2>
+                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC1685.JPG" alt=""></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Principal Message -->
+    <section class="about-section" style="background-color: #f8f9fa; margin-bottom: 100px; margin-top: -100px;">
+        <div class="auto-container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/president.jpg" alt=""></div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="sec-title">
+                        <div class="sub-title">SHCACI President</div>
+                        <h2>Mr. Sandy L. Paguirigan</h2>
+                        <div class="text">Greetings in the name of the Lord Jesus Christ!
+<br><br>
+Congratulations to the SHCACI Batch 2024 on this remarkable milestone. Today, as we celebrate with the theme, "Kabataang Pilipino para sa Matatag na Kinabukasan ng Pilipinas," we honor your hard work and the grace of God, along with the support of your parents and the dedication of the SHCACI faculty. You've become God-fearing, academically competent Filipinos ready to lead our nation.
+<br><br>
+Thank the Lord for guiding you with knowledge and wisdom. Remember, He is with you as you pursue your dreams with trust and faith in Him.
+<br><br>
+To the SHCACI faculty, your dedication has shaped these young minds both academically and spiritually. May you continue to find joy in your service.
+<br><br>
+To the parents, your support has been invaluable. Continue to guide your children with love as they enter a new chapter.
+<br><br>
+As you move forward, strive for excellence and let your faith and determination lead you to a bright future.
+<br><br>
+God bless us all!
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- Principal Message -->
+    <section class="about-section" style="background-color: #f8f9fa; margin-bottom: 100px; margin-top: -100px;">
+        <div class="auto-container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="sec-title">
+                        <div class="sub-title">SHCACI Principal</div>
+                        <h2>Ms. Almar C. Apostol</h2>
+                        <div class="text">A blessed greeting in the mighty name of our Lord and Savior Jesus Christ!
+<br><br>
+God has been faithful and true to us all! I thank and praise Him for granting us the favor to complete this School Year 2023-2024.
+<br><br>
+Congratulations to all parents, guardians, and students for a year marked by God's favor. It is truly a miracle that we overcame the challenges with His personal touch on every family represented by our pupils. Your perseverance and resilience have brought us to the close of another successful academic year.
+<br><br>
+Thank you and well done to our SHCACI faculty and staff for dedicating this year to the Lord. Your prayers, passion, and perseverance have been recorded in His keeping. He remembers our services and purifies them for His glory. Let us continue to serve the Lord sincerely and with pure motives, confident in His blessings as we follow His will as agents of goodwill in SHCACI and the community.
+<br><br>
+Above all, glory to God in the Highest for His enablement, wisdom, love, provision, safekeeping, and grace that abound to us all. Without Him, our academic operations as a learning community would not be possible.
+<br><br>
+Once again, congratulations to everyone for a job well done.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC1685.JPG" alt=""></div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Statement -->
     <section class="statement-section pt-0">

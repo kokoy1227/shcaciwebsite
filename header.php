@@ -69,7 +69,6 @@
                                                 <li><a href="onepage.html">Onepage</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="service.php">Activity</a></li>
                                         <li class="dropdown"><a href="team.html">Faculty & Staff</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
