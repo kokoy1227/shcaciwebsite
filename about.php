@@ -145,7 +145,6 @@
                         
                     </div>
                     <div class="col-lg-8">
-
                         <div class="image mb-30"><img src="assets/images/faculty.jpg" alt=""></div>
                         <div class="image mb-30"><img src="assets/images/faculty.jpg" style="width: 85%;" alt=""></div>
                         <div class="image mb-30"><img src="assets/images/faculty.JPG" alt=""></div>
@@ -384,6 +383,24 @@
 <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
 <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 <script src="assets/js/parallax-scroll.js"></script>
+
 <script src="assets/js/script.js"></script>
+
+
 </body>
+
+
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
