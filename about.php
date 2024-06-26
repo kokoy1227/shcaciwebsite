@@ -114,7 +114,7 @@
                         <h1>About Us</h1>
                     </div>
                    <ul class="bread-crumb style-two">
-                        <li class="active"><a href="about.php">About SHCACIS<i class="flaticon-up-arrow"></i></a></li>
+                        <li class="active"><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
                         <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
                         <li><a href="team.html">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
                         <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
