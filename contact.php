@@ -159,7 +159,7 @@
                                         <div class="icon-box">
                                             <div class="icon"><span class="flaticon-mail"></span></div>
                                             <div class="text-area">
-                                                <div class="text"><strong>Mon - Friday</strong>08.00 am to 9.00pm</div>
+                                                <div class="text"><strong>Mon - Friday</strong>08.00 am to 6.00pm</div>
                                                 
                                             </div>                                    
                                         </div>
