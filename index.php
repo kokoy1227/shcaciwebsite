@@ -335,7 +335,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC1685.JPG" alt=""></div>
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC16851.jpg" alt=""></div>
                 </div>
             </div>
         </div>
@@ -404,7 +404,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">01</div>
                         <div class="icon"><span class="flaticon-shipping"></span></div>
-                        <h4>Replenishment <br> & Picking</h4>
+                        <h4>Christ-Centered Education <br> & Holistic Development</h4>
                         
                     </div>
                 </div>
@@ -412,7 +412,7 @@
                     <div class="inner-box wow fadeInDwon" data-wow-duration="1500ms">
                         <div class="count">02</div>
                         <div class="icon"><span class="flaticon-warehouse"></span></div>
-                        <h4>Warehousing <br> Operation</h4>
+                        <h4>Excellence in Academics <br> & Supportive Community </h4>
                         
                     </div>
                 </div>
@@ -420,7 +420,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">03</div>
                         <div class="icon"><span class="flaticon-packing-list"></span></div>
-                        <h4>Packaging <br> & Distribution</h4>
+                        <h4>Ethical Leadership <br> & Collaborative Learning:</h4>
                        
                     </div>
                 </div>
@@ -428,7 +428,7 @@
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="count">04</div>
                         <div class="icon"><span class="flaticon-delivery-1"></span></div>
-                        <h4>Transportation <br> Process</h4>
+                        <h4>Continuous Improvement <br> & Passion for Service </h4>
                         
                     </div>
                 </div>
@@ -494,8 +494,9 @@
     <section class="pricing-section">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title text-center">Pricing & Plans</div>
-                <h2>Our Effective and Affordable <br> Pricing Plans</h2>
+                <div class="sub-title text-center">School Fees</div>
+                <h4>Please be advised of the Schedule of Fees for S.Y. 2024-2025.</h4>
+                <h6>Please be advised of the Schedule of Fees for S.Y. 2024-2025.To know more about our payment options, kindly visit our Accounting Office, or call (046) 238-50.</h6>
             </div>
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
@@ -635,6 +636,7 @@
             </div>            
         </div>
     </section>
+    
 
     <!-- Testimonials Section -->
     <section class="testimonials-section">
@@ -674,6 +676,49 @@
     </section>
 
 
+
+  <!-- Servcies section two -->
+        <section class="services-section-two style-two mx-30">
+            <div class="auto-container">
+                <div class="sec-title text-center">
+                    <div class="sub-title">ACCREDITATIONS</div>
+                    <h2>Transida Offers Various Value Added <br>Services in Logisitcs</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-6 service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <img src="assets/images/resource/image-16.jpg" alt="">
+                                <div class="icon"><span class="flaticon-insurance"></span></div>
+                            </div>
+                            <div class="content">
+                                <h4>City Division Of Gen. Trias Association Of Private Schools (CDGTAPS)</h4>
+                                <div class="text">The City Division Of General Trias Association Of Private Schools (CDGTAPS) Aims To Enhance The Quality Of Education In Private Schools Within General Trias By Fostering Collaboration, Sharing Best Practices, And Advocating For The Needs And Interests Of Its Member Institutions.</div>
+                                <!--<div class="link">
+                                <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>
+                            </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 service-block-two">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <img src="assets/images/resource/image-17.jpg" alt="">
+                                <div class="icon"><span class="flaticon-import"></span></div>
+                            </div>
+                            <div class="content">
+                                <h4>The Southeast Asian Ministers Of Education Organization (SEAMEO)</h4>
+                                <div class="text">SEAMEO's Mission Is To Enhance Regional Understanding, Cooperation And Unity Of Purpose Among Member Countries For A Better Quality Of Life. The Organisation's Highest Policy-Making Body Is The SEAMEO Council, Which Comprises The 11 Southeast Asian Education Ministers.</div>
+                                <!--<div class="link">
+                                <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>
+                            </div>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
     <!-- News Section -->
     <section class="news-section">
         <div class="auto-container">
@@ -716,86 +761,79 @@
         </div>
     </section> 
 
+   
     <!-- Map Section -->
     <section class="map-section">
         <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3865.252877523651!2d120.91668471082596!3d14.354772086045035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d495f3a529f3%3A0xd77459ef6b336a31!2sShepherd&#39;s%20Haven%20Christian%20Academy%20of%20Cavite!5e0!3m2!1sen!2sph!4v1719225807599!5m2!1sen!2sph" style="border:0; height: 450; width: 100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <?php echo $setting['map'];  ?>
         </div>
     </section> 
+    
 
-    <!-- Branches Section -->
-    <section class="branches-section">
+    <!-- Contact Info section two -->
+    <section class="contact-info-section-two">
         <div class="auto-container">
-            <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "4" }}}'>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Hoxton - HO</h4>
-                    <div class="text"> Boat House, 152/21 City Road,
-                    Hoxton, N1 6NG, UK.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Melbourne</h4>
-                    <div class="text"> 46 Yarra Boulevard, 2nd Cross,
-                        Victoria 3010, AUS.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Houston</h4>
-                    <div class="text"> 3333 Raleigh Street, Houston,
-                        TX 77021, USA.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>New Delhi</h4>
-                    <div class="text">11/8, Shantipath, Chanakyapuri,
-                        New Delhi 110049, IND.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Hoxton - HO</h4>
-                    <div class="text"> Boat House, 152/21 City Road,
-                    Hoxton, N1 6NG, UK.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Melbourne</h4>
-                    <div class="text"> 46 Yarra Boulevard, 2nd Cross,
-                        Victoria 3010, AUS.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>Houston</h4>
-                    <div class="text"> 3333 Raleigh Street, Houston,
-                        TX 77021, USA.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
-                    </div>
-                </div>
-                <div class="single-info">
-                    <h4><span class="flaticon-cursor"></span>New Delhi</h4>
-                    <div class="text">11/8, Shantipath, Chanakyapuri,
-                        New Delhi 110049, IND.</div>
-                    <div class="link">
-                        <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View On Map</a>
+            <div class="nav-tabs-wrapper">
+                <div class="nav nav-tabs tab-btn-style-two">
+                    <div class="theme_carousel owl-theme owl-carousel" >
+                    
                     </div>
                 </div>
             </div>
-        </div>        
-    </section> 
-
-
+            
+            <div class="tab-content">
+            
+                <div class="tab-pane fadeInUp animated active" id="tab-two" role="tabpanel" aria-labelledby="tab-two">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="outer-box">
+                                <h4><span class="flaticon-cursor"></span><?php echo $setting['address']; ?></h4>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="wrapper-box">
+                                            <div class="icon-box">
+                                                <div class="icon"><span class="flaticon-calling"></span></div>
+                                                <div class="text-area">
+                                                    <div class="text"><strong>Phone</strong><a href="tel:<?php echo $setting['phone']; ?>"><?php echo $setting['phone']; ?></a></div>
+                                                </div>
+                                            </div>
+                                            <div class="icon-box">
+                                                <div class="icon"><span class="flaticon-mail"></span></div>
+                                                <div class="text-area">
+                                                    <div class="text"><strong>Email</strong><a style="" href="mail:<?php echo $setting['email']; ?>"><?php echo $setting['email']; ?></a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="icon-box">
+                                            <div class="icon"><span class="flaticon-mail"></span></div>
+                                            <div class="text-area">
+                                                <div class="text"><strong>Mon - Friday</strong>08.00 am to 6.00pm</div>
+                                                
+                                            </div>                                    
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="sec-title">
+                                <div class="sub-title">Location</div>
+                                <h2>Come and visit us!</h2>
+                            </div>
+                            <!--<div class="text">Indignation and dislike men who are so beguiled & demoralized by <br> the charms of pleasure of the moment.</div>
+                            <div class="link">-->
+                                <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Get A Quote</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+ 
 
     <?php include "footer.php"; ?>
 
