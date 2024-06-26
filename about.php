@@ -100,7 +100,7 @@
     </div>-->
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/bg-26.jpg);">
         <!--<div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">transida</div>
@@ -145,7 +145,88 @@
                         
                     </div>
                     <div class="col-lg-8">
+<<<<<<< Updated upstream
                         <div class="image mb-30"><img src="assets/images/faculty.jpg" style="width: 85%;" alt=""></div>
+=======
+                        <div class="image mb-30"><img src="assets/images/faculty.JPG" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--<div class="overview">
+            <div class="auto-container">
+                <div class="wrapper-box">
+                    <h2>Global Digital System Corporation has been operating in the USA now, for over 22 years and are part <br>  of a reliable, global integrated network.</h2>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="text">
+                                <p>We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business..</p>
+                                <p>Global Digital System Corporation has been the premiere agency to assist corporations with their global sales, resource, logistic, and import & export needs. Alongside our highly qualified workforce, we believe our track record and amassed relationships not only from our current clientele base, a growing network of over 3000 members, but also our experience as owned by the China, India and USA could be beneficial to any business with interest to expand.</p>
+                            </div>
+                            <div class="author-info wow fadeInUp" data-wow-duration="1500ms">
+                                <div class="video-btn">
+                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i></a>
+                                </div>
+                                <div class="signature"><img src="assets/images/sign.PNG" alt=""></div>
+                                <div>
+                                    <div class="author-title">Abhishek Jain </div>
+                                    <div class="designation">CEO & Founder of Global Digital System Corporation </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="row m-10">-->
+                                <!--Column
+                                <div class="column counter-column col-md-3">
+                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                        <div class="content">
+                                            <div class="count-outer count-box">
+                                                <span class="count-text" data-speed="3000" data-stop="6.5">0</span><span>k</span>
+                                            </div>
+                                            <h4>Parcel <br> Delivered</h4>
+                                            <h5>Total</h5>
+                                        </div>
+                                    </div>
+                                </div>-->
+                                <!--Column
+                                <div class="column counter-column col-md-3">
+                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                        <div class="content">
+                                            <div class="count-outer count-box">
+                                                <span class="count-text" data-speed="3000" data-stop="3.4">0</span><span>k</span>
+                                            </div>
+                                            <h5>Air</h5>
+                                            <div class="icon"><span class="flaticon-airplane"></span></div>
+                                        </div>
+                                    </div>
+                                </div>-->
+                                <!--Column
+                                <div class="column counter-column col-md-3">
+                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                        <div class="content">
+                                            <div class="icon"><span class="flaticon-cargo-ship-1"></span></div>
+                                            <div class="count-outer count-box">
+                                                <span class="count-text" data-speed="3000" data-stop="1.7">0</span><span>k</span>
+                                            </div>
+                                            <h5>Ocean</h5>
+                                        </div>
+                                    </div>
+                                </div>-->
+                                <!--Column
+                                <div class="column counter-column col-md-3">
+                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                        <div class="content">
+                                            <div class="count-outer count-box">
+                                                <span class="count-text" data-speed="3000" data-stop="1.4">0</span><span>k</span>
+                                            </div>
+                                            <h5>Road</h5>
+                                            <div class="icon"><span class="flaticon-box-1"></span></div>
+                                        </div>
+                                    </div>
+                                </div>-->
+                            </div>
+                        </div>
+>>>>>>> Stashed changes
                     </div>
                 </div>
             </div>
@@ -382,24 +463,6 @@ Once again, congratulations to everyone for a job well done.
 <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
 <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 <script src="assets/js/parallax-scroll.js"></script>
-
 <script src="assets/js/script.js"></script>
-
-
 </body>
-
-
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
