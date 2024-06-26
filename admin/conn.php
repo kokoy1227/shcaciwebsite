@@ -8,7 +8,7 @@ $user = "root";
 
 $password = "";
 
-$dbname = "shcaciwebsite";
+$dbname = "u965462440_shcaciwebsite";
 
 
 

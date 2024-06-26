@@ -24,7 +24,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>DUDUDU<?php echo $setting['site_name']; ?></title>
+<title><?php echo $setting['site_name']; ?></title>
 <meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
