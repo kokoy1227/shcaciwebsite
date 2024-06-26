@@ -4,9 +4,9 @@
 
 $host = "localhost";
 
-$user = "root";
+$user = "u965462440_shcaciwebsite";
 
-$password = "";
+$password = "Ncst1234";
 
 $dbname = "u965462440_shcaciwebsite";
 
