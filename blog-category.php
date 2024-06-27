@@ -24,7 +24,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Transide Transport & Logistics HTML Template</title>
+    <title>Shepherd's Haven Christian Academy of Cavite, Inc.</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -38,7 +38,7 @@
         rel="stylesheet">
 
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
