@@ -513,6 +513,34 @@
                             </div>
                         </div>
                     </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/image-5.jpg);">
+                            </div> 
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-box-1"></span></div>
+                                <h4>Vehicle <br> Manufacturing</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/image-5.jpg);">
+                            </div> 
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-box-1"></span></div>
+                                <h4>Vehicle <br> Manufacturing</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
