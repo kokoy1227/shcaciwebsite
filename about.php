@@ -359,7 +359,7 @@ Once again, congratulations to everyone for a job well done.
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="image"><img src="assets/images/resource/DSC1672.jpg" alt=""></div>
+                    <div class="image"><img src="assets/images/resource/DSC1672.JPG" alt=""></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="content" style="height: 100%; padding-bottom: 0px; margin-bottom: -10px;">  
