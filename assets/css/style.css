@@ -13428,6 +13428,7 @@ section.whychooseus-section-two {
 .history-section .image {
     position: relative;
     margin-bottom: 90px;
+    display: inline-block;
 }
 
 .history-section .history-area {
@@ -13565,7 +13566,7 @@ section.whychooseus-section-two {
 }
 
 .history-section .nav-tabs.tab-btn-style-one {
-    justify-content: space-between;
+    justify-content:center;
     padding: 0 30px;
     border: 0;
     margin-bottom: 85px;

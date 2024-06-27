@@ -62,11 +62,9 @@
                                         <li class="dropdown"><a href="index.php">Home</a></li>
                                         <li class="dropdown"><a href="about.php">About Us</a>
                                             <ul>
-                                                <li><a href="index.html">Home Page 01</a></li>
-                                                <li><a href="index-2.html">Home Page 02</a></li>
-                                                <li><a href="index-3.html">Home Page 03</a></li>
-                                                <li><a href="index-4.html">Home Page 04</a></li>
-                                                <li><a href="onepage.html">Onepage</a></li>
+                                                <li><a href="history.html">SHCACI Symbol</a></li>
+                                                <li><a href="team.html">Faculty and Staff</a></li>
+                                                <li><a href="boardmembers.html">SHCACI Board Members</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="service.php">Activities</a></li>
