@@ -100,14 +100,14 @@
     </div>-->
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-26.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
         <!--<div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">transida</div>
                 <div class="text-2">transida</div>
             </div>                
         </div> -->
-        <div class="auto-container">
+        <div class="auto-container"
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
