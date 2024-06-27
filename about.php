@@ -111,7 +111,7 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>About Us Our School</h1>
+                        <h1>About Us</h1>
                     </div>
                    <ul class="bread-crumb style-two">
                         <li class="active"><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
