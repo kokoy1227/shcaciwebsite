@@ -682,7 +682,7 @@
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <div class="sub-title">ACCREDITATIONS</div>
-                    <h2>Transida Offers Various Value Added <br>Services in Logisitcs</h2>
+                    <h2>"Accredited Excellence,<br> Certified Trust."</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 service-block-two">
