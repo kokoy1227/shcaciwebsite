@@ -298,7 +298,7 @@
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/president.jpg" alt=""></div>
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/president.JPG" alt=""></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="sec-title">
@@ -348,7 +348,7 @@ Once again, congratulations to everyone for a job well done.
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC1685.JPG" alt=""></div>
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/principal.JPG" alt=""></div>
                 </div>
             </div>
         </div>
