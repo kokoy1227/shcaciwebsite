@@ -127,7 +127,7 @@
     <div class="footer-bottom">
         <div class="auto-container">
             <div class="row m-0 align-items-center justify-content-between">
-                <div class="copyright-text">Copyright © 2024 <?php echo $setting['site_name']; ?> | Designed By <a target="blank" href=""> </a></div>
+                <div class="copyright-text">Copyright © 2024 <?php echo $setting['site_name']; ?> | Developed By <a target="blank" href="developers.html">Interns</a></div>
                 <ul class="menu">
                     <li><a href="privacy.php">Privacy Policies</a></li>
                     <li><a href="terms.php">Terms & Conditions </a></li>
