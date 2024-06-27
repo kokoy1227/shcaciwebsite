@@ -445,7 +445,7 @@
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "center": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "1" } , "992":{ "items" : "1" }, "1200":{ "items" : "1" }}}'>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/image-2.jpg);">
+                            <div class="image" style="background-image: url(assets/images/resource/4207.jpg);">
                             </div>
                             <div class="content">
                                 <div class="icon"><span class="flaticon-spaceship"></span></div>
