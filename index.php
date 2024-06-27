@@ -335,7 +335,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC16851.jpg" alt=""></div>
+                    <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC16851.JPG" alt=""></div>
                 </div>
             </div>
         </div>
