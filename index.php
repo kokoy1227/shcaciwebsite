@@ -439,7 +439,7 @@
 
     <!-- Industries Covered -->
     <section class="industries-covered" style="background-image: url(assets/images/background/bg-3.jpg);">
-        <div class="background-text" data-parallax='{"x": 100}'>SHCACI</div>
+        <div class="background-text" data-parallax='{"x": 100}'>Shepherd's Haven Christian Academy of Cavite, Inc.</div>
         <div class="outer-box side-container">
             <div class="outer-container">
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "center": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "1" } , "992":{ "items" : "1" }, "1200":{ "items" : "1" }}}'>
@@ -464,6 +464,62 @@
                             <div class="content">
                                 <div class="icon"><span class="flaticon-spaceship"></span></div>
                                 <h4>Construction <br> Companies</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/DSC1194.JPG);">
+                            </div>
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-spaceship"></span></div>
+                                <h4>Construction <br> Companies</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/DSC1194.JPG);">
+                            </div>
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-spaceship"></span></div>
+                                <h4>Construction <br> Companies</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/image-5.jpg);">
+                            </div> 
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-box-1"></span></div>
+                                <h4>Vehicle <br> Manufacturing</h4>
+                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
+                                <div class="link">
+                                    <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-block">
+                        <div class="inner-box">
+                            <div class="image" style="background-image: url(assets/images/resource/image-5.jpg);">
+                            </div> 
+                            <div class="content">
+                                <div class="icon"><span class="flaticon-box-1"></span></div>
+                                <h4>Vehicle <br> Manufacturing</h4>
                                 <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
