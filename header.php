@@ -68,7 +68,6 @@
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="service.php">Activities</a></li>
-                                        <li class="dropdown"><a href="team.html">Faculty & Staff</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li><a href="contact.php">Contact Us</a></li>
