@@ -881,21 +881,6 @@
                                 <a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                             </div>
                         </div>
-                        <div class="overlay">
-                            <div class="image">
-                                <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
-                                <div class="date"><?php echo $row['date']; ?></div>
-                            </div>
-                            <div class="category"><i class="fas fa-folder"></i><?php echo $row['category']; ?></div>
-                            <h3><a href="blog-details.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></h3>
-                            <div class="text"><?php 
-                            $ddesc = $row['descrip']; 
-                        echo $dec = substr($ddesc,0,180);
-                        ?>...</div>
-                            <div class="link">
-                                <a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
-                            </div>
-                        </div> 
                     </div>
                     <?php } ?>
                 </div>
