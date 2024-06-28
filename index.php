@@ -672,7 +672,6 @@
                             <li>Upon Enrollment</li>
                             <li>Books</li>
                             <li>Tuition Fee (with 10% discount)</li>
-                            <li>50 Freight Shipments</li>
                         </ul>
                         <div class="link-box">
                             <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now! </span></a>
