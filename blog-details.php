@@ -295,9 +295,9 @@
                             <div class="widget tag-cloud-widget">
                                 <h4 class="widget_title">Tag Cloud</h4>
                                 <ul class="clearfix">
-                                    <li><a href="#">Cargo</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li><a href="#">Ground</a></li>
+                                    <li><a href="#">Teacher</a></li>
+                                    <li><a href="#">Student</a></li>
+                                    <li><a href="#">News</a></li>
                                     <li><a href="#">Management</a></li>
                                     <li><a href="#">Ocean</a></li>
                                     <li><a href="#">Offers</a></li>
