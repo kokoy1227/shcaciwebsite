@@ -253,7 +253,7 @@
                                     while($row=mysqli_fetch_array($recent)){
                                 ?>
                                     <div class="post"
-                                        style="background-image: url(assets/images/resource/news-26.jpg);">
+                                        style="background-image: url(assets/images/resource/hoverlogo.JPG);">
                                         <div class="content">
                                             <div class="date"><i class="far fa-calendar"></i>
                                                 <?php echo $row['date']; ?></div>
