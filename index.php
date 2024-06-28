@@ -558,7 +558,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="category-wrapper"><div class="category">Nursery 1</div></div>
                         <div class="price">₱ 1,203.75</div>
-                        <div class="time">Monthly Payment (TF only)</div>
+                        <div class="time">Monthly Payment (TF only) <br> (Aug.24'-Mar.-25) 8 months</div>
                         <div class="time">(Aug.24'-Mar.-25) 8 months</div>
                         <div class="price">₱ 2,450.00</div>
                         <div class="time">Periodical Payment (TF only)</div>
