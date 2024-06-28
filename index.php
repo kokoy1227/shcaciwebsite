@@ -178,7 +178,7 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/1.1.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/1.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
