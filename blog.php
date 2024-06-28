@@ -144,7 +144,7 @@
                 <div class="content-box">
                     <div class="content-wrapper">
                         <div class="title">
-                            <h1></h1>
+                            <h1>News and Updates</h1>
                         </div>
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>

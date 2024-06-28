@@ -71,7 +71,7 @@
                                         <li class="dropdown"><a href="service.php">Activities</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
-                                        <li class="dropdown"><a href="index.php">Admission</a>
+                                        <li class="dropdown"><a href="">Admission</a>
                                             <ul>
                                                 <li><a href="warehousing.html">Downloadable Forms</a></li>
                                             </ul>
