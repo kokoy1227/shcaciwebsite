@@ -614,9 +614,9 @@
         <div class="auto-container">
             <div class="wrapper-box" style="background-image: url(assets/images/background/bg-4.jpg);">
                 <div class="shape">
-                    <div class="shape-one"><img src="assets/images/icons/icon1.png" alt=""></div>
-                    <div class="shape-two"><img src="assets/images/icons/icon2.png" alt=""></div>
-                    <div class="shape-three"><img src="assets/images/icons/icon3.png" alt=""></div>
+                    <div class="shape-one"><img src="assets/images/icons/teacher1.png" alt=""></div>
+                    <div class="shape-two"><img src="assets/images/icons/teacher2.png" alt=""></div>
+                    <div class="shape-three"><img src="assets/images/icons/teacher3.png" alt=""></div>
                     <div class="shape-four"><img src="assets/images/icons/icon5.png" alt=""></div>
                     <div class="shape-five"><img src="assets/images/resource/image-8.png" alt=""></div>
                 </div>
