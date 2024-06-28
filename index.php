@@ -397,13 +397,13 @@
         <div class="auto-container">
             <div class="sec-title text-center light">
                 <div class="sub-title text-center">How We Work</div>
-                <h2>We Aim to Contribute Well to <br> Your Company</h2>
+                <h2>We Aim to Contribute Well to <br> Your Child</h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-6 work-process-block">
+            <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">01</div>
-                        <div class="icon"><span class="flaticon-shipping"></span></div>
+                        <div class="icon"><span class="fa fa-shield-cross"></span></div>
                         <h4>Christ-Centered Education <br> & Holistic Development</h4>
                         
                     </div>
@@ -411,7 +411,7 @@
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInDwon" data-wow-duration="1500ms">
                         <div class="count">02</div>
-                        <div class="icon"><span class="flaticon-warehouse"></span></div>
+                        <div class="icon"><span class="fa fa-medal"></span></div>
                         <h4>Excellence in Academics <br> & Supportive Community </h4>
                         
                     </div>
@@ -419,7 +419,7 @@
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">03</div>
-                        <div class="icon"><span class="flaticon-packing-list"></span></div>
+                        <div class="icon"><span class="fa fa-books"></span></div>
                         <h4>Ethical Leadership <br> & Collaborative Learning:</h4>
                        
                     </div>
@@ -427,13 +427,12 @@
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="count">04</div>
-                        <div class="icon"><span class="flaticon-delivery-1"></span></div>
+                        <div class="icon"><span class="fa fa-chart-line"></span></div>
                         <h4>Continuous Improvement <br> & Passion for Service </h4>
                         
                     </div>
                 </div>
             </div>
-            <div class="bottom-text">Simplifying Your Freight & Logistics Needs With a Personal Approach. <a href="contact.php"> Get In Touch</a></div>
         </div>
     </section>
 
