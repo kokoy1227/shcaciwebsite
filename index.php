@@ -556,7 +556,9 @@
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="category-wrapper"><div class="category">Basic Plan</div></div>
+                        <div class="category-wrapper"><div class="category">Nursery 1</div></div>
+                        <div class="price">$89.99</div>
+                        <div class="time">Per Month</div>
                         <div class="price">$89.99</div>
                         <div class="time">Per Month</div>
                         <ul class="content">
@@ -613,9 +615,6 @@
       <section class="pricing-section">
         <div class="auto-container">
             <div class="sec-title text-center">
-                
-                
-                
             </div>
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
