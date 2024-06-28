@@ -611,6 +611,89 @@
         </div>
     </section> 
 
+    <!-- Facts Section -->
+    <section class="facts-section">
+        <div class="auto-container">
+            <div class="wrapper-box" style="background-image: url(assets/images/background/bg-4.jpg);">
+                <div class="shape">
+                    <div class="shape-one" style="width: 110px;"><img src="assets/images/icons/teacher-1.png" alt=""></div>
+                    <div class="shape-two" style="width: 110px;"><img src="assets/images/icons/teacher-2.png" alt=""></div>
+                    <div class="shape-three" style="width: 110px;"><img src="assets/images/icons/teacher-3.png" alt=""></div>
+                    <div class="shape-four"><img src="assets/images/icons/icon5.png" alt=""></div>
+                </div>
+                <div class="sec-title text-center light">
+                    <div class="sub-title text-center">Interesting Facts</div>
+                    <h2>The Numbers Speak for <br> themselves</h2>
+                </div>
+                <div class="outer-box">
+                    <div class="row">
+                        <!--Column-->
+                        <div class="column counter-column col-md-6">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="icon"><img src="assets/images/icons/icon-3.png" alt=""></div>
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="6500">0</span>
+                                    </div>
+                                    <div class="text">Sucessfully  Delivered</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Column-->
+                        <div class="column counter-column col-md-6">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="icon"><img src="assets/images/icons/icon-4.png" alt=""></div>
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="54">0</span>
+                                    </div>
+                                    <div class="text">Expert Employee</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Column-->
+                        <div class="column counter-column col-md-6">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="icon"><img src="assets/images/icons/icon-5.png" alt=""></div>
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="2495">0</span>
+                                    </div>
+                                    <div class="text">Satisfied Clients</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Column-->
+                        <div class="column counter-column col-md-6">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="icon"><img src="assets/images/icons/icon-3.png" alt=""></div>
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="5">0</span>
+                                    </div>
+                                    <div class="text">Branches Across</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Column-->
+                        <div class="column counter-column col-md-6">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="icon"><img src="assets/images/icons/icon-3.png" alt=""></div>
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="3879">0</span>
+                                    </div>
+                                    <div class="text">Tons of Goods</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+            </div>            
+        </div>
+    </section>
+
+
       <!-- Pricing Section -->
       <section class="pricing-section">
         <div class="auto-container">
