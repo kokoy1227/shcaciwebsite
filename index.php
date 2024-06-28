@@ -448,7 +448,7 @@
                             </div>
                             <div class="content">
                                 <div class="icon"><span class="flaticon-spaceship"></span></div>
-                                <h4>Industrial and <br> Aerospace</h4>
+                                <h4>10th Foundation Day Celebrations</h4>
                                 <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
