@@ -581,11 +581,11 @@
                         <div class="price">₱ 2,500.00</div>
                         <div class="time">Periodical Payment (TF only) <br> (Sept. Nov.'24' Jan. & Mar. '25) </div>
                         <ul class="content">
-                            <li>1 Warehouse </li>
-                            <li>Custom Business Rules</li>
-                            <li>Real Time Rate Shopping</li>
-                            <li>100% Insurance</li>
-                            <li>50 Freight Shipments</li>
+                            <li>Registration </li>
+                            <li>School Management System</li>
+                            <li>Upon Enrollment</li>
+                            <li>Books</li>
+                            <li>Tuition Fee (with 10% discount)</li>
                         </ul>
                         <div class="link-box">
                             <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now!</span></a>
