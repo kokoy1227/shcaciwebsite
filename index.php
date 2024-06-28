@@ -831,8 +831,8 @@
                     <div class="col-xl-6 service-block-two">
                         <div class="inner-box">
                             <div class="image-box">
-                                <img src="assets/images/resource/image-17.jpg" alt="">
-                                <div class="icon"><span class="flaticon-import"></span></div>
+                                <img src="assets/images/resource/seameo.png" alt="">
+                                <div class="icon"><img src="assets/images/resource/seameologo.png" alt=""></div>
                             </div>
                             <div class="content">
                                 <h4>The Southeast Asian Ministers Of Education Organization (SEAMEO)</h4>
