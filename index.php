@@ -500,7 +500,7 @@
                     </div>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/DCS11351.JPG);">
+                            <div class="image" style="background-image: url(assets/images/resource/DCS11351.jpg);">
                             </div> 
                             <div class="content">
                                 <div class="icon"><span class="flaticon-box-1"></span></div>
