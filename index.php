@@ -613,9 +613,9 @@
       <section class="pricing-section">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title text-center">School Fees</div>
-                <h4>Please be advised of the Schedule of Fees for S.Y. 2024-2025.</h4>
-                <h6>To know more about our payment options, kindly visit our Accounting Office, or call (046) 238-50.</h6>
+                
+                
+                
             </div>
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
