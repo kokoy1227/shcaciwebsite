@@ -816,7 +816,7 @@
                     <div class="col-xl-6 service-block-two">
                         <div class="inner-box">
                             <div class="image-box">
-                                <img src="assets/images/resource/gentrihall.jpg" alt="">
+                                <img src="assets/images/resource/gentriashall.jpg" alt="">
                                 <div class="icon"><span class="flaticon-insurance"></span></div>
                             </div>
                             <div class="content">
