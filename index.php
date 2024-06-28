@@ -682,7 +682,7 @@
                     <div class="shape-one" style="width: 110px;"><img src="assets/images/icons/teacher-1.png" alt=""></div>
                     <div class="shape-two" style="width: 110px;"><img src="assets/images/icons/teacher-2.png" alt=""></div>
                     <div class="shape-three" style="width: 110px;"><img src="assets/images/icons/teacher-3.png" alt=""></div>
-                    <div class="shape-four"><img src="assets/images/icons/icon5.png" alt=""></div>
+                    <div class="shape-four"><img src="assets/images/icons/blocks-1.png" alt=""></div>
                 </div>
                 <div class="sec-title text-center light">
                     <div class="sub-title text-center">Interesting Facts</div>
