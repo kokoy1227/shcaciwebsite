@@ -860,6 +860,35 @@
                 </div>
             </div>
             <div class="row">
+            <div class="news-block-one col-lg-4">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="image">
+                            <a href="blog-details.html"><img src="assets/images/resource/news-1.jpg" alt=""></a>
+                            <div class="date">25 <br> Jun</div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="category"><i class="fas fa-folder"></i> Freight Management</div>
+                            <h3><a href="blog-details.html">Trends in Freight Transportation <br>  & the COVID-19 Impact</a></h3>
+                            <div class="text">Enjoy pleasures that has annoying consequences <br>  or one who avoids a pain ...</div>
+                            <div class="link">
+                                <a href="blog-details.html" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                            </div>
+                        </div>
+                        <div class="overlay">
+                            <div class="image">
+                                <a href="blog-details.html"><img src="assets/images/resource/news-1-2.jpg" alt=""></a>
+                                <div class="date">25 <br> Jun</div>
+                            </div>
+                            <div class="lower-content">
+                                <div class="category"><i class="fas fa-folder"></i> Freight Management</div>
+                                <h3><a href="blog-details.html">Trends in Freight Transportation <br>  & the COVID-19 Impact</a></h3>
+                                <div class="link">
+                                    <a href="blog-details.html" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="news-block-one col-lg-4">
                     <?php  
                     while($row=mysqli_fetch_array($blog)){
