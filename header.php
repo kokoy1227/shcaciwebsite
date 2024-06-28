@@ -73,7 +73,9 @@
                                         <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li class="dropdown"><a href="">Admission</a>
                                             <ul>
-                                                <li><a href="warehousing.html">Downloadable Forms</a></li>
+                                                <li><a href="warehousing.html">Admission Policies</a></li>
+                                                <li><a href="warehousing.html">Admission Requirements</a></li>
+                                                <li><a href="warehousing.html">Admission FormsS</a></li>
                                             </ul>
                                             </li>
                                         <li><a href="contact.php">Contact Us</a></li>
