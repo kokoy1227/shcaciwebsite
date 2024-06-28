@@ -641,7 +641,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 pricing-block style-two">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/project-23.jpg);">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/handupbg.png);">
                         <div class="category-wrapper"><div class="category">Grade 3</div></div>
                         <div class="price">₱ 1,444.50</div>
                         <div class="time">Monthly Payment (TF only) <br> (Aug.24'-Mar.-25) 8 months</div>
