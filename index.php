@@ -868,7 +868,7 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image">
                             <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
-                            <div class="date"><?php echo $row['date']; ?></div>
+                            <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
                         </div>
                         <div class="lower-content">
                             <div class="category"><i class="fas fa-folder"></i><?php echo $row['category']; ?></div>
