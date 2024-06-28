@@ -559,8 +559,10 @@
                         <div class="category-wrapper"><div class="category">Nursery 1</div></div>
                         <div class="price">₱ 1,203.75</div>
                         <div class="time">Monthly Payment (TF only)</div>
+                        <div class="time">(Aug.24'-Mar.-25) 8 months</div>
                         <div class="price">₱ 2,450.00</div>
                         <div class="time">Periodical Payment (TF only)</div>
+                        <div class="time">(Sept. Nov.'24' Jan. & Mar. '25)</div>
                         <ul class="content">
                             <li>1 Warehouse </li>
                             <li>Custom Business Rules</li>
