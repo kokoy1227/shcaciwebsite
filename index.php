@@ -860,12 +860,11 @@
                 </div>
             </div>
             <div class="row">
-                
-                <div class="news-block-one col-lg-4">
                 <?php  
                     while($row=mysqli_fetch_array($blog)){
 
                 ?>
+                <div class="news-block-one col-lg-4">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image">
                             <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
@@ -881,11 +880,11 @@
                             <div class="link">
                                 <a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                             </div>
-                        </div>
-                     
+                        </div> 
                     </div>
+                    <?php } ?>
                 </div>
-        <?php } ?>
+        
             </div>
         </div>
     </section> 
