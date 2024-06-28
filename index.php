@@ -490,7 +490,7 @@
                             </div>
                             <div class="content">
                                 <div class="icon"><span class="flaticon-spaceship"></span></div>
-                                <h4>Construction <br> Companies</h4>
+                                <h4>Graduation Day</h4>
                                 <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
@@ -500,12 +500,12 @@
                     </div>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/DCS1135.jpg);">
+                            <div class="image" style="background-image: url(assets/images/resource/DCS1135.JPG;">
                             </div> 
                             <div class="content">
                                 <div class="icon"><span class="flaticon-box-1"></span></div>
                                 <h4>GenThink Winners</h4>
-                                <div class="text">The GenThink Academic Quiz Competition this competition typically involves teams or individual participants answering questions from various disciplines such as mathematics, science, history, literature, and general knowledge. </div>
+                                <div class="text"> The GenThink Academic Quiz Competition is an educational event designed <br> to challenge students on a wide range of academic subjects.. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                                 </div>
@@ -551,7 +551,7 @@
             <div class="sec-title text-center">
                 <div class="sub-title text-center">School Fees</div>
                 <h4>Please be advised of the Schedule of Fees for S.Y. 2024-2025.</h4>
-                <h6>To know more about our payment options, kindly visit our Accounting Office, or call <a href="tel:<?php  echo $setting['phone']; ?>"></a><?php  echo $setting['phone']; ?></h6>
+                <h6>Please be advised of the Schedule of Fees for S.Y. 2024-2025.To know more about our payment options, kindly visit our Accounting Office, or call (046) 238-50.</h6>
             </div>
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
