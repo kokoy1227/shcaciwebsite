@@ -681,7 +681,7 @@
     <!-- Facts Section -->
     <section class="facts-section">
         <div class="auto-container">
-            <div class="wrapper-box" style="background-image: url(assets/images/resource/1101.jpg);">
+            <div class="wrapper-box" style="background-image: url(assets/images/resource/1101.png);">
                 <div class="shape">
                     <div class="shape-one" style="width: 110px;"><img src="assets/images/icons/teacher-1.png" alt=""></div>
                     <div class="shape-two" style="width: 110px;"><img src="assets/images/icons/teacher-2.png" alt=""></div>
