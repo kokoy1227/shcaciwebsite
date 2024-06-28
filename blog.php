@@ -170,7 +170,7 @@
                             <div class="inner-box">
                                 <div class="image">
                                     <img src="admin/images/blog/<?php echo $row['img']; ?>" alt="">
-                                    <div class="date"><?php echo $row['date']; ?></div>
+                                    <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
                                     <div class="overlay-two"><a href="admin/images/blog/<?php echo $row['img']; ?>"
                                             class="lightbox-image" data-fancybox="gallery"><span
                                                 class="flaticon-zoom-in"></span></a></div>
