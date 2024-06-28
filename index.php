@@ -473,7 +473,7 @@
                     </div>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/9737.JPG);">
+                            <div class="image" style="background-image: url(assets/images/resource/9737.jpg);">
                             </div>
                             <div class="content">
                                 <div class="icon"><span class="flaticon-spaceship"></span></div>
