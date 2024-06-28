@@ -607,7 +607,7 @@
                             <li>Tuition Fee (with 10% discount)</li>
                         </ul>
                         <div class="link-box">
-                            <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Buy Now </span></a>
+                            <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now! </span></a>
                         </div>
                     </div>
                 </div>
