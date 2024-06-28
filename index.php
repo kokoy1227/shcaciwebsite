@@ -500,12 +500,12 @@
                     </div>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/6579.jpg;">
+                            <div class="image" style="background-image: url(assets/images/resource/6579.JPG;">
                             </div> 
                             <div class="content">
                                 <div class="icon"><span class="flaticon-box-1"></span></div>
                                 <h4>Vehicle <br> GenThink Winners</h4>
-                                <div class="text">The GenThink Academic Quiz Competition is an educational event designed to challenge students on a wide range of academic subjects. This competition typically involves teams or individual participants answering questions from various disciplines such as mathematics, science, history, literature, and general knowledge. </div>
+                                <div class="text">The GenThink Academic Quiz Competition this competition typically involves teams or individual participants answering questions from various disciplines such as mathematics, science, history, literature, and general knowledge. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                                 </div>
