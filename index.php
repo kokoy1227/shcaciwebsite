@@ -500,11 +500,11 @@
                     </div>
                     <div class="text-block">
                         <div class="inner-box">
-                            <div class="image" style="background-image: url(assets/images/resource/65792.JPG;">
+                            <div class="image" style="background-image: url(assets/images/resource/65792.jpg;">
                             </div> 
                             <div class="content">
                                 <div class="icon"><span class="flaticon-box-1"></span></div>
-                                <h4>Vehicle <br> GenThink Winners</h4>
+                                <h4>GenThink Winners</h4>
                                 <div class="text">The GenThink Academic Quiz Competition this competition typically involves teams or individual participants answering questions from various disciplines such as mathematics, science, history, literature, and general knowledge. </div>
                                 <div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
