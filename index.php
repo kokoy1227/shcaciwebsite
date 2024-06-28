@@ -848,7 +848,7 @@
         </section>
         
     <!-- News Section -->
-    <section class="news-section">
+    <section class="news-section" id="blog">
         <div class="auto-container">
             <div class="sec-top row m-0 justify-content-md-between align-items-center">
                 <div class="sec-title">
