@@ -623,17 +623,17 @@
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                    <div class="category-wrapper"><div class="category">Nursery 2</div></div>
-                        <div class="price">₱ 1,203.75</div>
+                    <div class="category-wrapper"><div class="category">Grade 1-2</div></div>
+                        <div class="price">₱ 1,324.00</div>
                         <div class="time">Monthly Payment (TF only) <br> (Aug.24'-Mar.-25) 8 months</div>
-                        <div class="price">₱ 2,450.00</div>
+                        <div class="price">₱ 2,700.00</div>
                         <div class="time">Periodical Payment (TF only) <br> (Sept. Nov.'24' Jan. & Mar. '25) </div>
                         <ul class="content">
-                            <li>1 Warehouse </li>
-                            <li>Custom Business Rules</li>
-                            <li>Real Time Rate Shopping</li>
-                            <li>100% Insurance</li>
-                            <li>50 Freight Shipments</li>
+                            <li>Registration </li>
+                            <li>School Management System</li>
+                            <li>Upon Enrollment</li>
+                            <li>Books</li>
+                            <li>Tuition Fee (with 10% discount)</li>
                         </ul>
                         <div class="link-box">
                             <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Buy Now </span></a>
