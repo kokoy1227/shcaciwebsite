@@ -859,11 +859,12 @@
                     <a href="blog.php" class="readmore-link"><i class="flaticon-up-arrow"></i>Read All News</a>
                 </div>
             </div>
-            <div class="row">
             <?php  
                     while($row=mysqli_fetch_array($blog)){
 
                 ?>
+            <div class="row">
+            
                 <div class="news-block-one col-lg-4">
                     
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
