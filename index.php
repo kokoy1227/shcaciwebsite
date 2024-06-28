@@ -437,7 +437,7 @@
     </section>
 
     <!-- Industries Covered -->
-    <section class="industries-covered" style="background-image: url(assets/images/background/bg-3.jpg);">
+    <section class="industries-covered" style="background-image: url(assets/images/background/bgschool.png);">
         <div class="background-text" data-parallax='{"x": 100}'>Shepherd's Haven Christian Academy of Cavite, Inc.</div>
         <div class="outer-box side-container">
             <div class="outer-container">
