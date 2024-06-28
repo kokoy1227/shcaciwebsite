@@ -141,8 +141,8 @@
         <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
             <div class="background-text">
             <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
+                <div class="text-1">SHCACI</div>
+                <div class="text-2">shcaci</div>
             </div>                
         </div>
             <div class="auto-container">
