@@ -575,9 +575,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 pricing-block style-two">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/image-3.jpg);">
-                        <div class="category-wrapper"><div class="category">Standard Plan</div></div>
-                        <div class="price">$129.99</div>
-                        <div class="time">Per Month</div>
+                        <div class="category-wrapper"><div class="category">Kindergarten</div></div>
+                        <div class="price">₱ 1,225.00</div>
+                        <div class="time">Monthly Payment (TF only) <br> (Aug.24'-Mar.-25) 8 months</div>
+                        <div class="price">₱ 2,500.00</div>
+                        <div class="time">Periodical Payment (TF only) <br> (Sept. Nov.'24' Jan. & Mar. '25) </div>
                         <ul class="content">
                             <li>1 Warehouse </li>
                             <li>Custom Business Rules</li>
