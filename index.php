@@ -817,7 +817,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <img src="assets/images/resource/gentriashall.jpg" alt="">
-                                <div class="icon"><span class="flaticon-insurance"></span></div>
+                                <div class="icon"><img src="assets/images/resource/cdgtaps.jpg" alt=""></div>
                             </div>
                             <div class="content">
                                 <h4>City Division Of Gen. Trias Association Of Private Schools (CDGTAPS)</h4>
