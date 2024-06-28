@@ -810,7 +810,7 @@
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <div class="sub-title">ACCREDITATIONS</div>
-                    <h2>"Accredited Excellence,<br> Certified Trust."</h2>
+                    <h2>"Accredited Excellence, Certified Trust."</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 service-block-two">
