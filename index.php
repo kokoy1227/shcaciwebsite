@@ -641,7 +641,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 pricing-block style-two">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/image-3.jpg);">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/project-23.jpg);">
                         <div class="category-wrapper"><div class="category">Standard Plan</div></div>
                         <div class="price">$129.99</div>
                         <div class="time">Per Month</div>
