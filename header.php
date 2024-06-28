@@ -59,10 +59,7 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation">
-                                        <li class="dropdown"><a href="index.php">Admission</a></li>
-                                        <ul>
-                                                <li><a href="warehousing.html">Downloadable Forms</a></li>
-                                            </ul>
+                                        
                                         <li class="dropdown"><a href="index.php">Home</a></li>
                                         <li class="dropdown"><a href="about.php">About Us</a>
                                             <ul>
@@ -74,6 +71,11 @@
                                         <li class="dropdown"><a href="service.php">Activities</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
+                                        <li class="dropdown"><a href="index.php">Admission</a>
+                                            <ul>
+                                                <li><a href="warehousing.html">Downloadable Forms</a></li>
+                                            </ul>
+                                            </li>
                                         <li><a href="contact.php">Contact Us</a></li>
                                         <div class="language">
                                             <form action="#" class="language-switcher"></form>
