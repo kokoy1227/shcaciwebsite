@@ -106,6 +106,15 @@
               </p>
             </a>
           </li> 
+
+          <li class="nav-item has-treeview menu-open">
+            <a href="add-gallery.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+               <i class="fa fa-plus nav-icon"></i>
+              <p>
+               Add Gallery
+              </p>
+            </a>
+          </li> 
          <li class="nav-item has-treeview menu-open">
             <a href="faqs.php" class="nav-link <?php if($a==10){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
