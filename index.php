@@ -856,7 +856,7 @@
         </div>
     </section>
     
-      <div class="container pb-4">
+      <div class="container pb-4" style="margin-bottom: 50px;">
           <div class="row ">
               <?php
                         while($row=mysqli_fetch_array($blog)){
