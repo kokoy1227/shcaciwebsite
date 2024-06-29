@@ -95,23 +95,23 @@
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-2.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-2.2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-3.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-3.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-3.3.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-4.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-4.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-4.4.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-5.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-5.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-5.5.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-6.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-6.6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                     </div><!-- /.gallery-wrapper -->
                                 </div>
