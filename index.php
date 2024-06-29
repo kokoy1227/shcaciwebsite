@@ -293,8 +293,7 @@
                     <div class="sec-title">
                         <div class="sub-title">SHCACI</div>
                         <h2>Providing<br>Quality Education <br> Since 2013</h2>
-                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.
- </div>
+                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.</div>
                         <a href="about.php" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                     </div>
                     <div class="row">
@@ -846,7 +845,7 @@
             </div>
         </section>
         
-    <!-- News Section -->
+    <!-- News Section 
     <section class="news-section" id="blog">
         <div class="auto-container">
             <div class="sec-top row m-0 justify-content-md-between align-items-center">
@@ -858,7 +857,7 @@
                     <a href="blog.php" class="readmore-link"><i class="flaticon-up-arrow"></i>Read All News</a>
                 </div>
             </div>
-            <div class="container pb-5">
+            
             <div class="row">
             <?php  
                     while($row=mysqli_fetch_array($blog)){
@@ -885,9 +884,46 @@
                 </div>
                 <?php } ?>
             </div>
-            </div>
+            
         </div>
     </section> 
+        
+<style>-->
+.zoom {
+    
+ 
+}
+
+.zoom:hover {
+  transform: scale(1.02); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+</style>    
+    
+      <div class="container pb-5">
+          <div class="row ">
+              <?php
+                        while($row=mysqli_fetch_array($blog)){
+                    ?>
+              <div class="col-md-4 zoom">
+                   
+                    <div class="card-deck">
+                        <div class="card">
+                        <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
+                        <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
+                            <div class="card-body">
+                              <h5 class="card-title"><b><a href="blog-details.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
+                              <p class="card-text"><?php echo $row['descrip']; ?></p>
+                            </div>
+                            <div class="card-footer">
+                             
+                               <div class="link"><a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
+                            </div>
+                        </div>
+                    </div>    
+              </div>
+              <?php  } ?>
+          </div>
+      </div>
 
    
     <!-- Map Section -->
