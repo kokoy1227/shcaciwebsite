@@ -858,6 +858,7 @@
                     <a href="blog.php" class="readmore-link"><i class="flaticon-up-arrow"></i>Read All News</a>
                 </div>
             </div>
+            <div class="container pb-5">
             <div class="row">
             <?php  
                     while($row=mysqli_fetch_array($blog)){
@@ -883,6 +884,7 @@
                     </div>
                 </div>
                 <?php } ?>
+            </div>
             </div>
         </div>
     </section> 
