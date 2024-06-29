@@ -109,7 +109,7 @@ function compressImage($source, $destination, $quality) {
                 <div class="container-fluid">
                     <div class="row mb-2">
                         <div class="col-sm-6">
-                            <h1>Add blog</h1>
+                            <h1>Add News & Updates</h1>
                         </div>
 
                     </div>

@@ -68,7 +68,7 @@ $serial = ($page-1) * $limit;
                 <div class="container-fluid">
                     <div class="row mb-2">
                         <div class="col-sm-6">
-                            <h1>All servicess</h1>
+                            <h1>All School Events</h1>
                         </div>
                         <div class="col-sm-6" style="text-align:right;">
                             <a class="btn btn-primary" href="add-services.php">

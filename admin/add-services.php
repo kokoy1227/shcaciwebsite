@@ -91,10 +91,10 @@ echo "<script>alert('Updated Successfully');</script>
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Add Services</h1>
+            <h1>Add School Events</h1>
           </div>
            <div class="col-sm-6">
-          <a href="view-services.php" class="btn btn-success"><i class="fa fa-eye" aria-hidden="true"></i>  View Services</a>
+          <a href="view-services.php" class="btn btn-success"><i class="fa fa-eye" aria-hidden="true"></i>  View School Events</a>
           </div>
 
         </div>
