@@ -858,7 +858,7 @@
                     <a href="blog.php" class="readmore-link"><i class="flaticon-up-arrow"></i>Read All News</a>
                 </div>
             </div>
-            <div class="container pb-5">
+            
             <div class="row">
             <?php  
                     while($row=mysqli_fetch_array($blog)){
@@ -885,9 +885,46 @@
                 </div>
                 <?php } ?>
             </div>
-            </div>
+            
         </div>
     </section> 
+        
+<style>
+.zoom {
+    
+ 
+}
+
+.zoom:hover {
+  transform: scale(1.02); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+</style>    
+    
+      <div class="container pb-5">
+          <div class="row ">
+              <?php
+                        while($row=mysqli_fetch_array($blog)){
+                    ?>
+              <div class="col-md-4 zoom">
+                   
+                    <div class="card-deck">
+                        <div class="card">
+                        <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
+                        <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
+                            <div class="card-body">
+                              <h5 class="card-title"><b><a href="blog-details.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
+                              <p class="card-text"><?php echo $row['descrip']; ?></p>
+                            </div>
+                            <div class="card-footer">
+                             
+                               <div class="link"><a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
+                            </div>
+                        </div>
+                    </div>    
+              </div>
+              <?php  } ?>
+          </div>
+      </div>
 
    
     <!-- Map Section -->
