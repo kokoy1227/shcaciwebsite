@@ -31,13 +31,13 @@
 
           </li>
 		   <li class="nav-item has-treeview menu-open">
-            <h5 class="pt-2 pb-2" style="color:white;">Services</h5>
+            <h5 class="pt-2 pb-2" style="color:white;">SCHOOL EVENTS</h5>
 			</li>
 		  <li class="nav-item has-treeview menu-open">
             <a href="add-services.php" class="nav-link <?php if($a==3){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
-               Add Service
+               Add Event
               </p>
             </a>
           </li> 
@@ -45,20 +45,20 @@
             <a href="view-services.php" class="nav-link <?php if($a==4){ echo 'active'; }?>">
                <i class="fa fa-eye nav-icon"></i>
               <p>
-                View Services
+                View Events
               </p>
             </a>
           </li> 
 		  
 		  <li class="nav-item has-treeview menu-open">
-            <h5 class="pt-2 pb-2" style="color:white;">BLOG SECTION</h5>
+            <h5 class="pt-2 pb-2" style="color:white;">NEWS & UPDATE</h5>
 			</li>
 		  
 		   <li class="nav-item has-treeview menu-open">
             <a href="add-category.php" class="nav-link <?php if($a==6){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
-                Add Blog Category
+                Add News Category
               </p>
             </a>
           </li> 
@@ -66,7 +66,7 @@
             <a href="add-blog.php" class="nav-link <?php if($a==7){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
-                Add New Blog
+                Add New Updates
               </p>
             </a>
           </li> 
@@ -75,7 +75,7 @@
             <a href="view-blog.php" class="nav-link <?php if($a==8){ echo 'active'; }?>">
                <i class="fa fa-eye nav-icon"></i>
               <p>
-                View Blog
+                View News & Updates
               </p>
             </a>
           </li> 
