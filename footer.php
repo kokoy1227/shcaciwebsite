@@ -111,7 +111,7 @@
                                         </div>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-6.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-6.6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-6.6.JPG" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                     </div><!-- /.gallery-wrapper -->
                                 </div>
