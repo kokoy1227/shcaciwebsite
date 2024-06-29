@@ -28,13 +28,7 @@
               </p>
             </a>
           </li>
-          <li class="nav-item has-treeview menu-open">
-            <a href="settings.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
-              <i class="nav-icon fa fa-cog"></i>
-              <p>
-                Settings
-              </p>
-            </a>
+
           </li>
 		   <li class="nav-item has-treeview menu-open">
             <h5 class="pt-2 pb-2" style="color:white;">Services</h5>
@@ -106,6 +100,15 @@
               </p>
             </a>
           </li> 
+
+          <li class="nav-item has-treeview menu-open">
+            <a href="add-gallery.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+               <i class="fa fa-plus nav-icon"></i>
+              <p>
+               Add Gallery
+              </p>
+            </a>
+          </li> 
          <li class="nav-item has-treeview menu-open">
             <a href="faqs.php" class="nav-link <?php if($a==10){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
@@ -114,6 +117,14 @@
               </p>
             </a>
           </li>
+
+          <li class="nav-item has-treeview menu-open">
+            <a href="settings.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
+              <i class="nav-icon fa fa-cog"></i>
+              <p>
+                Settings
+              </p>
+            </a>
           
         </ul>
       </nav>
