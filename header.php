@@ -71,7 +71,7 @@
                                         <li class="dropdown"><a href="service.php">Activities</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
-                                        <li class="dropdown"><a href="">Admission</a>
+                                        <li class="dropdown"><a href="#">Admission</a>
                                             <ul>
                                                 <li><a href="warehousing.html">Admission Policies</a></li>
                                                 <li><a href="warehousing.html">Admission Requirements</a></li>
