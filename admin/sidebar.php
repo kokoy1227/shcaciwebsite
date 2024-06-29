@@ -51,14 +51,14 @@
           </li> 
 		  
 		  <li class="nav-item has-treeview menu-open">
-            <h5 class="pt-2 pb-2" style="color:white;">NEWS & UPDATE</h5>
+            <h5 class="pt-2 pb-2" style="color:white;">NEWS & UPDATES</h5>
 			</li>
 		  
 		   <li class="nav-item has-treeview menu-open">
             <a href="add-category.php" class="nav-link <?php if($a==6){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
-                Add News Category
+                Add Category
               </p>
             </a>
           </li> 
@@ -66,7 +66,7 @@
             <a href="add-blog.php" class="nav-link <?php if($a==7){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
-                Add New Updates
+                Add News & Updates
               </p>
             </a>
           </li> 
