@@ -293,8 +293,7 @@
                     <div class="sec-title">
                         <div class="sub-title">SHCACI</div>
                         <h2>Providing<br>Quality Education <br> Since 2013</h2>
-                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.
- </div>
+                        <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.</div>
                         <a href="about.php" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                     </div>
                     <div class="row">
@@ -846,7 +845,7 @@
             </div>
         </section>
         
-    <!-- News Section -->
+    <!-- News Section 
     <section class="news-section" id="blog">
         <div class="auto-container">
             <div class="sec-top row m-0 justify-content-md-between align-items-center">
@@ -889,7 +888,7 @@
         </div>
     </section> 
         
-<style>
+<style>-->
 .zoom {
     
  
