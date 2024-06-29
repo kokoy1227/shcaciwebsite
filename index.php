@@ -845,74 +845,29 @@
             </div>
         </section>
         
-    <!-- News Section 
-    <section class="news-section" id="blog">
+    <!-- Blog Section -->
+    <section class="services-section style-two ">
         <div class="auto-container">
-            <div class="sec-top row m-0 justify-content-md-between align-items-center">
-                <div class="sec-title">
-                    <div class="sub-title">News & Updates</div>
-                    <h2>Latest From Our Blog Post</h2>
-                </div>
-                <div class="link">
-                    <a href="blog.php" class="readmore-link"><i class="flaticon-up-arrow"></i>Read All News</a>
-                </div>
+            <div class="sec-title text-center">
+                <div class="sub-title">News and Updates</div>
+                <h2>Keeping Our Community Informed</h2>
             </div>
-            
-            <div class="row">
-            <?php  
-                    while($row=mysqli_fetch_array($blog)){
-
-                ?>
-                <div class="news-block-one col-lg-4">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
-                            <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
-                        </div>
-                        <div class="lower-content">
-                            <div class="category"><i class="fas fa-folder"></i><?php echo $row['category']; ?></div>
-                            <h3><a href="blog-details.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></h3>
-                            <div class="text"><?php 
-                            $ddesc = $row['descrip']; 
-                        echo $dec = substr($ddesc,0,180);
-                        ?>...</div>
-                            <div class="link">
-                                <a href="blog-details.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <?php } ?>
-            </div>
-            
+   
         </div>
-    </section> 
-        
-<style>-->
-.zoom {
+    </section>
     
- 
-}
-
-.zoom:hover {
-  transform: scale(1.02); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-</style>    
-    
-      <div class="container pb-5">
+      <div class="container pb-4">
           <div class="row ">
               <?php
                         while($row=mysqli_fetch_array($blog)){
                     ?>
               <div class="col-md-4 zoom">
-                   
-                    <div class="card-deck">
+                    <div class="card-deck" style="margin-bottom: 20px;">
                         <div class="card">
-                        <a href="blog-details.php?id=<?php echo $row['id']; ?>"><img src="admin/images/blog/<?php echo $row['img']; ?>" alt=""></a>
-                        <div class="date" style="font-size: 13px;"><?php echo $row['date']; ?></div>
+                            <img class="card-img-top" style="height:270px;" src="admin/images/blog/<?php echo $row['img']; ?>" alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title"><b><a href="blog-details.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
-                              <p class="card-text"><?php echo $row['descrip']; ?></p>
+                              <p class="card-text" ></p>
                             </div>
                             <div class="card-footer">
                              
