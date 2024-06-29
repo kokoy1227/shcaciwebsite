@@ -1,1 +1,1 @@
-<title>ACT Web Space</title>
+<title>Admin | Shepherd's Haven Christian Academy of Cavite, Inc.</title>
