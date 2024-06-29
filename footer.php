@@ -90,7 +90,7 @@
                                     <h4 class="widget_title">Our Gallery</h4>
                                     <div class="wrapper-box">
                                         <div class="image">
-                                            <img src="assets/images/gallery/gallery-1.jpg" alt="">
+                                            <img src="assets/images/gallery/gallery-1.1.jpg" alt="">
                                             <div class="overlay-link"><a href="assets/images/gallery/gallery-1.1.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
                                         <div class="image">
