@@ -900,7 +900,7 @@
                 </div>
             </div>
             
-            <div class="tab-content">
+            <div class="tab-content" style="height: 333px;">
             
                 <div class="tab-pane fadeInUp animated active" id="tab-two" role="tabpanel" aria-labelledby="tab-two">
                     <div class="row">
