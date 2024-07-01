@@ -2,7 +2,7 @@
 include 'conn.php';
 include 'auth.php';
 
-$a==10;
+$a=10;
 ?>
 <!DOCTYPE html>
 <html>
