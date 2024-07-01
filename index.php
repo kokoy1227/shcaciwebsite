@@ -571,7 +571,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 pricing-block style-two" style="margin-bottom: 200px;">
+                <div class="col-lg-4 col-md-6 pricing-block style-two" style="margin-bottom: 90px;">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/pricingbg.png);">
                         <div class="category-wrapper"><div class="category">Kindergarten</div></div>
                         <div class="price">₱ 1,225.00</div>
