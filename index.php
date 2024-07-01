@@ -610,14 +610,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section> 
-
-    <!-- Pricing Section -->
-    <section class="pricing-section">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-            </div>
             <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
@@ -679,6 +671,15 @@
             </div>
         </div>
     </section> 
+
+    <!-- Pricing Section 
+    <section class="pricing-section">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+            </div>
+            
+        </div>
+    </section> -->
 
     <!-- Facts Section -->
     <section class="facts-section">
@@ -894,8 +895,7 @@
         <div class="auto-container">
             <div class="nav-tabs-wrapper">
                 <div class="nav nav-tabs tab-btn-style-two">
-                    <div class="theme_carousel owl-theme owl-carousel" >
-                    
+                    <div class="theme_carousel owl-theme owl-carousel">
                     </div>
                 </div>
             </div>
@@ -943,7 +943,7 @@
                             </div>
                             <!--<div class="text">Indignation and dislike men who are so beguiled & demoralized by <br> the charms of pleasure of the moment.</div>
                             <div class="link">-->
-                                <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Get A Quote</span></a>
+                                <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now</span></a>
                             </div>
                         </div>
                     </div>

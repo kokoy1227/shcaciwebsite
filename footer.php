@@ -35,7 +35,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="widget contact-widget style-two">
-                            <h4>Do You Have Any Question? Please <br> Contact Our School</h4>
+                            <h4>Do You Have Any Question?<br> Please Contact Our School</h4>
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="wrapper-box">
@@ -47,12 +47,12 @@
                                             <div class="icon"><span class="flaticon-mail"></span></div>
                                             <div class="text"><strong>Email</strong><a href="mail:<?php echo $setting['email']; ?>"><?php echo $setting['email']; ?></a></div>
                                         </div>
-                                        <ul class="social-icon">
+                                        <!--<ul class="social-icon">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                             <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                        </ul>
+                                        </ul>-->
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -131,7 +131,8 @@
                 <ul class="menu">
                     <li><a href="privacy.php">Privacy Policies</a></li>
                     <li><a href="terms.php">Terms & Conditions </a></li>
-                    <li><a href="contact.php">  Contact Us</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="/admin/login.php">Admin Login</a></li>
                 </ul>
             </div>            
         </div>
