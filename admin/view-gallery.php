@@ -34,7 +34,6 @@ $a=10;
   <?php include"sidebar.php"; ?>
 
 <?php
-$_GET['delete_id'];
 if(isset($_GET['delete_id']))
 {
  $query_delete="DELETE FROM images WHERE id='".$_GET['delete_id']."'";
