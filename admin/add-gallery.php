@@ -37,8 +37,8 @@ date_default_timezone_set('Asia/Kolkata');
 $today = date("D d M Y");
 $edit = $_GET['edit'];
 
- $resultt = mysqli_query($con,"SELECT * FROM teams where id=".$edit."");
- $roww = mysqli_fetch_array($resultt);
+$resultt = mysqli_query($con,"SELECT * FROM services where id=".$edit."");
+$roww = mysqli_fetch_array($resultt);
 
 if(isset($_POST['publise'])){
 	
