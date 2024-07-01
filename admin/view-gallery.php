@@ -107,7 +107,7 @@ if($query->num_rows > 0){
         $iid = $row["id"];
 ?>
  <div class="col-md-3 pb-3" style="border:1px solid;">
-    <img style="width: 100%;" src="<?php echo $imageURL; ?>" alt="" /><br>
+    <img style="width: 100%;" src="<?php echo $imageURL; ?>" alt="" /><br><br><br>
     <center>
       <!--<input type="text" value="<?= $actual_link;?>/admin/<?= $imageURL; ?>" id="myInput<?= $iid; ?>">
           <button class="btn btn-success" onclick="myFunction<?= $iid; ?>()">Copy</button> -->
