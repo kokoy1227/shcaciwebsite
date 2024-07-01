@@ -137,19 +137,19 @@
                 
                 <div class="items-container row">
                     <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1">
-                        <div class="inner-box">
-                        <?php
+                    <?php
                                     while($row=mysqli_fetch_array($images)){
                                 ?>
+                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1">
+                        <div class="inner-box">
                             <div class="image">
                             <img src="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" alt="">
                                 <div class="overlay"><a href="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
                             </div>
-                        <?php }
-                                ?>
                         </div>
                     </div>
+                    <?php }
+                                ?>
                 </div>
             </div>
         </div>
