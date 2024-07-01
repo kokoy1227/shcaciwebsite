@@ -89,7 +89,7 @@ if(isset($_POST['submit'])){
     include_once 'dbConfig.php'; 
      
     // File upload configuration 
-    $targetDir = "uploads/"; 
+    $targetDir = "uploads/";
     $allowTypes = array('jpg','png','jpeg','gif'); 
      
     $statusMsg = $errorMsg = $insertValuesSQL = $errorUpload = $errorUploadType = ''; 
