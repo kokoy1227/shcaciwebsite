@@ -69,8 +69,11 @@ $a=1;
             <!-- small box -->
 			<a href="add-blog.php" class="small-box-footer">
             <div class="small-box bg-warning">
+                <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
               <div class="inner">
-                <h3>Total News & Updates</h3>
+                <h3 style="font-size:24px; text-align: right;">Total News & Updates</h3>
                 <?php
 include_once('conn.php');
 
@@ -82,10 +85,7 @@ $row1=mysqli_fetch_assoc($result1);
 $total_count1=$row1['count(id)'];
 
 ?>
-                <h4><?php echo $total_count1; ?></h4>
-              </div>
-              <div class="icon">
-                <i class="ion ion-person-add"></i>
+                <h4 style="font-size:30px; text-align: right;"><?php echo $total_count1; ?></h4>
               </div>
              </div>
 			</a>
