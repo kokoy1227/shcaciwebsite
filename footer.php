@@ -95,7 +95,7 @@
                                 <?php
                                     while($row=mysqli_fetch_array($images)){
                                 ?>
-                                        <div class="image">
+                                        <div class="image" style="width:70px; height:70px;">
                                             <img src="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" alt="">
                                             <div class="overlay-link"><a href="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
