@@ -82,8 +82,7 @@ $row1=mysqli_fetch_assoc($result1);
 $total_count1=$row1['count(id)'];
 
 ?>
-
-                <p><?php echo $total_count1; ?></p>
+                <h4><?php echo $total_count1; ?></h4>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
