@@ -45,67 +45,9 @@
   
     <!-- End Main Header -->
 <?php include "header.php"; ?>
-    <!-- Hidden Sidebar 
-
-    <section class="hidden-sidebar close-sidebar">
-        <div class="wrapper-box">
-            <div class="content-wrapper">
-                <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                <div class="text-widget sidebar-widget">
-                    <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>-->
-                <!-- PDF Widget 
-                <div class="pdf-widget sidebar-widget">
-                    <div class="row">
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                    </div>                            
-                </div>-->
-                <!-- Contact Widget -->
-           
-                <!-- Link Btn 
-                <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-            </div>
-        </div>
-    </section>-->
-    
-    <!--Search Popup
-    <div id="search-popup" class="search-popup">
-        <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-        <div class="popup-inner">
-            <div class="overlay-layer"></div>
-            <div class="search-form">
-                <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.php">
-                    <div class="form-group">
-                        <fieldset>
-                            <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                            <input type="submit" value="Search Now!" class="theme-btn">
-                        </fieldset>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>-->
 
     <!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
-        <!--<div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
-            </div>                
-        </div> -->
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">

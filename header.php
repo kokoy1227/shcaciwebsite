@@ -74,7 +74,7 @@
                                             <ul>
                                                 <li><a href="warehousing.html">Admission Policies</a></li>
                                                 <li><a href="warehousing.html">Admission Requirements</a></li>
-                                                <li><a href="warehousing.html">Admission FormsS</a></li>
+                                                <li><a href="warehousing.html">Admission Forms</a></li>
                                             </ul>
                                             </li>
                                         <li><a href="gallery.php">Gallery</a></li>
