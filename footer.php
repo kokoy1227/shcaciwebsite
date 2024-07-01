@@ -93,7 +93,7 @@
                                     <h4 class="widget_title">Our Gallery</h4>
                                     <div class="wrapper-box">
                                 <?php
-                                    while($row=mysqli_fetch_array($images)){a
+                                    while($row=mysqli_fetch_array($images)){
                                 ?>
                                         <div class="image">
                                             <img src="https://techmateuprising.website/admin/uploads/<?php echo $row['img']; ?>" alt="">
