@@ -88,7 +88,7 @@
                                 ?>
                     <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1">
                         <div class="inner-box">
-                            <div class="image">
+                            <div class="image" style="width: 350px; height: 350px;">
                             <img src="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" alt="">
                                 <div class="overlay"><a href="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
                             </div>
