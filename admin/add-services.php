@@ -40,7 +40,7 @@ $today = date("D d M Y");
 $edit = $_GET['edit'];
 
  $resultt = mysqli_query($con,"SELECT * FROM services where id=".$edit."");
- $roww = mysqli_fetch_array($resultt);
+ $roww = mysqli_fetch_array($resultt);d
 
 if(isset($_POST['publise'])){
 	
