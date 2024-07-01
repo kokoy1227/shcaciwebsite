@@ -78,7 +78,7 @@
                                                 <li><a href="warehousing.html">Admission FormsS</a></li>
                                             </ul>
                                             </li>
-                                        <li><a href="contact.php">Contact Us</a></li>
+                                        <li><a href="gallery.php">Gallery</a></li>
                                         <div class="language">
                                             <form action="#" class="language-switcher"></form>
                                         </div>
