@@ -102,7 +102,7 @@
           </li> 
 
           <li class="nav-item has-treeview menu-open">
-            <a href="add-gallery.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="add-gallery.php" class="nav-link <?php if($a==11){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                Add Gallery
@@ -110,7 +110,7 @@
             </a>
           </li> 
          <li class="nav-item has-treeview menu-open">
-            <a href="faqs.php" class="nav-link <?php if($a==10){ echo 'active'; }?>">
+            <a href="faqs.php" class="nav-link <?php if($a==12){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 FAQ
