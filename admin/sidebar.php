@@ -34,7 +34,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">SCHOOL EVENTS</h5>
 			</li>
 		  <li class="nav-item has-treeview menu-open">
-            <a href="add-services.php" class="nav-link <?php if($a==3){ echo 'active'; }?>">
+            <a href="add-services.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                Add Event
@@ -42,7 +42,7 @@
             </a>
       </li> 
       <li class="nav-item has-treeview menu-open">
-            <a href="view-services.php" class="nav-link <?php if($a==4){ echo 'active'; }?>">
+            <a href="view-services.php" class="nav-link <?php if($a==3){ echo 'active'; }?>">
                <i class="fa fa-eye nav-icon"></i>
               <p>
                 View Events
@@ -55,7 +55,7 @@
 			</li>
 		  
 		  <li class="nav-item has-treeview menu-open">
-            <a href="add-category.php" class="nav-link <?php if($a==6){ echo 'active'; }?>">
+            <a href="add-category.php" class="nav-link <?php if($a==4){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add Category
@@ -63,7 +63,7 @@
             </a>
       </li> 
 		  <li class="nav-item has-treeview menu-open">
-            <a href="add-blog.php" class="nav-link <?php if($a==7){ echo 'active'; }?>">
+            <a href="add-blog.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add News & Updates
@@ -71,7 +71,7 @@
             </a>
       </li> 
 		  <li class="nav-item has-treeview menu-open">
-            <a href="view-blog.php" class="nav-link <?php if($a==8){ echo 'active'; }?>">
+            <a href="view-blog.php" class="nav-link <?php if($a==6){ echo 'active'; }?>">
                <i class="fa fa-eye nav-icon"></i>
               <p>
                 View News & Updates
@@ -83,7 +83,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">TESTIMONIALS</h5>
 			</li>
       <li class="nav-item has-treeview menu-open">
-            <a href="add-testimonials.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="add-testimonials.php" class="nav-link <?php if($a==7){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add Testimonials
@@ -91,7 +91,7 @@
             </a>
       </li>
       <li class="nav-item has-treeview menu-open">
-            <a href="view-testimonials.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="view-testimonials.php" class="nav-link <?php if($a==8){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 View Testimonials
@@ -103,7 +103,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">GALLERY</h5>
 			</li>
       <li class="nav-item has-treeview menu-open">
-            <a href="add-gallery.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="add-gallery.php" class="nav-link <?php if($a==9){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add Gallery
@@ -111,7 +111,7 @@
             </a>
       </li>
       <li class="nav-item has-treeview menu-open">
-            <a href="view-gallery.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="view-gallery.php" class="nav-link <?php if($a==10){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 View Gallery
@@ -123,7 +123,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">TEAMS</h5>
 			</li>
       <li class="nav-item has-treeview menu-open">
-            <a href="add-teams.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="add-teams.php" class="nav-link <?php if($a==11){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add Teams
@@ -131,7 +131,7 @@
             </a>
       </li>
       <li class="nav-item has-treeview menu-open">
-            <a href="view-teams.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
+            <a href="view-teams.php" class="nav-link <?php if($a==12){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 View Teams
@@ -143,7 +143,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">OTHER OPTIONS</h5>
 			</li>
           <li class="nav-item has-treeview menu-open">
-            <a href="faqs.php" class="nav-link <?php if($a==12){ echo 'active'; }?>">
+            <a href="faqs.php" class="nav-link <?php if($a==13){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 FAQ
@@ -151,7 +151,7 @@
             </a>
           </li>
           <li class="nav-item has-treeview menu-open">
-            <a href="settings.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
+            <a href="settings.php" class="nav-link <?php if($a==14){ echo 'active'; }?>">
               <i class="nav-icon fa fa-cog"></i>
               <p>
                 Settings

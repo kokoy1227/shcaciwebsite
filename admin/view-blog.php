@@ -3,7 +3,7 @@ error_reporting(0);
 include 'conn.php';
 include 'auth.php';
 
-$a=8;
+$a=6;
 ?>
 <!DOCTYPE html>
 <html>
