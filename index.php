@@ -551,7 +551,7 @@
                 <h4>Please be advised of the Schedule of Fees for S.Y. 2024-2025.</h4>
                 <h6>To know more about our payment options, kindly visit our Accounting Office, or call (046) 238-50.</h6>
             </div>
-            <div class="row m-0" style="margin-bottom: 200px;">
+            <div class="row m-0">
                 <div class="col-lg-4 col-md-6 pricing-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="category-wrapper"><div class="category">Nursery 1</div></div>
@@ -571,7 +571,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 pricing-block style-two">
+                <div class="col-lg-4 col-md-6 pricing-block style-two" style="margin-bottom: 200px;">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" style="background-image: url(assets/images/resource/pricingbg.png);">
                         <div class="category-wrapper"><div class="category">Kindergarten</div></div>
                         <div class="price">₱ 1,225.00</div>
