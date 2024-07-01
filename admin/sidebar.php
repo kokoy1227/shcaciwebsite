@@ -84,7 +84,7 @@
 			</li>
         
            <li class="nav-item has-treeview menu-open">
-            <a href="add-testimonials.php" class="nav-link <?php if($a==9){ echo 'active'; }?>">
+            <a href="add-testimonials.php" class="nav-link <?php if($a==5){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 Add Testimonials
