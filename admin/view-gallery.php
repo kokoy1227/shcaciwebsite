@@ -107,11 +107,11 @@ if($query->num_rows > 0){
         $iid = $row["id"];
 ?>
  <div class="col-md-3 pb-3" style="border:1px solid;">
-    <img style="width: 100%;" src="<?php echo $imageURL; ?>" alt="" /><br><br><br>
+    <img style="width: 100%;" src="<?php echo $imageURL; ?>" alt="" /><br>
     <center>
       <!--<input type="text" value="<?= $actual_link;?>/admin/<?= $imageURL; ?>" id="myInput<?= $iid; ?>">
           <button class="btn btn-success" onclick="myFunction<?= $iid; ?>()">Copy</button> -->
-        <a class="btn btn-danger" href="view-gallery.php?delete_id=<?= $row["id"]; ?>"><i class="fas fa-trash"></i> Delete</a></center>
+        <a class="btn btn-danger" style="margin-top: 10px;" href="view-gallery.php?delete_id=<?= $row["id"]; ?>"><i class="fas fa-trash"></i> Delete</a></center>
         <script>
 function myFunction<?= $iid; ?>() {
   var copyText = document.getElementById("myInput<?= $iid; ?>");
