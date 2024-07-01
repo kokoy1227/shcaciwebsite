@@ -4,7 +4,7 @@
     //fetch settings
     $settings = mysqli_query($con,"SELECT * FROM settings");
     $setting  = mysqli_fetch_array($settings);
-    
+
     $images = mysqli_query($con,"SELECT * FROM images ORDER BY id ASC LIMIT 9");
 ?>
 
@@ -13,7 +13,7 @@
 
 <head>
 <meta charset="utf-8">
-<title><?php echo $setting['site_name']; ?></title>
+<title>School Gallery - <?php echo $setting['site_name']; ?></title>
 <meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -110,14 +110,8 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>About Us</h1>
+                        <h1>School Gallery</h1>
                     </div>
-                   <ul class="bread-crumb style-two">
-                        <li class="active"><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="team.html">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
-                    </ul> 
                 </div>                    
             </div>
         </div>
@@ -126,7 +120,7 @@
     <!-- Projects Section Three -->
     <section class="projects-section-three">
         <div class="auto-container">
-            <!--Filter-->
+            <!--Filter
             <div class="filters">
                 <ul class="filter-tabs filter-btns">
                     <li class="filter active" data-role="button" data-filter=".all">View All </li>
@@ -136,7 +130,7 @@
                     <li class="filter" data-role="button" data-filter=".cat-4">Warehouse</li>
                     <li class="filter" data-role="button" data-filter=".cat-5">Management</li>
                 </ul>
-            </div>
+            </div>-->
                 
             <!--Sortable Galery-->
             <div class="sortable-masonry">
@@ -145,113 +139,15 @@
                     <!-- Project Block -->
                     <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1">
                         <div class="inner-box">
+                        <?php
+                                    while($row=mysqli_fetch_array($images)){
+                                ?>
                             <div class="image">
-                                <img src="assets/images/resource/project-1.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-1.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
+                            <img src="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" alt="">
+                                <div class="overlay"><a href="https://techmateuprising.website/admin/uploads/<?php echo $row['file_name']; ?>" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
                             </div>
-                            <div class="lower-content">
-                                <div class="category">Freight Forwarding</div>
-                                <h4>Ocean Cargo Roundtable</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-4">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-2.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Transport, Materials</div>
-                                <h4>Reverse Logistics Regulations</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1 cat-3">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-3.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-3.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Management</div>
-                                <h4>Shipiment Monitoring Technology</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-2 cat-5">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-4.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-4.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Freight Forwarding</div>
-                                <h4>Air Fright Forwarding</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-3 cat-2">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-8.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-8.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Management</div>
-                                <h4>Shipiment Monitoring Technology</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-9.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-9.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Freight Forwarding</div>
-                                <h4>Air Fright Forwarding</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-4 cat-5">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-10.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-10.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Freight Forwarding</div>
-                                <h4>Ocean Cargo Roundtable</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="col-xl-3 col-lg-6 project-block masonry-item all cat-1 cat-5 cat-3">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="assets/images/resource/project-11.jpg" alt="">
-                                <div class="overlay"><a href="assets/images/resource/project-11.jpg" class="lightbox-image" data-fancybox="gallery"><span class="flaticon-full-size"></span></a></div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="category">Transport, Materials</div>
-                                <h4>Reverse Logistics Regulations</h4>
-                                <div class="link-btn"><a href="portfolio-details.html"><span class="flaticon-up-arrow"></span></a></div>
-                            </div>
+                        <?php }
+                                ?>
                         </div>
                     </div>
                 </div>
