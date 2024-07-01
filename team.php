@@ -6,7 +6,7 @@
     $setting  = mysqli_fetch_array($settings);
 
      //fetch team
-    $teams = mysqli_query($con,"SELECT * FROM team");
+    $team = mysqli_query($con,"SELECT * FROM teams");
 
 ?>
 
@@ -76,7 +76,7 @@
         <div class="auto-container">
             <div class="row">
                 <?php
-                    while($row=mysqli_fetch_array($images)){
+                    while($row=mysqli_fetch_array($team)){
                 ?>
                 <div class="col-lg-4 col-md-6 team-blcok">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
