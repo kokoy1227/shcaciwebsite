@@ -93,7 +93,7 @@
           </li> 
 
           <li class="nav-item has-treeview menu-open">
-            <a href="view-teams.php" class="nav-link <?php if($a==){ echo 'active'; }?>">
+            <a href="view-teams.php" class="nav-link <?php if($a==13){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                View Teams
