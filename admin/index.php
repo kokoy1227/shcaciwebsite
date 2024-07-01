@@ -77,7 +77,7 @@ include_once('conn.php');
 $sql="SELECT count(id) FROM blog";
 $total_count1=0;
 
-$result1=mysqli_query($conn,$sql);
+$result1=mysqli_query($con,$sql);
 $row1=mysqli_fetch_assoc($result1);
 $total_count1=$row1['count(id)'];
 
