@@ -149,7 +149,7 @@ function compressImage($source, $destination, $quality) {
 			<div class="card-header">
 			<div class="form-group">
                     <label for="exampleInputFile">Select Img<span style="color:red;">(only compresed)</span></label>
-					<p style="color:red;">img size 370px x 370px</p>
+					<p style="color:red;">img size 1600px x 2000px</p>
                         <input name="lis_img" type="file">
                      <?php echo $roww["img"]; ?>
                   </div>
