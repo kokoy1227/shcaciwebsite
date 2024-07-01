@@ -80,10 +80,10 @@
                 ?>
                 <div class="col-lg-4 col-md-6 team-blcok">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/faculty/Apostol_Almar.png" alt=""></div>
+                        <div class="image"><img src="admin/images/team/<?php echo $row['img']; ?>" alt=""></div>
                         <div class="content">
-                            <div class="designation">Principal, SO1</div>
-                            <h4>Almar Apostol</h4>
+                            <div class="designation"><?php echo $row['designation']; ?></div>
+                            <h4><?php echo $row['title']; ?></h4>
                             <!--<div class="hover-content">
                                 <ul class="social-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
