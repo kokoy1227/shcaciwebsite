@@ -67,10 +67,10 @@ $a=1;
           <!-- ./col -->
           <div class="col-lg-3 col-6">
             <!-- small box -->
-			<a href="add-blog.php" class="small-box-footer">
+			<a href="add-services.php" class="small-box-footer">
             <div class="small-box bg-warning">
                 <div class="icon" >
-                <i class="ion ion-person-add" style="left: 20px; right: -15px;"></i>
+                <i class="ion ion-calendar" style="left: 20px; right: -15px;"></i>
               </div>
               <div class="inner">
                 <h3 style="font-size:24px; text-align: right;">Total School Events</h3>
@@ -95,7 +95,7 @@ $total_count1=$row1['count(id)'];
 			<a href="add-blog.php" class="small-box-footer">
             <div class="small-box bg-danger">
                 <div class="icon" >
-                <i class="ion ion-person-add" style="left: 20px; right: -15px;"></i>
+                <i class="ion ion-ios-paper" style="left: 20px; right: -15px;"></i>
               </div>
               <div class="inner">
                 <h3 style="font-size:24px; text-align: right;">Total News & Updates</h3>
