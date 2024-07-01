@@ -64,16 +64,26 @@ $a=1;
       <div class="container-fluid">
         <!-- Small boxes (Stat box) -->
         <div class="row">
-         
           <!-- ./col -->
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="add-blog.php" class="small-box-footer">
             <div class="small-box bg-warning">
               <div class="inner">
-                <h3> Add Blog</h3>
+                <h3>Total News & Updates</h3>
+                <?php
+include_once('conn.php');
 
-                <p>Add</p>
+$sql="SELECT count(id) FROM blog";
+$total_count1=0;
+
+$result1=mysqli_query($conn,$sql);
+$row1=mysqli_fetch_assoc($result1);
+$total_count1=$row1['count(id)'];
+
+?>
+
+                <p><?php echo $total_count1; ?></p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
