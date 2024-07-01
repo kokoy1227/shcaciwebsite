@@ -4,6 +4,9 @@
     //fetch settings
     $settings = mysqli_query($con,"SELECT * FROM settings");
     $setting  = mysqli_fetch_array($settings);
+
+    
+    $images = mysqli_query($con,"SELECT * FROM images");
 ?>
 
     <!-- Newsletter 
@@ -89,11 +92,16 @@
                                 <div class="widget instagram-widget">
                                     <h4 class="widget_title">Our Gallery</h4>
                                     <div class="wrapper-box">
+                                <?php
+                                    while($row=mysqli_fetch_array($images)){
+                                ?>
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-1.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-1.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
+                                            <div class="overlay-link"><a href="assets/images/gallery/<?php echo $row['img']; ?>" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
-                                        <div class="image">
+                                <?php }
+                                ?>
+                                        <!--<div class="image">
                                             <img src="assets/images/gallery/gallery-2.jpg" alt="">
                                             <div class="overlay-link"><a href="assets/images/gallery/gallery-2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
                                         </div>
@@ -112,7 +120,7 @@
                                         <div class="image">
                                             <img src="assets/images/gallery/gallery-6.jpg" alt="">
                                             <div class="overlay-link"><a href="assets/images/gallery/gallery-6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>
+                                        </div>-->
                                     </div><!-- /.gallery-wrapper -->
                                 </div>
                             </div>
