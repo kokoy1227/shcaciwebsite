@@ -2,6 +2,9 @@
     include "admin/conn.php";
 
     //fetch settings
+    $settings = mysqli_query($con,"SELECT * FROM settings");
+    $setting  = mysqli_fetch_array($settings);
+    
     $images = mysqli_query($con,"SELECT * FROM images ORDER BY id ASC LIMIT 9");
 ?>
 
