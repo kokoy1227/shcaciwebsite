@@ -73,6 +73,31 @@ $a=1;
                 <i class="ion ion-person-add" style="left: 20px; right: -15px;"></i>
               </div>
               <div class="inner">
+                <h3 style="font-size:24px; text-align: right;">Total School Events</h3>
+                <?php
+include_once('conn.php');
+
+$sql="SELECT count(id) FROM services";
+$total_count1=0;
+
+$result1=mysqli_query($con,$sql);
+$row1=mysqli_fetch_assoc($result1);
+$total_count1=$row1['count(id)'];
+
+?>
+                <h4 style="font-size:30px; text-align: right;"><?php echo $total_count1; ?></h4>
+              </div>
+             </div>
+			</a>
+          </div>
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+			<a href="add-blog.php" class="small-box-footer">
+            <div class="small-box bg-danger">
+                <div class="icon" >
+                <i class="ion ion-person-add" style="left: 20px; right: -15px;"></i>
+              </div>
+              <div class="inner">
                 <h3 style="font-size:24px; text-align: right;">Total News & Updates</h3>
                 <?php
 include_once('conn.php');
@@ -90,29 +115,7 @@ $total_count1=$row1['count(id)'];
              </div>
 			</a>
           </div>
-          <!-- ./col -->
-          <div class="col-lg-3 col-6">
-            <!-- small box -->
-			<a href="view-blog.php" class="small-box-footer">
-            <div class="small-box bg-danger">
-              <div class="inner">
-                <h3>View Blog</h3>
-
-                <p>View</p>
-              </div>
-              <div class="icon">
-                <i class="ion ion-pie-graph"></i>
-              </div>
-             </div>
-			</a>
-          </div>
-          <!-- ./col -->
-        </div>
-        <!-- /.row -->
-        <!-- Main row -->
-        
-        <!-- /.row (main row) -->
-      </div><!-- /.container-fluid -->
+        </div><!-- end row -->
     </section>
     <!-- /.content -->
   </div>
