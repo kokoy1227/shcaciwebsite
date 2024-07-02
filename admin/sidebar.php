@@ -1,5 +1,5 @@
 
-<aside class="main-sidebar sidebar-dark-primary elevation-4">
+<aside class="main-sidebar sidebar-dark-green elevation-4">
     <!-- Brand Logo -->
  
 
@@ -11,7 +11,7 @@
           <img src="dist/img/admin-logo.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Admin Panel</a>
+          <a href="/admin/index.php" class="d-block">Admin Panel</a>
         </div>
       </div>
 

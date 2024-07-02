@@ -68,7 +68,15 @@ $a=1;
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="add-services.php" class="small-box-footer">
-            <div class="small-box bg-warning">
+            <div class="small-box bg-green"
+            style="/* From https://css.glass */
+background: rgba(255, 255, 255, 0.07);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.1px);
+-webkit-backdrop-filter: blur(6.1px);
+border: 1px solid rgba(255, 255, 255, 0.09);"
+            >
                 <div class="icon" >
                 <i class="ion ion-calendar" style="left: 20px; right: -15px;"></i>
               </div>
@@ -93,7 +101,15 @@ $total_count1=$row1['count(id)'];
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="add-blog.php" class="small-box-footer">
-            <div class="small-box bg-danger">
+            <div class="small-box bg-cyan"
+            style="/* From https://css.glass */
+background: rgba(255, 255, 255, 0.07);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.1px);
+-webkit-backdrop-filter: blur(6.1px);
+border: 1px solid rgba(255, 255, 255, 0.09);"
+            >
                 <div class="icon" >
                 <i class="ion ion-ios-paper" style="left: 20px; right: -15px;"></i>
               </div>
@@ -103,6 +119,39 @@ $total_count1=$row1['count(id)'];
 include_once('conn.php');
 
 $sql="SELECT count(id) FROM blog";
+$total_count1=0;
+
+$result1=mysqli_query($con,$sql);
+$row1=mysqli_fetch_assoc($result1);
+$total_count1=$row1['count(id)'];
+
+?>
+                <h4 style="font-size:30px; text-align: right;"><?php echo $total_count1; ?></h4>
+              </div>
+             </div>
+			</a>
+          </div>
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+			<a href="add-team.php" class="small-box-footer">
+            <div class="small-box bg-cyan"
+            style="/* From https://css.glass */
+background: rgba(255, 255, 255, 0.07);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.1px);
+-webkit-backdrop-filter: blur(6.1px);
+border: 1px solid rgba(255, 255, 255, 0.09);"
+            >
+                <div class="icon" >
+                <i class="ion ion-ios-paper" style="left: 20px; right: -15px;"></i>
+              </div>
+              <div class="inner">
+                <h3 style="font-size:24px; text-align: right;">Total Teachers/Staffs</h3>
+                <?php
+include_once('conn.php');
+
+$sql="SELECT count(id) FROM teams";
 $total_count1=0;
 
 $result1=mysqli_query($con,$sql);
