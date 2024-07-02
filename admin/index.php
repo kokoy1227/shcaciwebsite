@@ -164,6 +164,39 @@ $total_count1=$row1['count(id)'];
              </div>
 			</a>
           </div>
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+			<a href="view-gallery.php" class="small-box-footer">
+            <div class="small-box bg-red"
+            style="/* From https://css.glass */
+background: rgba(255, 255, 255, 0.07);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.1px);
+-webkit-backdrop-filter: blur(6.1px);
+border: 1px solid rgba(255, 255, 255, 0.09);"
+            >
+                <div class="icon" >
+                <i class="ion ion-ios-people" style="left: 20px; right: -15px;"></i>
+              </div>
+              <div class="inner">
+                <h3 style="font-size:24px; text-align: right;">Total Gallery Photos</h3>
+                <?php
+include_once('conn.php');
+
+$sql="SELECT count(id) FROM gallery";
+$total_count1=0;
+
+$result1=mysqli_query($con,$sql);
+$row1=mysqli_fetch_assoc($result1);
+$total_count1=$row1['count(id)'];
+
+?>
+                <h4 style="font-size:30px; text-align: right;"><?php echo $total_count1; ?></h4>
+              </div>
+             </div>
+			</a>
+          </div>
         </div><!-- end row -->
     </section>
     <!-- /.content -->
