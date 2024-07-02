@@ -67,7 +67,7 @@ $a=1;
           <!-- ./col -->
           <div class="col-lg-3 col-6">
             <!-- small box -->
-			<a href="add-services.php" class="small-box-footer">
+			<a href="view-services.php" class="small-box-footer">
             <div class="small-box bg-green"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
@@ -100,7 +100,7 @@ $total_count1=$row1['count(id)'];
           </div>
           <div class="col-lg-3 col-6">
             <!-- small box -->
-			<a href="add-blog.php" class="small-box-footer">
+			<a href="view-blog.php" class="small-box-footer">
             <div class="small-box bg-cyan"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
@@ -133,8 +133,8 @@ $total_count1=$row1['count(id)'];
           </div>
           <div class="col-lg-3 col-6">
             <!-- small box -->
-			<a href="add-team.php" class="small-box-footer">
-            <div class="small-box bg-cyan"
+			<a href="view-teams.php" class="small-box-footer">
+            <div class="small-box bg-yellow"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
 border-radius: 16px;
