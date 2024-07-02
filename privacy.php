@@ -116,7 +116,7 @@
     </div>
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
         <!--<div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">transida</div>
@@ -127,13 +127,8 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>Our Privay Poloicies</h1>
+                        <h1>Our Privacy Policy</h1>
                     </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="#">Pages</a></li>
-                        <li>Faq’s</li>
-                    </ul>
                 </div>                    
             </div>
         </div>
@@ -144,26 +139,20 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 
-                <h2 class="pb-3">Privacy Policies</h2>
+                <h2 class="pb-3">Privacy Policy</h2>
                 <h5 class="text-left"><b>What is Privacy Policies About?</b></h5>
-               <p class="text-left">Global Worldwide Solution and its affiliates (collectively or individually, as applicable, referred to as "S&P Global", "Company", "we", "our", "us") respect your right to privacy. This global Corporate Privacy Policy (“Policy”) explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Policy applies to interactions we have with you via our websites, applications and other products and services including events, where you otherwise contact us and where we otherwise display or link to this Policy (“Services”) or in the course of our receipt of products or services from you or your employer. You also may have certain rights with respect to your personal information under applicable data protection laws. We have included supplemental information for certain jurisdictions in this Policy. Third parties that link from or to our Services, or from whom we collect personal information may have their own privacy policies and practices. Please review their policies to learn more about their practices.</p>
-            <h5 class="text-left"><b>What personal information we collect?</b></h5>
-                <p class="text-left">The information that we collect from or about you - some of which is personal information under applicable data protection laws - falls into the following broad categories:</p>
-                <p class="text-left">As part of our Services, you may provide certain information to us, such as your contact details, user credentials, and employment information.</p>
-                <p class="text-left">A few examples include, when you fill out an on-line form to register to use our Services, such as to attend an event or to receive research through our website. You may also provide us with your business card information or other contact information as you do business with us or you request information from us. Information we ask you for and why we ask you for it include:</p>
-                <p class="text-left"><b>Types of personal information</b></p>
-                <p class="text-left">Contact details such as name, telephone numbers (which may include cell/mobile numbers), email address and postal address and details of any correspondence you send us.</p>
-                <p class="text-left"><b>Why we collect it</b></p>
-                <p class="text-left">To respond to your correspondence and inquiries, such as when you want to learn more about our conferences and webinars. To gather information needed to provide Services requested by you or your employer. To obtain your feedback regarding our Services, including an event you attended, such as when we or our agents send you a customer satisfaction survey.</p>
-            <h5 class="text-left"><b>Do we use cookies?</b></h5>
-                <p class="text-left">We use cookies and similar tracking technology (collectively, "Cookies") in certain Services (in particular our websites and some mobile applications) to collect and use personal information about you and to serve our interest-based advertising. These technologies may also allow certain third parties to collect information about you, such as information about you clicking on advertisements or installing our Services. Where permitted by applicable law, we will deploy first party performance or analytics cookies automatically when you visit our websites. Where required by applicable law, we will obtain your consent before we place any Cookies on your device that are not strictly necessary for the functioning of our websites. To learn more, including about how to consent to or withdraw your consent to Cookies, please see our Cookie Notice.</p>
-                <p class="text-left">We use Google Analytics to better understand how visitors use our Services. Google Analytics provides us with information about users of our Services. Google Analytics uses Cookies that Google or its affiliate DoubleClick recognizes when you visit other websites and applications. For more information about how Google collects, uses, and shares your information, including information collected through our Services, please visit the Google Privacy Policy - Partners website at https://www.google.com/policies/privacy/partners/ or see Google’s own Privacy Policy at https://policies.google.com/privacy.</p>
-                <p class="text-left">Google Analytics uses Cookies to help us analyze how users use our Services. Personal information generated by these Cookies about your use of our Services (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. On our behalf, Google will use this information to evaluate your use of our Services and will compile reports on your activity for us</p>
-            <h5 class="text-left"><b>How lond we retain personal informations?</b></h5>
-                <p class="text-left">We retain your personal information for as long as we have an ongoing legitimate business need to do so (for example, to provide you with a Service you have requested, or to comply with applicable legal, tax or accounting requirements).</p>
-                <p class="text-left">Once we no longer have a legitimate business need to process your personal information, we follow our applicable information governance policies, procedures and standards and retain your information for as long as necessary to accomplish the purpose for which it was collected, following which we either delete or anonymize your personal information, or if deletion or anonymization is not possible, then we pseudonymize and/or securely store your personal information and isolate it from any further processing until deletion is possible.</p>
-                <p class="text-left">Please contact us for more information about the period of time for which we will process your personal information.</p>
-                <p class="text-left"></p>
+               <p class="text-left">Welcome to TechMate Uprising (https://techmateuprising.website/) ("we," "us," "our"). We are committed to protecting your privacy and ensuring your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information.</p>
+               <h5 class="text-left"><b>Information We Collect</b></h5>
+               <h5 class="text-left"><b>a. Personal Information:</b></h5>
+                <p class="text-left">We may collect personal information that you provide directly to us, such as when you create an account, subscribe to our newsletter, participate in a survey, or contact us. This information may include:</p>
+                <p class="text-left"><b>
+                    • Name<br>
+                    • Email address<br>
+                    • Phone number<br>
+                    • Mailing address<br>
+                    • Payment information (if applicable)<br>
+</b></p>
+                
             </div>
          
         </div>
