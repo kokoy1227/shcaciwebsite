@@ -144,7 +144,7 @@ backdrop-filter: blur(6.1px);
 border: 1px solid rgba(255, 255, 255, 0.09);"
             >
                 <div class="icon" >
-                <i class="ion ion-ios-paper" style="left: 20px; right: -15px;"></i>
+                <i class="ion ion-ios-people" style="left: 20px; right: -15px;"></i>
               </div>
               <div class="inner">
                 <h3 style="font-size:24px; text-align: right;">Total Teachers/Staffs</h3>
