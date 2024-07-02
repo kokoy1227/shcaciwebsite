@@ -143,16 +143,68 @@
                 <h5 class="text-left"><b>What is Privacy Policies About?</b></h5>
                <p class="text-left">Welcome to TechMate Uprising (https://techmateuprising.website/) ("we," "us," "our"). We are committed to protecting your privacy and ensuring your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information.</p>
                <h5 class="text-left"><b>Information We Collect</b></h5>
-               <h5 class="text-left"><b>a. Personal Information:</b></h5>
+               <h5 class="text-left">a. Personal Information:</h5>
                 <p class="text-left">We may collect personal information that you provide directly to us, such as when you create an account, subscribe to our newsletter, participate in a survey, or contact us. This information may include:</p>
                 <p class="text-left"><b>
                     • Name<br>
                     • Email address<br>
                     • Phone number<br>
                     • Mailing address<br>
-                    • Payment information (if applicable)<br>
-</b></p>
-                
+                    • Payment information (if applicable)<br></b>
+                </p>
+                <h5 class="text-left">b. Non-Personal Information:</h5>
+                <p class="text-left">We may collect non-personal information about your interaction with our website. This includes, but is not limited to:</p>
+                <p class="text-left"><b>
+                    • Browser type<br>
+                    • IP address<br>
+                    • Pages visited<br>
+                    • Time spent on pages<br>
+                    • Referring/exit pages<br></b>
+                </p>
+                <h5 class="text-left"><b>How We Use Your Information</b></h5>
+                <p class="text-left">We use the information we collect for various purposes, including:</p>               
+                <p class="text-left"><b>
+                    • To provide and maintain our services<br>
+                    • To process transactions<br>
+                    • Phone number<br>
+                    • To send periodic emails and updates<br>
+                    • To improve our website and services<br>
+                    • To respond to your inquiries and provide customer support<br>
+                    • To monitor and analyze usage and trends<br></b>
+                </p>
+                <h5 class="text-left"><b>Cookies and Tracking Technologies</b></h5>
+                <p class="text-left">We use cookies and similar tracking technologies to track activity on our website and hold certain information. Cookies are files with a small amount of data that may include an anonymous unique identifier. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our website.</p>               
+                <h5 class="text-left"><b>Sharing Your Information</b></h5>
+                <p class="text-left">We do not sell, trade, or otherwise transfer your personal information to outside parties except as described below:</p>               
+                <p class="text-left"><b>
+                    • To trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.<br>
+                    • To comply with legal obligations.<br>
+                    • To protect and defend our rights or property.<br>
+                    • In an emergency, to protect the personal safety of our users or the public.<br>
+                    • To improve our website and services<br></b>
+                </p>
+                <h5 class="text-left"><b>Security</b></h5>
+                <p class="text-left">We implement a variety of security measures to maintain the safety of your personal information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, and we cannot guarantee its absolute security.</p>
+                <h5 class="text-left"><b>Your Choices</b></h5>
+                <p class="text-left">You have choices regarding the personal information you provide to us:</p>               
+                <p class="text-left"><b>
+                    • You can choose not to provide certain information, but this may limit your ability to use certain features of our website.<br>
+                    • You can update or delete your account information by contacting us.<br>
+                    • You can opt out of receiving promotional emails by following the unsubscribe instructions provided in the emails.<br></b>
+                </p>
+                <h5 class="text-left"><b>Third-Party Links</b></h5>
+                <p class="text-left">Our website may contain links to other websites. We are not responsible for the privacy practices or the content of these other websites. We encourage you to read the privacy policies of any linked sites you visit.</p>
+                <h5 class="text-left"><b>Children's Privacy</b></h5>
+                <p class="text-left">Our website is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently received personal information from a user under the age of 13, we will delete such information from our records.</p>
+                <h5 class="text-left"><b>Changes to This Privacy Policy</b></h5>
+                <p class="text-left">We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website with a new effective date. We encourage you to review this Privacy Policy periodically.</p>
+                <h5 class="text-left"><b>Contact Us</b></h5>
+                <p class="text-left">If you have any questions about this Privacy Policy, please contact us at:</p>               
+                <p class="text-left"><b>
+                    • Email: <?php echo $setting['email']; ?><br>
+                    • Address: <?php echo $setting['address']; ?><br></b>
+                </p>
+                <p class="text-left">By using our website, you consent to our Privacy Policy.</p>
             </div>
          
         </div>
