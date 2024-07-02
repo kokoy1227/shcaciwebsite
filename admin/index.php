@@ -134,7 +134,7 @@ $total_count1=$row1['count(id)'];
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="view-teams.php" class="small-box-footer">
-            <div class="small-box bg-orange"
+            <div class="small-box bg-teal"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
 border-radius: 16px;
