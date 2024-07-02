@@ -68,7 +68,7 @@ $a=1;
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="view-services.php" class="small-box-footer">
-            <div class="small-box bg-green"
+            <div class="small-box bg-cyan"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
 border-radius: 16px;
@@ -101,7 +101,7 @@ $total_count1=$row1['count(id)'];
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="view-blog.php" class="small-box-footer">
-            <div class="small-box bg-cyan"
+            <div class="small-box bg-green"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
 border-radius: 16px;
@@ -134,7 +134,7 @@ $total_count1=$row1['count(id)'];
           <div class="col-lg-3 col-6">
             <!-- small box -->
 			<a href="view-teams.php" class="small-box-footer">
-            <div class="small-box bg-yellow"
+            <div class="small-box bg-orange"
             style="/* From https://css.glass */
 background: rgba(255, 255, 255, 0.07);
 border-radius: 16px;
@@ -177,7 +177,7 @@ backdrop-filter: blur(6.1px);
 border: 1px solid rgba(255, 255, 255, 0.09);"
             >
                 <div class="icon" >
-                <i class="ion ion-ios-people" style="left: 20px; right: -15px;"></i>
+                <i class="ion ion-ios-camera" style="left: 20px; right: -15px;"></i>
               </div>
               <div class="inner">
                 <h3 style="font-size:24px; text-align: right;">Total Gallery Photos</h3>
