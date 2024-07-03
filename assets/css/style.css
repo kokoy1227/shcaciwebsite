@@ -4344,15 +4344,6 @@ img {
     padding-right: 28px;
 }
 
-.footer-bottom .menu li:before {
-    position: absolute;
-    content: '';
-    right: 9px;
-    bottom: 5px;
-    height: 2px;
-    width: 8px;
-    background-color: #8c92ac;
-}
 
 .footer-bottom .menu li:last-child:before {
     display: none;
