@@ -41,72 +41,11 @@
 
 <div class="page-wrapper">
     <!-- Preloader -->
-  
-
-  
+   
     <!-- End Main Header -->
 <?php include "header.php"; ?>
-    <!-- Hidden Sidebar 
-
-    <section class="hidden-sidebar close-sidebar">
-        <div class="wrapper-box">
-            <div class="content-wrapper">
-                <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                <div class="text-widget sidebar-widget">
-                    <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>-->
-                <!-- PDF Widget 
-                <div class="pdf-widget sidebar-widget">
-                    <div class="row">
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                    </div>                            
-                </div>-->
-                <!-- Contact Widget -->
-           
-                <!-- Link Btn 
-                <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-            </div>
-        </div>
-    </section>-->
     
-    <!--Search Popup
-    <div id="search-popup" class="search-popup">
-        <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-        <div class="popup-inner">
-            <div class="overlay-layer"></div>
-            <div class="search-form">
-                <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.php">
-                    <div class="form-group">
-                        <fieldset>
-                            <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                            <input type="submit" value="Search Now!" class="theme-btn">
-                        </fieldset>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>-->
-
-    <!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
-        <!--<div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
-            </div>                
-        </div> -->
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">
@@ -115,9 +54,9 @@
                     </div>
                    <ul class="bread-crumb style-two">
                         <li class="active"><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="symbol.php">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
                         <li><a href="team.php">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="boardmembers.php">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
                     </ul> 
                 </div>                    
             </div>
@@ -140,9 +79,7 @@
                                 <h3>11 <span>+ Years</span></h3>
                                 <h5>Experience In Education</h5>
                             </div>
-                            
                         </div>
-                        
                     </div>
                     <div class="col-lg-8">
                         <div class="image mb-30"><img src="assets/images/faculty.JPG" alt=""></div>
@@ -150,129 +87,7 @@
                 </div>
             </div>
         </div>
-        <!--<div class="overview">
-            <div class="auto-container">
-                <div class="wrapper-box">
-                    <h2>Global Digital System Corporation has been operating in the USA now, for over 22 years and are part <br>  of a reliable, global integrated network.</h2>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="text">
-                                <p>We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business..</p>
-                                <p>Global Digital System Corporation has been the premiere agency to assist corporations with their global sales, resource, logistic, and import & export needs. Alongside our highly qualified workforce, we believe our track record and amassed relationships not only from our current clientele base, a growing network of over 3000 members, but also our experience as owned by the China, India and USA could be beneficial to any business with interest to expand.</p>
-                            </div>
-                            <div class="author-info wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="video-btn">
-                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i></a>
-                                </div>
-                                <div class="signature"><img src="assets/images/sign.PNG" alt=""></div>
-                                <div>
-                                    <div class="author-title">Abhishek Jain </div>
-                                    <div class="designation">CEO & Founder of Global Digital System Corporation </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="row m-10">-->
-                                <!--Column
-                                <div class="column counter-column col-md-3">
-                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                        <div class="content">
-                                            <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="3000" data-stop="6.5">0</span><span>k</span>
-                                            </div>
-                                            <h4>Parcel <br> Delivered</h4>
-                                            <h5>Total</h5>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!--Column
-                                <div class="column counter-column col-md-3">
-                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                        <div class="content">
-                                            <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="3000" data-stop="3.4">0</span><span>k</span>
-                                            </div>
-                                            <h5>Air</h5>
-                                            <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!--Column
-                                <div class="column counter-column col-md-3">
-                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                        <div class="content">
-                                            <div class="icon"><span class="flaticon-cargo-ship-1"></span></div>
-                                            <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="3000" data-stop="1.7">0</span><span>k</span>
-                                            </div>
-                                            <h5>Ocean</h5>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!--Column
-                                <div class="column counter-column col-md-3">
-                                    <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                        <div class="content">
-                                            <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="3000" data-stop="1.4">0</span><span>k</span>
-                                            </div>
-                                            <h5>Road</h5>
-                                            <div class="icon"><span class="flaticon-box-1"></span></div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                            </div>
-                        </div>
-                        <!--<div class="image mb-30"><img src="assets/images/faculty.jpg" style="width: 85%;" alt=""></div>-->
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
-
-     <!-- Whychooseus section four -->
-   <!-- <section class="whychooseus-section-four" style="background-image: url(assets/images/background/bg-23.jpg);">
-        <div class="auto-container">
-            <div class="sec-title light text-center">
-                <div class="sub-title">Why Choose Us</div>
-                <h2> Reasons Why to Choose Our <br> Freight Services</h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-shield"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Trasparent Pricing</h4>
-                     
-                        <div class="count">01</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-delivery"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>On - Time Delivery</h4>
-                        
-                        <div class="count">02</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-box"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Real Time Tracking</h4>
-                     
-                        <div class="count">03</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-24-hours"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>24/7 Online Support</h4>
-                       
-                        <div class="count">04</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!-- History -->
     <section class="about-section" style="background-color: #f8f9fa; margin-bottom: 100px; margin-top: -100px;">

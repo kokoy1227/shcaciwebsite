@@ -54,12 +54,6 @@
 
     <!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
-        <!--<div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
-            </div>                
-        </div> -->
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">
@@ -68,9 +62,9 @@
                     </div>
                    <ul class="bread-crumb style-two">
                         <li><a href="about.php">About SHCACI<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="history.html">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="symbol.php">SHCACI Symbol<i class="flaticon-up-arrow"></i></a></li>
                         <li class="active"><a href="team.php">Faculty and Staff<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="boardmembers.html">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
+                        <li><a href="boardmembers.php">SHCACI Board Members<i class="flaticon-up-arrow"></i></a></li>
                     </ul> 
                 </div>                    
             </div>
@@ -106,29 +100,6 @@
             </div>
         </div>
     </section>
-
-    <!-- Newsletter 
-    <section class="newsletter-section style-two">
-        <div class="auto-container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <h3><span class="flaticon-email"></span> Subscribe Our Newsletter <br> & Get Updates.</h3>
-                </div>
-                <div class="col-lg-7">
-                    <div class="newsletter-form">
-                        <form class="ajax-sub-form" method="post">
-                            <div class="form-group">
-                                <i class="far fa-envelope-open"></i>
-                                <input type="email" placeholder="Enter Your Email Address..." id="subscription-email">
-                                <button type="submit" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Subscribe</span></button>
-                                <label class="subscription-label" for="subscription-email"></label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>        
-    </section>-->
 
     <?php include "footer.php"; ?>
 
