@@ -122,7 +122,7 @@
                             </div>
                             <div class="card-footer">
 
-                                <div class="link"><a href="single-service.php?id=<?php echo $row['id']; ?>"
+                                <div class="link"><a href="single-activities.php?id=<?php echo $row['id']; ?>"
                                         class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
                             </div>
                         </div>
