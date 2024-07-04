@@ -38,9 +38,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-    <script type='text/javascript'
-        src='https://platform-api.sharethis.com/js/sharethis.js#property=601e75803d01430011c105c8&product=image-share-buttons'
-        async='async'></script>
 
 </head>
 
@@ -54,83 +51,8 @@
         <?php include "header.php"; ?>
         <!--End Header Upper-->
 
-
-        <!-- Hidden Sidebar -->
-        <section class="hidden-sidebar close-sidebar">
-            <div class="wrapper-box">
-                <div class="content-wrapper">
-                    <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                    <div class="text-widget sidebar-widget">
-                        <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                        <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that
-                            they cannot foresees the pain.</div>
-                    </div>
-                    <!-- PDF Widget -->
-                    <div class="pdf-widget sidebar-widget">
-                        <div class="row">
-                            <div class="col-sm-6 column">
-                                <div class="content">
-                                    <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                    <h4>Sender <br> Instructions</h4>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 column">
-                                <div class="content">
-                                    <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                    <h4>Sender <br> Instructions</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Contact Widget -->
-                    <!-- <div class="contact-widget">
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790">(+61) 324 56 789 & 790</a></div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
-                    </div>
-                </div> -->
-                    <!-- Link Btn -->
-                    <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i
-                                    class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-                </div>
-            </div>
-        </section>
-
-        <!--Search Popup-->
-        <div id="search-popup" class="search-popup">
-            <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.php">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value=""
-                                    placeholder="Search Here" required>
-                                <input type="submit" value="Search Now!" class="theme-btn">
-                            </fieldset>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-
         <!-- Page Title -->
         <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
-            <!--<div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
-            </div>                
-        </div> -->
             <div class="auto-container">
                 <div class="content-box">
                     <div class="content-wrapper">
@@ -139,7 +61,6 @@
                         </div>
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#">Pages</a></li>
                             <li>Faq’s</li>
                         </ul>
                     </div>
@@ -156,28 +77,6 @@
                         We Know Your’s</h2>
                 </div>
                 <div class="tab-area">
-                    <!--<ul class="nav nav-tabs tab-btn-style-one" role="tablist">
-                    <li class="nav-item">
-                        <a class="nav-link active" id="tab-one-area" data-toggle="tab" href="#tab-one" role="tab" aria-controls="tab-one" aria-selected="true">
-                            <h4>I am a  Customer <i class="flaticon-up-arrow"></i></h4>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="tab-two-area" data-toggle="tab" href="#tab-two" role="tab" aria-controls="tab-two" aria-selected="false">
-                            <h4>I am a Supplier <i class="flaticon-up-arrow"></i></h4>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="tab-three-area" data-toggle="tab" href="#tab-three" role="tab" aria-controls="tab-three" aria-selected="false">
-                            <h4>I am a Job Applicant <i class="flaticon-up-arrow"></i></h4>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="tab-four-area" data-toggle="tab" href="#tab-four" role="tab" aria-controls="tab-four" aria-selected="false">
-                            <h4>About Company <i class="flaticon-up-arrow"></i></h4>
-                        </a>
-                    </li>
-                </ul> -->
                     <!-- Tab panes -->
                     <div class="tab-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="tab-pane fadeInUp animated active" id="tab-one" role="tabpanel"
@@ -204,233 +103,6 @@
                                     </div>
                                 </li>
                                 <?php  } ?>
-                                <!-- End Block -->
-                            </ul>
-                        </div>
-                        <div class="tab-pane fadeInUp animated" id="tab-two" role="tabpanel" aria-labelledby="tab-two">
-                            <ul class="accordion-box style-two mb-30">
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>01.</strong>
-                                        What warranties do i have for my shipments?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn active">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>02.</strong>
-                                        What is included in your service?
-                                    </div>
-                                    <div class="acc-content current">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>03.</strong>
-                                        What are the usual methods of freight payment in transida?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>04. </strong>
-                                        Can i get payment terms?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- End Block -->
-                            </ul>
-                        </div>
-                        <div class="tab-pane fadeInUp animated" id="tab-three" role="tabpanel"
-                            aria-labelledby="tab-three">
-                            <ul class="accordion-box style-two mb-30">
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>01.</strong>
-                                        What warranties do i have for my shipments?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn active">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>02.</strong>
-                                        What is included in your service?
-                                    </div>
-                                    <div class="acc-content current">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>03.</strong>
-                                        What are the usual methods of freight payment in transida?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>04. </strong>
-                                        Can i get payment terms?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!-- End Block -->
-                            </ul>
-                        </div>
-                        <div class="tab-pane fadeInUp animated" id="tab-four" role="tabpanel"
-                            aria-labelledby="tab-four">
-                            <ul class="accordion-box style-two mb-30">
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>01.</strong>
-                                        What warranties do i have for my shipments?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn active">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>02.</strong>
-                                        What is included in your service?
-                                    </div>
-                                    <div class="acc-content current">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>03.</strong>
-                                        What are the usual methods of freight payment in transida?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <!--Accordion Block-->
-                                <li class="accordion block">
-                                    <div class="acc-btn">
-                                        <div class="icon-outer"><span class="icon icon_plus far fa-plus"></span> <span
-                                                class="icon icon_minus far fa-plus "></span></div><strong>04. </strong>
-                                        Can i get payment terms?
-                                    </div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Equal blame belongs to those who fail in their duty
-                                                through weaknes of will which is the same as saying through shrinking
-                                                from toil and <br> pain. These cases are perfectly simple and easy to
-                                                distinguish.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
                                 <!-- End Block -->
                             </ul>
                         </div>
