@@ -34,7 +34,7 @@
             <h5 class="pt-2 pb-2" style="color:white;">SCHOOL EVENTS</h5>
 			</li>
 		  <li class="nav-item has-treeview menu-open">
-            <a href="add-services.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
+            <a href="add-activities.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
                <i class="fa fa-plus nav-icon"></i>
               <p>
                Add Event
@@ -42,7 +42,7 @@
             </a>
       </li> 
       <li class="nav-item has-treeview menu-open">
-            <a href="view-services.php" class="nav-link <?php if($a==3){ echo 'active'; }?>">
+            <a href="view-activities.php" class="nav-link <?php if($a==3){ echo 'active'; }?>">
                <i class="fa fa-eye nav-icon"></i>
               <p>
                 View Events

@@ -13,8 +13,8 @@
     $blog = mysqli_query($con,"SELECT * FROM blog ORDER BY id ASC LIMIT 6");
 
 
-     //fetch services
-    $services = mysqli_query($con,"SELECT * FROM services ORDER BY id DESC LIMIT 3");
+     //fetch activities
+    $activities = mysqli_query($con,"SELECT * FROM activities ORDER BY id DESC LIMIT 3");
 
 ?>
 
@@ -25,7 +25,7 @@
 <head>
 <meta charset="utf-8">
 <title><?php echo $setting['site_name']; ?></title>
-<meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
+<meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping activities most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -231,9 +231,8 @@
     </section>
     <!-- End Bnner Section -->
 
-    <!-- Services Section -->
-    <!-- serivice from here -->
-         <section class="services-section style-two ">
+    <!-- activities Section -->
+         <section class="service-section style-two ">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">School Activities</div>
@@ -260,13 +259,13 @@
       <div class="container pb-5">
           <div class="row ">
               <?php
-                        while($row=mysqli_fetch_array($services)){
+                        while($row=mysqli_fetch_array($activities)){
                     ?>
               <div class="col-md-4 zoom">
                    
                     <div class="card-deck">
                         <div class="card">
-                            <img class="card-img-top" style="height:270px;" src="admin/images/services/<?php echo $row['img']; ?>" alt="Card image cap">
+                            <img class="card-img-top" style="height:270px;" src="admin/images/activities/<?php echo $row['img']; ?>" alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title"><b><a href="single-service.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
                               <p class="card-text"><?php echo $row['short']; ?></p>
@@ -805,7 +804,7 @@
 
 
   <!-- Servcies section two -->
-        <section class="services-section-two style-two mx-30">
+        <section class="service-section-two style-two mx-30">
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <div class="sub-title">ACCREDITATIONS</div>
@@ -847,7 +846,7 @@
         </section>
         
     <!-- Blog Section -->
-    <section class="services-section style-two ">
+    <section class="service-section style-two ">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">News and Updates</div>

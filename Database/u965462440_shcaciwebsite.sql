@@ -264,10 +264,10 @@ INSERT INTO `package` (`id`, `name`, `type`, `location`, `price`, `day`, `img`, 
 -- --------------------------------------------------------
 
 --
--- Table structure for table `services`
+-- Table structure for table `activities`
 --
 
-CREATE TABLE `services` (
+CREATE TABLE `activities` (
   `id` int(11) NOT NULL,
   `title` varchar(1000) DEFAULT NULL,
   `short` varchar(1500) DEFAULT NULL,
@@ -279,10 +279,10 @@ CREATE TABLE `services` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 --
--- Dumping data for table `services`
+-- Dumping data for table `activities`
 --
 
-INSERT INTO `services` (`id`, `title`, `short`, `descrip`, `img`, `url`, `date`, `status`) VALUES
+INSERT INTO `activities` (`id`, `title`, `short`, `descrip`, `img`, `url`, `date`, `status`) VALUES
 (36, '10th Foundation Day', 'We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA.', '<p open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\" style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: none; outline: none; line-height: inherit;\">We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA.  Most of our channel partner are based into USA, India and China.<br></p>', '315529313420790821_413472894379788_3242387012980551914_n.jpg', NULL, 'Wed 26 Jun 2024', '0'),
 (37, 'Buwan ng Wika', 'We are one of the best serving logistics company. Here, the clients get real-time pricing. The price for logistics transport service from USA, Canada, India & China', '<p open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\" style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: none; outline: none; line-height: inherit;\">We are one of the best serving logistics company. Here, the clients get real-time pricing. The price for logistics transport service from USA, Canada, India & China with shipping facilities with on-time deliveries in all the major areas around the country.Â <br></p>', '87377098461ccfd7c-1f02-412e-9de1-e7390520e597.jpg', NULL, 'Tue 25 Jun 2024', '0'),
 (38, 'Graduation Day', 'We offer Home delivery service Service, the basic services for handling deliveries in express and cargo mode globally.', '<p open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\" style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: none; outline: none; line-height: inherit;\">We offer Home delivery service Service, the basic services for handling deliveries in express and cargo mode globally. There are two services offered under this: Domestic Express Services for delivering documents and small parcels.Â  And Big container & shipment services.<br></p>', '590239451DSC_5715.JPG', NULL, 'Tue 25 Jun 2024', '0');

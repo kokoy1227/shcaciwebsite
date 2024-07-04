@@ -68,7 +68,7 @@
                                                 <li><a href="boardmembers.html">SHCACI Board Members</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="service.php">Activities</a></li>
+                                        <li class="dropdown"><a href="activities.php">Activities</a></li>
                                         <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li class="dropdown"><a href="#">Admission</a>

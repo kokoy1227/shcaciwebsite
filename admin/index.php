@@ -85,7 +85,7 @@ border: 1px solid rgba(255, 255, 255, 0.09);"
                 <?php
 include_once('conn.php');
 
-$sql="SELECT count(id) FROM services";
+$sql="SELECT count(id) FROM activities";
 $total_count1=0;
 
 $result1=mysqli_query($con,$sql);
