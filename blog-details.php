@@ -48,17 +48,15 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&amp;family=Yantramanav:wght@300;400;500;700;900&amp;display=swap"
         rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+        <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+        <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-    <script type="text/javascript"
-        src="https://platform-api.sharethis.com/js/sharethis.js#property=601e75803d01430011c105c8&product=image-share-buttons"
-        async="async"></script>
+
 </head>
 
 <body>
@@ -69,81 +67,10 @@
         <?php include "header.php"; ?>
         <!-- End Main Header -->
 
-        <!-- Hidden Sidebar -->
-        <section class="hidden-sidebar close-sidebar">
-            <div class="wrapper-box">
-                <div class="content-wrapper">
-                    <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                    <div class="text-widget sidebar-widget">
-                        <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                        <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that
-                            they cannot foresees the pain.</div>
-                    </div>
-                    <!-- PDF Widget -->
-                    <div class="pdf-widget sidebar-widget">
-                        <div class="row">
-                            <div class="col-sm-6 column">
-                                <div class="content">
-                                    <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                    <h4>Sender <br> Instructions</h4>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 column">
-                                <div class="content">
-                                    <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                    <h4>Sender <br> Instructions</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Contact Widget -->
-                    <!--<div class="contact-widget">
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790">(+61) 324 56 789 & 790</a></div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
-                    </div>
-                </div> -->
-                    <!-- Link Btn -->
-                    <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i
-                                    class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-                </div>
-            </div>
-        </section>
-
-        <!--Search Popup-->
-        <div id="search-popup" class="search-popup">
-            <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.php">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value=""
-                                    placeholder="Search Here" required>
-                                <input type="submit" value="Search Now!" class="theme-btn">
-                            </fieldset>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-
+        
         <!-- Page Title -->
         <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
             <div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">SHCACI</div>
-                <div class="text-2">shcaci</div>
-            </div>                
         </div>
             <div class="auto-container">
                 <div class="content-box">
@@ -151,7 +78,7 @@
 
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="blog.php">Blog</a></li>
                             <li><?php echo $fetch['title']; ?></li>
                         </ul>
                     </div>
@@ -190,47 +117,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="post-pagination">
-                        <div class="prev-post">
-                            <h5><i class="flaticon-right-arrow-6"></i> Prev Post</h5>
-                            <div class="post" style="background-image: url(assets/images/resource/news-26.jpg);">
-                                <div class="content">
-                                    <div class="date"><i class="far fa-calendar"></i> 25 Jul 2020</div>
-                                    <h4><a href="blog-details.php">Named a Finalist For Year 2019 Best Choice Award</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="all-blog"><a href="blog.php"><i class="flaticon-grid"></i></a></div>
-                        <div class="next-post">
-                            <h5> Next Post<i class="flaticon-right-arrow-6"></i></h5>
-                            <div class="post" style="background-image: url(assets/images/resource/news-26.jpg);">
-                                <div class="content">
-                                    <div class="date"><i class="far fa-calendar"></i> 14 May 2020</div>
-                                    <h4><a href="blog-details.php">Conditions for Applying C / O for <br>Transited Goods</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
-                        <!-- <div class="author-box">
-                        <div class="image"><img src="assets/images/resource/author-1.jpg" alt=""></div>
-                        <h4>Paul Anderson</h4>
-                        <div class="text">Denouncing pleasure and praising pain was born and I will give you a work complete all account of the system and expound.</div>
-                        <h5><a href="#">Visit: http://my.blog.com</a></h5>
-                    </div>
-                    <div class="comments-area">
-                        <div class="group-title"><h3>Comments</h3></div>
-                        
-                        <div class="comment-box">
-                            <div class="comment">
-                                <div class="author-thumb"><img src="assets/images/resource/author-12.jpg" alt=""></div>
-                                <div class="comment-inner">
-                                    <div class="comment-info">Steven Rich, <span class="date">February 28, 2020 [ 11.00am]</span></div>
-                                    <div class="text">On the other hand, we denounce with righteous indignation  dislike men which toil and some great pleasure.</div>
-                                    <a class="reply-comment-btn" href="#"><i class="flaticon-reply"></i> Reply</a>
-                                </div>
-                            </div>
-                        </div> -->
+        
 
                     </div>
                     <aside class="col-lg-4 sidebar">
@@ -291,24 +178,6 @@
                                     <?php  } ?>
                                 </div>
                             </div>
-                            <!-- Tag-cloud Widget -->
-                            <div class="widget tag-cloud-widget">
-                                <h4 class="widget_title">Tag Cloud</h4>
-                                <ul class="clearfix">
-                                    <li><a href="#">Teacher</a></li>
-                                    <li><a href="#">Student</a></li>
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Management</a></li>
-                                    <li><a href="#">Ocean</a></li>
-                                    <li><a href="#">Offers</a></li>
-                                    <li><a href="#">Safety</a></li>
-                                    <li><a href="#">Shipment</a></li>
-                                    <li><a href="#">Transportation</a></li>
-                                    <li><a href="#">Warehouse</a></li>
-                                </ul>
-                            </div>
-                            <!-- Advertisement Widget -->
-
                         </div>
                     </aside>
                 </div>
