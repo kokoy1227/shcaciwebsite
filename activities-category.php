@@ -7,12 +7,12 @@
     $id = $_GET['id'];
 
     //fetch blogs 
-    $service = mysqli_query($con,"SELECT * FROM services WHERE id=$id");
-    $fetch = mysqli_fetch_array($service);
+    $activities = mysqli_query($con,"SELECT * FROM activities WHERE id=$id");
+    $fetch = mysqli_fetch_array($activities);
 
 
     //fetch recent post
-    $recent = mysqli_query($con,"SELECT * FROM services ORDER BY id DESC");
+    $recent = mysqli_query($con,"SELECT * FROM activities ORDER BY id DESC");
 
       //fetch category
 
@@ -32,8 +32,8 @@
 <!-- Mirrored from st.ourhtmldemo.com/new/Transida2/blog-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 08:08:07 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Our Services - <?php echo $setting['site_name']; ?></title>
-<meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping services most suited for their business.">
+<title>Our Activities - <?php echo $setting['site_name']; ?></title>
+<meta name="description" content="We Offer Import & Export assistance foreign businesses in transporting and selling their products in China, India and USA. We connect domestic companies to the international shipping activities most suited for their business.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -160,7 +160,7 @@
                 <div class="col-lg-8">
                     <div class="news-block-four blog-single-post">
                         <div class="inner-box">
-                            <div class="image mb-5"><img src="admin/images/services/<?php echo $fetch['img'];  ?>" alt=""></div>
+                            <div class="image mb-5"><img src="admin/images/activities/<?php echo $fetch['img'];  ?>" alt=""></div>
                             <div class="lower-content">
                                 <div class="top-content">
                                     
@@ -226,7 +226,7 @@
                     <div class="blog-sidebar style-two">
                       
                         <div class="widget widget_categories">
-                            <h4 class="widget_title">Services</h4>
+                            <h4 class="widget_title">Activities</h4>
                             <div class="widget-content">
                                 <ul class="categories-list clearfix">
 

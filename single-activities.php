@@ -101,7 +101,7 @@
                                     <h3><?php echo $fetch['title'];  ?></h3>
                                 </div>    
                                 <div class="text mb-5">
-                                    <p><?php echo $fetch['descrip'];  ?></p>
+                                    <p><?php echo $fetch['short'];  ?></p>
                                 </div>
                             </div>
                         </div>
