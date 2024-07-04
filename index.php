@@ -62,113 +62,8 @@
 
    <?php include "header.php"; ?>
 
-    <!-- Hidden Sidebar 
-    <section class="hidden-sidebar close-sidebar">
-        <div class="wrapper-box">
-            <div class="content-wrapper">
-                <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                <div class="text-widget sidebar-widget">
-                    <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>-->
-                <!-- PDF Widget 
-                <div class="pdf-widget sidebar-widget">
-                    <div class="row">
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                    </div>                            
-                </div>-->
-                <!-- Contact Widget 
-                <div class="contact-widget">
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790">(+61) 324 56 789 & 790</a></div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
-                    </div>
-                </div>-->
-                <!-- Link Btn 
-                <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-            </div>
-        </div>
-    </section>-->
-    
-    <!--Search Popup
-    <div id="search-popup" class="search-popup">
-        <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-        <div class="popup-inner">
-            <div class="overlay-layer"></div>
-            <div class="search-form">
-                <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.php">
-                    <div class="form-group">
-                        <fieldset>
-                            <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                            <input type="submit" value="Search Now!" class="theme-btn">
-                        </fieldset>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>-->
-
     <!-- Bnner Section -->
     <section class="banner-section">
-       <!-- <div class="left-panel">
-            <div class="side-menu-nav sidemenu-nav-toggler"><span class="flaticon-interface"></span>More</div>
-            <div class="option-box">
-                <div class="icon"><span class="flaticon-tracking"></span></div>
-                <h4>Track <br> Shipment</h4>
-                <div class="order-form-area">
-                    <div class="wrapper-box">
-                        <h4>Track Your Shipment</h4>
-                        <form class="order-form">
-                            <div class="form-group">
-                                <input type="text" placeholder="Enter Shipment Number *">
-                            </div>
-                            <div class="form-group">
-                                <select class="selectpicker" name="make">
-                                    <option value="*">Type of Reference *</option>
-                                    <option value=".category-1">Package</option>
-                                    <option value=".category-3">Freight</option>
-                                    <option value=".category-4">Mail of Innovations</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <button type="submit" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Track Now</span></button>
-                            </div>
-                        </form>
-                    </div>                        
-                </div>
-            </div> 
-            <div class="option-box">
-                <a href="pricing-plan.php">
-                    <div class="icon"><span class="flaticon-logistics"></span></div>
-                    <h4>Pricing <br> Plan</h4>
-                </a>
-            </div>
-            <div class="option-box">
-                <a href="grequest-quote.php">
-                    <div class="icon"><span class="flaticon-test"></span></div>
-                    <h4>Get A <br>Quote</h4>
-                </a>
-            </div>
-        </div>-->
         <div class="background-text">
             <div data-parallax='{"x": 100}'>
                 <div class="text-1">SHCACI</div>
@@ -232,7 +127,7 @@
     <!-- End Bnner Section -->
 
     <!-- activities Section -->
-         <section class="service-section style-two ">
+    <section class="service-section style-two " style="margin-top: 100px;">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">School Activities</div>
@@ -256,7 +151,7 @@
 }
 </style>    
     
-      <div class="container pb-5">
+      <div class="container pb-5" style="margin-bottom: 50px;">
           <div class="row ">
               <?php
                         while($row=mysqli_fetch_array($activities)){
@@ -268,7 +163,6 @@
                             <img class="card-img-top" style="height:270px;" src="admin/images/activities/<?php echo $row['img']; ?>" alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title"><b><a href="single-activities.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
-                              <p class="card-text"><?php echo $row['short']; ?></p>
                             </div>
                             <div class="card-footer">
                              
@@ -281,9 +175,6 @@
           </div>
       </div>
     
-    
-
-
     <!-- About Section -->
     <section class="about-section" style="background-image: url(assets/images/background/bg-1.jpg);">
         <div class="auto-container">
@@ -295,41 +186,6 @@
                         <div class="text">At Shepherd's Haven Christian Academy of Cavite, Inc. (SHCACI), we have been dedicated to providing quality education since 2013. Our institution is committed to nurturing the intellectual, spiritual, and social development of our students. We offer a comprehensive curriculum that integrates academic rigor with Christian values, ensuring a well-rounded education. Our experienced and caring faculty work tirelessly to create a supportive and engaging learning environment tailored to each student's unique needs. Additionally, we foster a strong sense of community and encourage active family involvement in the educational process.</div>
                         <a href="about.php" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                     </div>
-                    <!--<div class="row">
-                        <div class="col-md-6">
-                            <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="icon"><span class="flaticon-package"></span></div>
-                                <div class="content">
-                                    <span><h4>Holistic Education</h4></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="icon"><span class="flaticon-goal"></span></div>
-                                <div class="content">
-                                    <span><h4>Faith-Based Learning</h4></span>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="icon-box wow fadeInUp" data-wow-duration="1700ms">
-                                <div class="icon"><span class="flaticon-binoculars"></span></div>
-                                <div class="content">
-                                    <span><h4>Qualified and Caring Faculty</h4></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="icon-box wow fadeInUp" data-wow-duration="1900ms">
-                                <div class="icon"><span class="flaticon-gold"></span></div>
-                                <div class="content">
-                                    <span><h4>Community and Family Engagement</h4></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
                 </div>
                 <div class="col-lg-6">
                     <div class="image wow fadeInRight" data-wow-duration="1500ms"><img src="assets/images/resource/DSC168512.jpg" alt=""></div>
@@ -940,8 +796,6 @@
                                 <div class="sub-title">Location</div>
                                 <h2>Come and visit us!</h2>
                             </div>
-                            <!--<div class="text">Indignation and dislike men who are so beguiled & demoralized by <br> the charms of pleasure of the moment.</div>
-                            <div class="link">-->
                                 <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now</span></a>
                             </div>
                         </div>
@@ -951,8 +805,6 @@
         </div>
     </section>
     
- 
-
     <?php include "footer.php"; ?>
 
 <!--Scroll to top-->
