@@ -267,12 +267,12 @@
                         <div class="card">
                             <img class="card-img-top" style="height:270px;" src="admin/images/activities/<?php echo $row['img']; ?>" alt="Card image cap">
                             <div class="card-body">
-                              <h5 class="card-title"><b><a href="single-service.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
+                              <h5 class="card-title"><b><a href="single-activities.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></b></h5>
                               <p class="card-text"><?php echo $row['short']; ?></p>
                             </div>
                             <div class="card-footer">
                              
-                               <div class="link"><a href="single-service.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
+                               <div class="link"><a href="single-activities.php?id=<?php echo $row['id']; ?>" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
                             </div>
                         </div>
                     </div>    
