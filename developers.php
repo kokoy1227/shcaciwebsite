@@ -37,73 +37,18 @@
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
 
 </head>
 
 <body>
 
 <div class="page-wrapper">
-    <!-- Preloader -->
-    <div class="loader-wrap">
-        <!--<div class="preloader"><div class="preloader-close">Preloader Close</div></div>-->
-        <div class="layer layer-one"><span class="overlay"></span></div>
-        <div class="layer layer-two"><span class="overlay"></span></div>        
-        <div class="layer layer-three"><span class="overlay"></span></div>        
-    </div>
+   
 
    <?php include "header.php"; ?>
     </header>
     <!-- End Main Header -->
-
-    <!-- Hidden Sidebar -->
-    <section class="hidden-sidebar close-sidebar">
-        <div class="wrapper-box">
-            <div class="content-wrapper">
-                <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                <div class="text-widget sidebar-widget">
-                    <div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>
-                <!-- PDF Widget -->
-                <div class="pdf-widget sidebar-widget">
-                    <div class="row">
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                    </div>                            
-                </div>
-                <!-- Contact Widget -->
-                <div class="contact-widget">
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790">(+61) 324 56 789 & 790</a></div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
-                    </div>
-                </div>
-                <!-- Link Btn -->
-                <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-            </div>
-        </div>
-    </section>
-    
 
     <!-- Page Title -->
     <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">

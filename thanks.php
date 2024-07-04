@@ -22,8 +22,8 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&amp;family=Yantramanav:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
+<link rel="icon" href="assets/images/shcaci-logo.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,78 +46,10 @@
   
     <!-- End Main Header -->
 <?php include "header.php"; ?>
-    <!-- Hidden Sidebar -->
-    <section class="hidden-sidebar close-sidebar">
-        <div class="wrapper-box">
-            <div class="content-wrapper">
-                <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
-                <div class="text-widget sidebar-widget">
-                    <div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
-                </div>
-                <!-- PDF Widget -->
-                <div class="pdf-widget sidebar-widget">
-                    <div class="row">
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 column">
-                            <div class="content">
-                                <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                <h4>Sender <br> Instructions</h4>
-                            </div>
-                        </div>
-                    </div>                            
-                </div>
-                <!-- Contact Widget -->
-                <div class="contact-widget">
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790">(+61) 324 56 789 & 790</a></div>
-                    </div>
-                    <div class="icon-box">
-                        <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
-                    </div>
-                </div>
-                <!-- Link Btn -->
-                <div class="link-btn"><a href="#" class="theme-btn btn-style-one style-two"><span><i class="flaticon-up-arrow"></i>Purchase Our Theme </span></a></div>
-            </div>
-        </div>
-    </section>
-    
-    <!--Search Popup-->
-    <div id="search-popup" class="search-popup">
-        <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-        <div class="popup-inner">
-            <div class="overlay-layer"></div>
-            <div class="search-form">
-                <form method="post" action="http://st.ourhtmldemo.com/new/Transida2/index.html">
-                    <div class="form-group">
-                        <fieldset>
-                            <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                            <input type="submit" value="Search Now!" class="theme-btn">
-                        </fieldset>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
-        <div class="background-text">
-            <div data-parallax='{"x": 100}'>
-                <div class="text-1">transida</div>
-                <div class="text-2">transida</div>
-            </div>                
+    <section class="page-title" style="background-image: url(assets/images/background/bg-28.jpg);">
+        <div class="background-text">           
         </div>
         <div class="auto-container">
             <div class="content-box">
@@ -125,12 +57,6 @@
                     <div class="title">
                         <h1>Thanks</h1>
                     </div>
-                   <!--<ul class="bread-crumb style-two">
-                        <li class="active"><a href="about.html">About Company <i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="history.html">Our History <i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="team.html">Leadership Team<i class="flaticon-up-arrow"></i></a></li>
-                        <li><a href="global-networks.html">Global Network <i class="flaticon-up-arrow"></i></a></li>
-                    </ul> -->
                 </div>                    
             </div>
         </div>
@@ -154,58 +80,6 @@
         <div class="overview">
     
     </section>
-
-     <!-- Whychooseus section four -->
-   <!-- <section class="whychooseus-section-four" style="background-image: url(assets/images/background/bg-23.jpg);">
-        <div class="auto-container">
-            <div class="sec-title light text-center">
-                <div class="sub-title">Why Choose Us</div>
-                <h2> Reasons Why to Choose Our <br> Freight Services</h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-shield"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Trasparent Pricing</h4>
-                     
-                        <div class="count">01</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-delivery"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>On - Time Delivery</h4>
-                        
-                        <div class="count">02</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-box"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Real Time Tracking</h4>
-                     
-                        <div class="count">03</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-24-hours"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>24/7 Online Support</h4>
-                       
-                        <div class="count">04</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-
-    <!-- Statement -->
-
-    
-   
-   
-
 
     <!--Main Footer-->
    <?php include "footer.php"; ?>

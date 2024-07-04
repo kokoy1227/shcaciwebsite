@@ -9,28 +9,7 @@
     $images = mysqli_query($con,"SELECT * FROM images ORDER BY id ASC LIMIT 9");
 ?>
 
-    <!-- Newsletter 
-    <section class="newsletter-section style-two">
-        <div class="auto-container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <h3><span class="flaticon-email"></span> Subscribe Our Newsletter <br> & Get Updates.</h3>
-                </div>
-                <div class="col-lg-7">
-                    <div class="newsletter-form">
-                        <form action="subscribe.php" method="post">
-                            <div class="form-group">
-                                <i class="far fa-envelope-open"></i>
-                                <input type="email" placeholder="Enter Your Email Address..."  name="email">
-                                <button type="submit" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow" name="submit"></i>Subscribe</span></button>
-                                <label class="subscription-label" for="subscription-email"></label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>        
-    </section>-->
+    
 <!--Main Footer-->
     <footer class="main-footer">
         <div class="upper-box">
@@ -101,26 +80,7 @@
                                         </div>
                                 <?php }
                                 ?>
-                                        <!--<div class="image">
-                                            <img src="assets/images/gallery/gallery-2.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>
-                                        <div class="image">
-                                            <img src="assets/images/gallery/gallery-3.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-3.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>
-                                        <div class="image">
-                                            <img src="assets/images/gallery/gallery-4.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-4.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>
-                                        <div class="image">
-                                            <img src="assets/images/gallery/gallery-5.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-5.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>
-                                        <div class="image">
-                                            <img src="assets/images/gallery/gallery-6.jpg" alt="">
-                                            <div class="overlay-link"><a href="assets/images/gallery/gallery-6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                        </div>-->
+                                       
                                     </div><!-- /.gallery-wrapper -->
                                 </div>
                             </div>
