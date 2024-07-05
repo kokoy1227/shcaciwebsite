@@ -204,7 +204,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 why-choose-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="icon"><span class="count">01</span><i class="fab fa-react"></i></div>
+                        <div class="icon"><span class="count">01</span><i class="fab fa-connectdevelop"></i></div>
                         <div class="content">
                             <h4>Holistic Education:</h4>
                             <h6>We emphasize not only academic excellence but also character development, ensuring students grow intellectually, spiritually, and socially.</h6>
@@ -300,7 +300,7 @@
                             <div class="image" style="background-image: url(assets/images/resource/4207.jpg);">
                             </div>
                             <div class="content">
-                                <div class="icon"><span class="flaticon-spaceship"></span></div>
+                                <div class="icon"><span class="fa fa-ribbon"></span></div>
                                 <h4>10th Foundation Day Celebrations</h4>
                                 <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
                                 <div class="link">
@@ -342,7 +342,7 @@
                             <div class="image" style="background-image: url(assets/images/resource/DSC1194.JPG);">
                             </div>
                             <div class="content">
-                                <div class="icon"><span class="flaticon-spaceship"></span></div>
+                                <div class="icon"><span class="fa fa-medal"></span></div>
                                 <h4>Graduation Day</h4>
                                 <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
                                 <div class="link">
@@ -356,7 +356,7 @@
                             <div class="image" style="background-image: url(assets/images/resource/DCS11351.jpg);">
                             </div> 
                             <div class="content">
-                                <div class="icon"><span class="flaticon-box-1"></span></div>
+                                <div class="icon"><span class="fa fa-trophy-alt"></span></div>
                                 <h4>GenThink Winners</h4>
                                 <div class="text"> The GenThink Academic Quiz Competition is an educational event designed <br> to challenge students on a wide range of academic subjects.. </div>
                                 <div class="link">
