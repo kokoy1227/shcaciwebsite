@@ -69,7 +69,6 @@
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="activities.php">Activities</a></li>
-                                        <li class="dropdown"><a href="faq.php">FAQ</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li class="dropdown"><a href="#">Admission</a>
                                             <ul>
@@ -79,6 +78,7 @@
                                             </ul>
                                             </li>
                                         <li><a href="gallery.php">Gallery</a></li>
+                                        <li><a href="https://schoolmanagementsystem.website/login">Login</a></li>
                                         <div class="language">
                                             <form action="#" class="language-switcher"></form>
                                         </div>
