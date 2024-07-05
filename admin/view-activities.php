@@ -33,7 +33,7 @@ $a=3;
         <!-- /.navbar -->
 
         <!-- Main Sidebar Container -->
-        <?php include "sidebar.php"; ?>a
+        <?php include "sidebar.php"; ?>
 
         <?php
  //$_GET['delete_id'];
