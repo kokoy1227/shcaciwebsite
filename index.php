@@ -302,7 +302,7 @@
                             <div class="content">
                                 <div class="icon"><span class="fa fa-ribbon"></span></div>
                                 <h4>10th Foundation Day Celebrations</h4>
-                                <div class="text">Foundation Day commemorates the establishment of an organization, institution, or community. It is an annual event that celebrates the founding date, often marked by ceremonies, speeches, and various festivities. The day recognizes the history, achievements, and contributions of the founding members and highlights the progress made since its inception.</div>
+                                <div class="text">Foundation Day commemorates the establishment of an organization, institution, or community. Celebrated annually with ceremonies, speeches, and festivities, it recognizes the founding date, history, achievements, and progress made since inception.</div>
                                 <!--<div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                                 </div>-->
@@ -316,7 +316,7 @@
                             <div class="content">
                                 <div class="icon"><span class="fa fa-medal"></span></div>
                                 <h4>Graduation Day</h4>
-                                <div class="text">Graduation Day is a significant milestone marking the completion of a phase in education, such as high school or college. It's a ceremonial event where students receive their diplomas or degrees, often accompanied by speeches, caps and gowns, and celebrations with family and friends. The day symbolizes the transition from one stage of life to the next, highlighting achievements and the beginning of new opportunities.</div>
+                                <div class="text">Graduation Day marks the completion of a phase in education, such as high school or college. Students receive diplomas or degrees, often with speeches, caps and gowns, and celebrations. It symbolizes transitioning to the next stage of life, highlighting achievements and new opportunities.</div>
                                 <!--<div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
                                 </div>-->
