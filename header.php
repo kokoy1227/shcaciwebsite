@@ -72,7 +72,7 @@
                                         <li class="dropdown"><a href="blog.php">News</a></li>
                                         <li class="dropdown"><a href="#">Admission</a>
                                             <ul>
-                                                <li><a href="warehousing.html">Admission Policies</a></li>
+                                                <li><a href="admission-policies.php">Admission Policies</a></li>
                                                 <li><a href="warehousing.html">Admission Requirements</a></li>
                                                 <li><a href="https://forms.gle/w9mvQQqsFnnrW5dt6">Admission Form</a></li>
                                             </ul>
