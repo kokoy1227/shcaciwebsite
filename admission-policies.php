@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-lg-8 content-side order-lg-2">
                     <div class="text-block-two">
-                        <h2><strong>Admission Policies</strong></h2><br>
+                        <h3>Admission Policies</h3><br>
                         <div class="text">Having a well-established admissions process facilitates the smooth handling of all admissions-related transactions at the school. According to SHCACI's handbook, the admissions policies are outlined as follows:</div>
                     </div>                                        
                     <div class="text-block-three">
