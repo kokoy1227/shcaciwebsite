@@ -302,10 +302,10 @@
                             <div class="content">
                                 <div class="icon"><span class="fa fa-ribbon"></span></div>
                                 <h4>10th Foundation Day Celebrations</h4>
-                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
-                                <div class="link">
+                                <div class="text">Foundation Day commemorates the establishment of an organization, institution, or community. It is an annual event that celebrates the founding date, often marked by ceremonies, speeches, and various festivities. The day recognizes the history, achievements, and contributions of the founding members and highlights the progress made since its inception.</div>
+                                <!--<div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
@@ -316,10 +316,10 @@
                             <div class="content">
                                 <div class="icon"><span class="fa fa-medal"></span></div>
                                 <h4>Graduation Day</h4>
-                                <div class="text">The wise man therefore always holds in <br> these matters to this principle. </div>
-                                <div class="link">
+                                <div class="text">Graduation Day is a significant milestone marking the completion of a phase in education, such as high school or college. It's a ceremonial event where students receive their diplomas or degrees, often accompanied by speeches, caps and gowns, and celebrations with family and friends. The day symbolizes the transition from one stage of life to the next, highlighting achievements and the beginning of new opportunities.</div>
+                                <!--<div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
@@ -331,9 +331,9 @@
                                 <div class="icon"><span class="fa fa-trophy-alt"></span></div>
                                 <h4>GenThink Winners</h4>
                                 <div class="text"> The GenThink Academic Quiz Competition is an educational event designed <br> to challenge students on a wide range of academic subjects.. </div>
-                                <div class="link">
+                                <!--<div class="link">
                                     <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
