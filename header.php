@@ -70,7 +70,7 @@
                                         </li>
                                         <li class="dropdown"><a href="activities.php">Activities</a></li>
                                         <li class="dropdown"><a href="blog.php">News</a></li>
-                                        <li class="dropdown"><a href="#">Admission</a>
+                                        <li class="dropdown"><a href="admission-policies.php">Admission</a>
                                             <ul>
                                                 <li><a href="admission-policies.php">Admission Policies</a></li>
                                                 <li><a href="admission-requirements.php">Admission Requirements</a></li>
