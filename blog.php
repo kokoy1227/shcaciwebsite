@@ -203,23 +203,7 @@
                                     <?php } ?>
                                 </div>
                             </div>
-                            <!-- Tag-cloud Widget -->
-                            <div class="widget tag-cloud-widget">
-                                <h4 class="widget_title">Tag Cloud</h4>
-                                <ul class="clearfix">
-                                    <li><a href="#">Cargo</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li><a href="#">Ground</a></li>
-                                    <li><a href="#">Management</a></li>
-                                    <li><a href="#">Ocean</a></li>
-                                    <li><a href="#">Offers</a></li>
-                                    <li><a href="#">Safety</a></li>
-                                    <li><a href="#">Shipment</a></li>
-                                    <li><a href="#">Transportation</a></li>
-                                    <li><a href="#">Warehouse</a></li>
-                                </ul>
-
-                            </div>
+                            
                     </aside>
                 </div>
             </div>
