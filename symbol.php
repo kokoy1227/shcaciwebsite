@@ -64,7 +64,7 @@
     <section class="history-section">
         <div class="auto-container">
             <h3>The School Seal</h3>
-            <div class="image"><img src="assets/images/shcaci-logo.png" alt=""></div>            
+            <div class="image" style="margin-left: 29%; margin-right: auto; "><img src="assets/images/shcaci-logo.png" alt=""></div>            
         </div>
         <div class="tab-area">
             <ul class="nav nav-tabs tab-btn-style-one" role="tablist">
