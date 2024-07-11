@@ -503,7 +503,7 @@
                                 <div class="content">
                                     <div class="icon"><img src="assets/images/icons/2.png" alt=""></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="6500">0</span>
+                                        <span class="count-text" data-speed="3000" data-stop="1120">0</span>
                                     </div>
                                     <div class="text">Happy Students</div>
                                 </div>
@@ -515,7 +515,7 @@
                                 <div class="content">
                                     <div class="icon"><img src="assets/images/icons/1.png" alt=""></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="54">0</span>
+                                        <span class="count-text" data-speed="3000" data-stop="8">0</span>
                                     </div>
                                     <div class="text">Dedicated Teachers</div>
                                 </div>
@@ -527,7 +527,7 @@
                                 <div class="content">
                                     <div class="icon"><img src="assets/images/icons/3.png" alt=""></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="2495">0</span>
+                                        <span class="count-text" data-speed="3000" data-stop="468">0</span>
                                     </div>
                                     <div class="text">Satisfied Parents</div>
                                 </div>
@@ -539,7 +539,7 @@
                                 <div class="content">
                                     <div class="icon"><img src="assets/images/icons/5.png" alt=""></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="5">0</span>
+                                        <span class="count-text" data-speed="3000" data-stop="11">0</span>
                                     </div>
                                     <div class="text">Years in Education</div>
                                 </div>
@@ -551,7 +551,7 @@
                                 <div class="content">
                                     <div class="icon"><img src="assets/images/icons/4.png" alt=""></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="3879">0</span>
+                                        <span class="count-text" data-speed="3000" data-stop="112">0</span>
                                     </div>
                                     <div class="text">Average Enrollees</div>
                                 </div>
