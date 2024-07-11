@@ -59,13 +59,12 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation">
-                                        
                                         <li class="dropdown"><a href="index.php">Home</a></li>
                                         <li class="dropdown"><a href="about.php">About Us</a>
                                             <ul>
-                                                <li><a href="history.html">SHCACI Symbol</a></li>
+                                                <li><a href="symbol.php">SHCACI Symbol</a></li>
                                                 <li><a href="team.php">SHCACI Faculty & Staff</a></li>
-                                                <li><a href="boardmembers.html">SHCACI Board Members</a></li>
+                                                <li><a href="boardmembers.php">SHCACI Board Members</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="activities.php">Activities</a></li>
@@ -79,9 +78,6 @@
                                             </li>
                                         <li><a href="gallery.php">Gallery</a></li>
                                         <li><a href="https://schoolmanagementsystem.website/login">Login</a></li>
-                                        <div class="language">
-                                            <form action="#" class="language-switcher"></form>
-                                        </div>
                                     </ul>
                                 </div>
                             </nav>
