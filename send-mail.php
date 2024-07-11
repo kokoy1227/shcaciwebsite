@@ -6,14 +6,14 @@ $setting = mysqli_query($con,"SELECT * FROM settings where id='1'");
 if (isset($_POST['submit'])) {
 //$to = 'office@website.com';
 $to = $setting_f['email'];
-$subject 	= 'New Enquiry';
+$subject 	= 'New Inquiry';
 $name 		= $_POST["name"];
 $email 		= $_POST["email"];
 $phone		= $_POST["phone"];
 //$subject2	= $_POST["subject"];
 $message2	= $_POST["message"];
 
-$from 		= 'contact@globaldigitalsystemcorporation.com';
+$from 		= 'shcaciwebsite@contact.com';
  
 	
 // To send HTML mail, the Content-type header must be set
