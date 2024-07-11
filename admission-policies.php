@@ -141,8 +141,9 @@
                                 <div class="col-sm-6 column">
                                     <div class="content">
                                         <div class="icon">
-                                            <a href="assets/images/shcaci-logo.png" download></a>
+                                            <a href="assets/images/shcaci-logo.png" download>
                                             <img src="assets/images/icons/icon-8.png" alt="">
+                                            </a>
                                         </div>
                                         <h4>Admission <br> Requirements</h4>
                                     </div>
