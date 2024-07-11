@@ -35,7 +35,7 @@
                                 </select>
                             </form>-->
                         </div>
-                        <div class="phone-number"><i class="flaticon-calling"></i><a href="tel:<?php  echo $setting['phone']; ?>"></a><?php  echo $setting['phone']; ?></div>
+                        <div class="phone-number"><span class="flaticon-calling"><a target="blank" href="contact.php"> Contact Us</span></div>
                     </div>
                 </div>
             </div>
