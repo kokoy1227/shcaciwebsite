@@ -104,12 +104,12 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <div class="sub-title">Get a Quote</div>
-                                <h2>Start Your Shipping</h2>
+                            <div class="sub-title">Location</div>
+                            <h2>Come and visit us!</h2>
                             </div>
                             <!--<div class="text">Indignation and dislike men who are so beguiled & demoralized by <br> the charms of pleasure of the moment.</div>
                             <div class="link">-->
-                                <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Get A Quote</span></a>
+                            <a href="https://forms.gle/w9mvQQqsFnnrW5dt6" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now</span></a>
                             </div>
                         </div>
                     </div>
@@ -126,9 +126,9 @@
     <section class="contact-form-section" id="cform">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title">Drop a line</div>
+                <div class="sub-title">Reach us here</div>
                 <h2>We’re Always Here for You</h2>
-                <div class="text">Please do not hesitate to contact us if you require further information about our logisitc service.</div>
+                <div class="text">Please do not hesitate to contact us if you have questions about our school.</div>
             </div>
             <!--Contact Form-->
             <div class="contact-form">

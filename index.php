@@ -740,7 +740,7 @@
                                 <div class="sub-title">Location</div>
                                 <h2>Come and visit us!</h2>
                             </div>
-                                <a href="#cform" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now</span></a>
+                                <a href="https://forms.gle/w9mvQQqsFnnrW5dt6" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enroll Now</span></a>
                             </div>
                         </div>
                     </div>
