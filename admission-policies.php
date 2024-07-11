@@ -130,20 +130,21 @@
                 <aside class="col-lg-4">
                     <div class="service-sidebar">
                         <div class="widget pdf-widget">
-                            <h4 class="widget_title">Downloads</h4>
-                            <div class="text">Provide reference materials for customers
-                                logistics operations.</div>
+                            <h4 class="widget_title">Downloadable Forms</h4>
                             <div class="row">
                                 <div class="col-sm-6 column">
                                     <div class="content">
                                         <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                        <h4>Sender <br> Instructions</h4>
+                                        <h4>Admission <br> Policies</h4>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 column">
                                     <div class="content">
-                                        <div class="icon"><img src="assets/images/icons/icon-8.png" alt=""></div>
-                                        <h4>Sender <br> Instructions</h4>
+                                        <div class="icon">
+                                            <a href="assets/images/shcaci-logo.png" download></a>
+                                            <img src="assets/images/icons/icon-8.png" alt="">
+                                        </div>
+                                        <h4>Admission <br> Requirements</h4>
                                     </div>
                                 </div>
                             </div>                            
