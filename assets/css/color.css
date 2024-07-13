@@ -5,212 +5,212 @@
 /* Color */
 a:hover,
 a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .scroll-to-top:hover,
 .preloader-close,
 .search-popup .search-form fieldset input[type="submit"] {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .scroll-to-top {
-    color: #DF5600;
-    border: 2px dashed #DF5600;
+    color: #06cf02;
+    border: 2px dashed #06cf02;
 }
 
 .btn-style-one.style-two i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .btn-style-one.style-two:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .btn-style-one.style-two:hover {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .btn-style-one {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .header-top .social-icon li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-top .location span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-top .phone-number i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-top .mail-address i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li>a:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li>a:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li.current>a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li>ul>li>a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-menu .navigation>li>ul>li>ul>li>a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-upper .navbar-right-info .sign-in a i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-upper #polyglotLanguageSwitcher a.current:link, 
 .header-upper #polyglotLanguageSwitcher a.current:visited, 
 .header-upper #polyglotLanguageSwitcher a.current:active {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-upper #polyglotLanguageSwitcher span.trigger:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .hidden-sidebar-close {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .contact-widget .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .banner-section .banner-slider-nav.style-two .banner-slider-button-next {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .left-panel .side-menu-nav span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .left-panel .option-box .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .left-panel .option-box .order-form-area .order-form .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .left-panel .option-box .btn-style-one:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .sec-title .sub-title {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .sec-title .sub-title:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .sec-title .sub-title:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-block-one .link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-block-one .link i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-block-one .inner-box:hover .image:after {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .readmore-link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .readmore-link i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-section .icon-box:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-section .icon-box:hover .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .why-choose-block .inner-box .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .why-choose-block .inner-box:hover .icon:before {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .why-choose-block .inner-box:hover .icon:after {
-    background-color: #DF5600;
-    border-color: #DF5600;
+    background-color: #06cf02;
+    border-color: #06cf02;
 }
 
 .why-choose-block .inner-box .count {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .work-process-block .inner-box:hover .count:before {
-    border: 20px dotted #DF5600;
+    border: 20px dotted #06cf02;
 }
 
 .work-process-block .inner-box:hover .count {    
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .work-process-block .icon {
-    border: 2px solid #DF5600;
-    color: #DF5600;
+    border: 2px solid #06cf02;
+    color: #06cf02;
 }
 
 .work-process-block .icon:before {
-    border-bottom-color: #DF5600;
+    border-bottom-color: #06cf02;
 }
 
 .industries-covered .text-block .content .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .industries-covered .owl-theme .owl-nav .owl-prev:hover:after,
 .industries-covered .owl-theme .owl-nav .owl-next:hover:after {
-    color: #DF5600;    
+    color: #06cf02;    
 }
 
 .industries-covered .owl-theme .owl-nav .owl-prev:hover,
 .industries-covered .owl-theme .owl-nav .owl-next:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .pricing-block .content li:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .pricing-block .link-box .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .pricing-block.style-two .category-wrapper:before {
@@ -222,937 +222,937 @@ a {
 }
 
 .pricing-block.style-two .category {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .facts-section .counter-column .count-text {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonial-block .quote {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .testimonial-block .rating {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-one .date {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .news-block-one .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-one h3 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-one .overlay .readmore-link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-one .overlay .readmore-link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .branches-section .single-info h4 span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .branches-section .owl-theme .owl-nav .owl-prev:hover:after,
 .branches-section .owl-theme .owl-nav .owl-next:hover:after {
-    color: #DF5600;    
+    color: #06cf02;    
 }
 
 .branches-section .owl-theme .owl-nav .owl-prev:hover,
 .branches-section .owl-theme .owl-nav .owl-next:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .newsletter-section h3 span {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .newsletter-form .btn-style-one i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .newsletter-form .btn-style-one:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .contact-widget.style-two .text span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-widget.style-two .social-icon li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .links-widget ul li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-header.header-style-two .header-top {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .header-left-option .option-box:hover h4 i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-left-option .option-box .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-left-option .option-box .order-form-area .order-form .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-left-option .option-box .btn-style-one:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .banner-section .banner-slider-nav.style-three .banner-slider-button-prev:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .banner-section .banner-slider-nav.style-three .banner-slider-button-next:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .banner-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .style-two.footer-bottom .bg:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-widget .readmore-link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-widget .download-pdf a {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .footer-top .newsletter-form-two button:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-two .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-two .date {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .testimonial-block-two .designation {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonial-block-two .quote {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .testimonial-block-two .inner-box:after {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .whychooseus-block-two .icon i {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .whychooseus-block-two .inner-box:hover .icon:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .whychooseus-block-two .inner-box:before {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .project-block .link-btn a {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .project-block .link-btn a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .project-block .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .work-process-block-two .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .work-process-block-two .inner-box:hover .count {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .getaquote-section .investor {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .getaquote-section.style-one .getaquote-form .form-group .theme-btn {
-    border: 2px solid #DF5600;
+    border: 2px solid #06cf02;
 }
 
 .getaquote-section.style-one .getaquote-form .form-group .theme-btn:before {
-    background: #DF5600;
+    background: #06cf02;
 } 
 
 .service-block .overlay .link a {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .service-block .content .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .facts-section-two .count-box {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .facts-section-two .content:after {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-section-two .icon-box:hover:before {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .about-section-two .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-section-two .designation {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-section-two .quote {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-two h3 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .readmore-link.style-two:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .header-top .sign-in a i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-top .links a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-style-three .header-top .sign-in a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-upper .contact-info-two .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .services-section-two .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .services-section-two .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
-    border-color: #DF5600;
+	color: #06cf02;
+    border-color: #06cf02;
 }
 
 .facts-section-three .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .facts-section-three .inner:hover .icon {
-    background-color: #DF5600;
-    border-color: #DF5600;
+    background-color: #06cf02;
+    border-color: #06cf02;
 }
 
 .facts-section-three .count-box {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-section-three .link a:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-section-three .link a:hover i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .skills .skill-item .skill-bar .bar-inner .bar:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .video-section h5 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .video-section h5 a:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .video-section h5 a:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .team-blcok .designation {
-    border-left: 3px solid #DF5600;
+    border-left: 3px solid #06cf02;
 }
 
 .team-blcok .social-icon {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .getaquote-section.style-two .social-icon li a:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .pricing-block-two .price {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .pricing-block-two .link-box .theme-btn {
-    border: 2px solid #DF5600;
+    border: 2px solid #06cf02;
 }
 
 .pricing-block-two .link-box .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .pricing-block-two .link-box .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .testimonial-block-three .quote {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .testimonial-block-three .rating span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonials-section-three .testimonial-slider-button-next:hover {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .testimonials-section-three .testimonial-slider-button-prev:hover {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .contact-info-block ul li a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .main-footer.style-three .links-widget ul li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-widget .post .content h4 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-widget .post .content .date i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-widget-two .list li:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .footer-bottom.style-three .social-icon li a:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .footer-bottom.style-three .copyright-text a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-style-four .header-top .links a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-upper .contact-info-three .icon {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .service-block-three .icon {
-    color: #DF5600; 
+    color: #06cf02; 
 }
 
 .service-block-three .link a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .services-section-three .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .services-section-three .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
-    border-color: #DF5600;
+	color: #06cf02;
+    border-color: #06cf02;
 }
 
 .btn-style-one.style-2 i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .btn-style-one.style-2:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-section-two .skills .skill-item .skill-bar .bar-inner .bar {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .about-section-two .skills .skill-item .skill-bar .bar-inner .bar:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .whychooseus-section-three .counter-column .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .whychooseus-section-three .counter-column .count-box {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .whychooseus-block-three .inner-box:before {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .team-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .team-section .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
-    border-color: #DF5600;
+	color: #06cf02;
+    border-color: #06cf02;
 }
 
 .project-block-two .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .project-block-two .link-btn {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .testimonial-block-four .author-thumb:before {
-    border: 3px solid #DF5600;
+    border: 3px solid #06cf02;
 }
 
 .testimonial-block-four .quote {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .testimonial-block-four .designation {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonial-block-four .rating span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonials-section-four .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonials-section-four .owl-theme .owl-nav .owl-next:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-three .date {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .news-block-three .category i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-three h3 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-section-three .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .news-section-three .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
-    border-color: #DF5600;
+	color: #06cf02;
+    border-color: #06cf02;
 }
 
 .cta-section .wrapper-box:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .main-footer.style-four .links-widget ul li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .about-widget-three .readmore-link:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .footer-bottom.style-four .social-icon li a:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .industries-covered-two .nav-tabs.tab-btn-style-one li a .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .industries-covered-two .nav-tabs.tab-btn-style-one li a.active {
-    background: #DF5600;
-    border-color: #DF5600;
+    background: #06cf02;
+    border-color: #06cf02;
 }
 
 .industries-covered-two .theme-btn-two:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .industries-covered-two .theme-btn-two i {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .industries-covered-two .owl-theme .owl-nav .owl-prev:hover:after,
 .industries-covered-two .owl-theme .owl-nav .owl-next:hover:after {
     opacity: 1;
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-info-section-two .owl-theme .owl-nav .owl-prev:hover:after,
 .contact-info-section-two .owl-theme .owl-nav .owl-next:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonials-section-two .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonials-section-two .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
+	color: #06cf02;
 }
 
 .pagination li a:hover i,
 .pagination li a:hover,
 .pagination li a.active {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .widget_categories ul li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .widget_categories span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-widget-two .post:hover .content .date {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .tag-cloud-widget ul li a:hover {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .advertisement-widget .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .advertisement-widget .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-four .date {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .news-block-four .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-four h3 a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-four .post-meta li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-four .social-links-wrapper:hover .icon {
-    background: #DF5600;
-    border-color: #DF5600;
+    background: #06cf02;
+    border-color: #06cf02;
 }
 
 .news-block-four .social-links li a:hover {
-    background-color: #DF5600;
-    border-color: #DF5600;
+    background-color: #06cf02;
+    border-color: #06cf02;
 }
 
 .news-block-four .link-box .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-block-four .link-box .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .blog-sidebar.style-two .widget {
-    border-top: 5px solid #DF5600;
+    border-top: 5px solid #06cf02;
 }
 
 .blog-single-post blockquote .quote-icon {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .blog-single-post .tag a:hover {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .post-pagination .post:hover .content .date {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-section .author-box h5 a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .comments-area .comment-box .reply-comment-btn {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-section .comment-form .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .news-section .comment-form .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .header-style-five .header-upper .language button.btn.dropdown-toggle {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .header-style-five .header-upper .bootstrap-select .dropdown-toggle .filter-option:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-info-section-two .tab-content h4 span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-info-section-two .icon-box .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-form .form-group .theme-btn:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .services-section.style-two .owl-theme .owl-nav .owl-prev:hover:after,
 .services-section.style-two .owl-theme .owl-nav .owl-next:hover:after {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .cta-section-two .theme-btn:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .services-section-two.style-two .service-block-two .image-box .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-sidebar .widget {
-    border-top: 5px solid #DF5600;
+    border-top: 5px solid #06cf02;
 }
 
 .widget_categories-two ul li.active a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .widget_categories-two ul li.active:before {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .widget_categories-two li.active i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .widget_categories-two ul li.active {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .widget_categories-two ul li a:hover {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .getaquote-widget .form-group .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .getaquote-widget .form-group .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-details .text-block {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .service-details .counter-column .count-box {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .service-details .features .icon-box:hover:before {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .service-details .features .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonial-block-five .quote {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .testimonial-block-five .designation {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .testimonial-block-five .rating span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .getaquote-section.style-four .getaquote-form .form-group .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .getaquote-section.style-four .getaquote-form .form-group .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .getaquote-section .note span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .accordion-box .block .acc-btn.active .icon-outer {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .accordion-box .block .acc-btn.active strong {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active h4 i,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 i {
     transform: rotate(90deg);
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover {
     background: #fff;
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active  h4,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:before {
-    border: 2px solid #DF5600;
+    border: 2px solid #06cf02;
 }
 
 .filter-tabs {
-    border: 2px dashed #DF5600;
+    border: 2px dashed #06cf02;
 }
 
 .project-block-three .category {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .project-block-three .link-btn a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .project-block-three .link-btn a:hover {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .projects-section-four .theme-btn:before {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .projects-section-four .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .related-projects .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .related-projects .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
+	color: #06cf02;
 }
 
 .project-details h5 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .banner-section-two .link-box a i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .banner-section-two .link-box a {
-    border: 2px solid #DF5600;
-    color: #DF5600;
+    border: 2px solid #06cf02;
+    color: #06cf02;
 }
 
 .banner-section-two .left-panel .option-box .icon {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .history-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .history-section .owl-theme .owl-nav .owl-next:hover:after {
-	color: #DF5600;
-    border-color: #DF5600;
+	color: #06cf02;
+    border-color: #06cf02;
 }
 
 .banner-section-two .text-block h4 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .page-title .content-box .bread-crumb.style-two li.active  a,
 .page-title .content-box .bread-crumb.style-two li:hover a {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .page-title .content-box .bread-crumb.style-two li.active a i,
 .page-title .content-box .bread-crumb.style-two li:hover a i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .page-title .content-box .bread-crumb.style-two li a:before {
-    border: 2px solid #DF5600;
+    border: 2px solid #06cf02;
 }
 
 .contact-info-section-three .nav-tabs.tab-btn-style-one .active h4 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .contact-info-block-two ul li a span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .bottom-content .text span {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .history-block .inner-box:hover {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .history-block .date {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .history-block .date:before {
-    border-bottom: 2px dashed #DF5600;
+    border-bottom: 2px dashed #06cf02;
 }
 
 .history-section .nav-tabs.tab-btn-style-one li.nav-item:after {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .who-we-are-section .experience-year .icon {
-    border: 2px dashed #DF5600;
-    color: #DF5600;
+    border: 2px dashed #06cf02;
+    color: #06cf02;
 }
 
 .who-we-are-section .experience-year h3 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .who-we-are-section .experience-year h5 {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .who-we-are-section .theme-btn:before {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .who-we-are-section .theme-btn i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .who-we-are-section .designation {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .who-we-are-section .video-btn a {
-    background-color: #DF5600;
+    background-color: #06cf02;
 }
 
 .whychooseus-block-four .icon {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .whychooseus-block-four .icon i {
-    background: #DF5600;
+    background: #06cf02;
 }
 
 .certificate-block .inner-box:hover .image:before {
-    border-color: #DF5600;
+    border-color: #06cf02;
 }
 
 .certificate-section .owl-theme .owl-nav .owl-next:hover:after,
 .certificate-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover {
-    color: #DF5600;
-    border-color: #DF5600;
+    color: #06cf02;
+    border-color: #06cf02;
 }
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active h4,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover h4 {
-    color: #DF5600;
+    color: #06cf02;
 } 
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active i,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover i {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 .filter-tabs li.active {
-    color: #DF5600;
+    color: #06cf02;
 }
 
 
